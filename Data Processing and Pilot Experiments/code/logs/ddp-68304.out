@@ -1,0 +1,140 @@
+Loading gnu/11.2.0
+  Loading requirement: binutils/11.2.0
+MASTER_ADDR: turpancomp0
+WORLD_SIZE: 8
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+[W1126 18:24:28.618539564 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1126 18:24:28.618554244 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1126 18:24:28.522146582 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1126 18:24:28.522161022 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1126 18:24:28.014825617 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1126 18:24:28.014839977 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1126 18:24:28.627168357 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1126 18:24:28.627183357 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1126 18:24:28.750666461 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1126 18:24:28.750687181 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1126 18:24:28.669390271 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1126 18:24:28.669410031 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1126 18:24:29.212701857 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1126 18:24:29.212717817 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1126 18:24:29.607667664 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1126 18:24:29.607681904 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Loading model from /work/m25211/m25211brmn/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit...
+Model loaded successfully!
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 0/8: Processing 1351 samples (indices 0 to 1350) with batch_size=16...
+Rank 0:   0%|          | 0/85 [00:00<?, ?it/s]Rank 0:   1%|          | 1/85 [01:32<2:09:11, 92.28s/it]Rank 0:   2%|▏         | 2/85 [03:01<2:04:50, 90.24s/it]Rank 0:   4%|▎         | 3/85 [04:30<2:02:39, 89.75s/it]Rank 0:   5%|▍         | 4/85 [05:59<2:00:45, 89.45s/it]Rank 0:   6%|▌         | 5/85 [07:28<1:59:09, 89.36s/it]Rank 0:   7%|▋         | 6/85 [08:57<1:57:29, 89.24s/it]Rank 0:   8%|▊         | 7/85 [10:26<1:55:57, 89.20s/it]Rank 0:   9%|▉         | 8/85 [11:55<1:54:25, 89.17s/it]Rank 0:  11%|█         | 9/85 [13:24<1:52:55, 89.15s/it]Rank 0:  12%|█▏        | 10/85 [14:54<1:51:34, 89.26s/it]Rank 0:  13%|█▎        | 11/85 [16:23<1:50:05, 89.27s/it]Rank 0:  14%|█▍        | 12/85 [17:52<1:48:35, 89.25s/it]Rank 0:  15%|█▌        | 13/85 [19:21<1:47:03, 89.22s/it]Rank 0:  16%|█▋        | 14/85 [20:50<1:45:28, 89.13s/it]Rank 0:  18%|█▊        | 15/85 [22:19<1:43:55, 89.08s/it]Rank 0:  19%|█▉        | 16/85 [23:49<1:42:32, 89.17s/it]Rank 0:  20%|██        | 17/85 [25:18<1:41:01, 89.15s/it]Rank 0:  21%|██        | 18/85 [26:47<1:39:34, 89.17s/it]Rank 0:  22%|██▏       | 19/85 [28:16<1:38:09, 89.23s/it]Rank 0:  24%|██▎       | 20/85 [29:46<1:36:42, 89.26s/it]Rank 0:  25%|██▍       | 21/85 [31:15<1:35:08, 89.19s/it]Rank 0:  26%|██▌       | 22/85 [32:44<1:33:45, 89.29s/it]Rank 0:  27%|██▋       | 23/85 [34:13<1:32:14, 89.27s/it]Rank 0:  28%|██▊       | 24/85 [35:43<1:30:55, 89.43s/it]Rank 0:  29%|██▉       | 25/85 [37:12<1:29:16, 89.27s/it]Rank 0:  31%|███       | 26/85 [38:41<1:27:44, 89.23s/it]Rank 0:  32%|███▏      | 27/85 [40:10<1:26:11, 89.16s/it]Rank 0:  33%|███▎      | 28/85 [41:40<1:24:44, 89.19s/it]Rank 0:  34%|███▍      | 29/85 [43:09<1:23:11, 89.13s/it]Rank 0:  35%|███▌      | 30/85 [44:38<1:21:45, 89.18s/it]Rank 0:  36%|███▋      | 31/85 [46:07<1:20:10, 89.09s/it]Rank 0:  38%|███▊      | 32/85 [47:36<1:18:38, 89.02s/it]Rank 0:  39%|███▉      | 33/85 [49:05<1:17:15, 89.14s/it]Rank 0:  40%|████      | 34/85 [50:34<1:15:42, 89.07s/it]Rank 0:  41%|████      | 35/85 [52:03<1:14:15, 89.11s/it]Rank 0:  42%|████▏     | 36/85 [53:32<1:12:45, 89.10s/it]Rank 0:  44%|████▎     | 37/85 [55:01<1:11:13, 89.02s/it]Rank 0:  45%|████▍     | 38/85 [56:30<1:09:46, 89.08s/it]Rank 0:  46%|████▌     | 39/85 [57:59<1:08:14, 89.01s/it]Rank 0:  47%|████▋     | 40/85 [59:29<1:06:50, 89.13s/it]Rank 0:  48%|████▊     | 41/85 [1:00:57<1:05:18, 89.05s/it]Rank 0:  49%|████▉     | 42/85 [1:02:27<1:03:51, 89.10s/it]Rank 0:  51%|█████     | 43/85 [1:03:56<1:02:25, 89.19s/it]Rank 0:  52%|█████▏    | 44/85 [1:05:25<1:00:56, 89.19s/it]Rank 0:  53%|█████▎    | 45/85 [1:06:54<59:22, 89.06s/it]  Rank 0:  54%|█████▍    | 46/85 [1:08:23<57:54, 89.09s/it]Rank 0:  55%|█████▌    | 47/85 [1:09:52<56:26, 89.11s/it]Rank 0:  56%|█████▋    | 48/85 [1:11:22<54:59, 89.16s/it]Rank 0:  58%|█████▊    | 49/85 [1:12:51<53:36, 89.34s/it]Rank 0:  59%|█████▉    | 50/85 [1:14:22<52:18, 89.68s/it]Rank 0:  60%|██████    | 51/85 [1:15:52<50:52, 89.76s/it]Rank 0:  61%|██████    | 52/85 [1:17:21<49:21, 89.73s/it]Rank 0:  62%|██████▏   | 53/85 [1:18:51<47:47, 89.60s/it]Rank 0:  64%|██████▎   | 54/85 [1:20:20<46:15, 89.55s/it]Rank 0:  65%|██████▍   | 55/85 [1:21:50<44:50, 89.68s/it]Rank 0:  66%|██████▌   | 56/85 [1:23:20<43:25, 89.86s/it]Rank 0:  67%|██████▋   | 57/85 [1:24:50<41:53, 89.78s/it]Rank 0:  68%|██████▊   | 58/85 [1:26:20<40:25, 89.83s/it]Rank 0:  69%|██████▉   | 59/85 [1:27:50<38:59, 89.99s/it]Rank 0:  71%|███████   | 60/85 [1:29:20<37:29, 89.98s/it]Rank 0:  72%|███████▏  | 61/85 [1:30:50<35:58, 89.95s/it]Rank 0:  73%|███████▎  | 62/85 [1:32:20<34:30, 90.01s/it]Rank 0:  74%|███████▍  | 63/85 [1:33:50<32:59, 89.98s/it]Rank 0:  75%|███████▌  | 64/85 [1:35:20<31:27, 89.89s/it]Rank 0:  76%|███████▋  | 65/85 [1:36:50<29:58, 89.91s/it]Rank 0:  78%|███████▊  | 66/85 [1:38:20<28:28, 89.94s/it]Rank 0:  79%|███████▉  | 67/85 [1:39:50<27:01, 90.07s/it]Rank 0:  80%|████████  | 68/85 [1:41:20<25:29, 89.97s/it]Rank 0:  81%|████████  | 69/85 [1:42:49<23:55, 89.75s/it]Rank 0:  82%|████████▏ | 70/85 [1:44:20<22:29, 90.00s/it]Rank 0:  84%|████████▎ | 71/85 [1:45:50<21:02, 90.20s/it]Rank 0:  85%|████████▍ | 72/85 [1:47:21<19:33, 90.30s/it]Rank 0:  86%|████████▌ | 73/85 [1:48:52<18:05, 90.44s/it]Rank 0:  87%|████████▋ | 74/85 [1:50:22<16:34, 90.44s/it]Rank 0:  88%|████████▊ | 75/85 [1:51:53<15:04, 90.47s/iLoading model from /work/m25211/m25211brmn/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit...
+Model loaded successfully!
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 2/8: Processing 1351 samples (indices 2702 to 4052) with batch_size=16...
+
+Rank 2: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit_gender_classification_rank_2.csv...
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 5/8: Processing 1351 samples (indices 6755 to 8105) with batch_size=16...
+
+Rank 5: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit_gender_classification_rank_5.csv...
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 7/8: Processing 1351 samples (indices 9457 to 10807) with batch_size=16...
+
+Rank 7: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit_gender_classification_rank_7.csv...
+Loading model from /work/m25211/m25211brmn/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit...
+Model loaded successfully!
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 4/8: Processing 1351 samples (indices 5404 to 6754) with batch_size=16...
+
+Rank 4: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit_gender_classification_rank_4.csv...
+Loading model from /work/m25211/m25211brmn/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit...
+Model loaded successfully!
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 6/8: Processing 1351 samples (indices 8106 to 9456) with batch_size=16...
+
+Rank 6: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit_gender_classification_rank_6.csv...
+t]Rank 0:  89%|████████▉ | 76/85 [1:53:23<13:34, 90.49s/it]Rank 0:  91%|█████████ | 77/85 [1:54:53<12:02, 90.37s/it]Rank 0:  92%|█████████▏| 78/85 [1:56:24<10:32, 90.36s/it]Rank 0:  93%|█████████▎| 79/85 [1:57:54<09:02, 90.38s/it]Rank 0:  94%|█████████▍| 80/85 [1:59:25<07:31, 90.40s/it]Rank 0:  95%|█████████▌| 81/85 [2:00:55<06:01, 90.32s/it]Rank 0:  96%|█████████▋| 82/85 [2:02:25<04:30, 90.26s/it]Rank 0:  98%|█████████▊| 83/85 [2:03:55<03:00, 90.38s/it]Rank 0:  99%|█████████▉| 84/85 [2:05:26<01:30, 90.53s/it]Rank 0: 100%|██████████| 85/85 [2:06:30<00:00, 82.58s/it]Rank 0: 100%|██████████| 85/85 [2:06:30<00:00, 89.30s/it]
+
+Rank 0: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit_gender_classification_rank_0.csv...
+Processing complete on all ranks!
+Individual rank results saved to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit
+Merging results from all ranks...
+Loaded rank 0 results (1351 rows)
+Loaded rank 2 results (1351 rows)
+Loaded rank 4 results (1351 rows)
+Loaded rank 5 results (1351 rows)
+Loaded rank 6 results (1351 rows)
+Loaded rank 7 results (1351 rows)
+Merged CSV saved: /tmpdir/m25211brmn/chef-doeuvre/ddp_results/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit_gender_classification_merged.csv
+Total rows: 8106
+
+DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit RESULTS
+==================================================
+continent accuracy 	10.7575% 
+
+gender accuracy 	34.3203% 
+
+predicted_continent
+Asia                                                                                                                                                                                                                       1744
+Europe                                                                                                                                                                                                                      985
+Africa                                                                                                                                                                                                                      884
+North America                                                                                                                                                                                                               668
+**                                                                                                                                                                                                                          640
+                                                                                                                                                                                                                           ... 
+undetermined (based on the lack of cultural references or language patterns in the lyrics)                                                                                                                                    1
+<no specific words or expressions indicating continent>                                                                                                                                                                       1
+The lyrics don't reference any specific regions, languages, or cultural aspects, so the continent remains unknown. The reasoning is that there's no indication of a specific continent or language style in the lyrics.       1
+unspecified (no cultural references or themes indicating a specific continent)                                                                                                                                                1
+Neutral or unknown                                                                                                                                                                                                            1
+Name: count, Length: 248, dtype: int64
+
+
+predicted_gender
+female                                                                                                                                             4412
+male                                                                                                                                               1641
+**                                                                                                                                                  703
+unknown                                                                                                                                              59
+neutral                                                                                                                                              48
+                                                                                                                                                   ... 
+undetermined.                                                                                                                                         1
+gender_keywords: "belly dance," "dance," "belly dancin," "wandered from helly hansen to mini mansions," "belly dance," "dance," "belly dancin."       1
+babies, babies                                                                                                                                        1
+** <unknown>                                                                                                                                          1
+not determinable                                                                                                                                      1
+Name: count, Length: 196, dtype: int64
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 1/8: Processing 1351 samples (indices 1351 to 2701) with batch_size=16...
+
+Rank 1: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit_gender_classification_rank_1.csv...
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 3/8: Processing 1351 samples (indices 4053 to 5403) with batch_size=16...
+
+Rank 3: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit/DeepSeek-R1-Distill-Qwen-1.5B-bnb-4bit_gender_classification_rank_3.csv...
+finished.

@@ -1,0 +1,670 @@
+index,song_title,artist,original_gender,original_continent,source,lyrics,predicted_gender,predicted_continent,gender_keywords,gender_reasoning,continent_keywords,continent_reasoning,raw_model_response
+8106,Liefdesversie,Coenie De Villiers,Male,Africa,wasabi,"When the hunters of the dark forest
+Trace a blood trail through the snowdrift
+Can you come lie by me
+When the wolves howl at the fawns
+And the winter sun hides in your blood
+Can you come lie by me
+
+But when the tender spring stirs
+In the limbo of the earth
+Will you give me a little child
+With soft hair and soft eyes
+Like the velvet tuft
+Of a reindeer",male,Europe,"""huntsmen"", ""blood trail"", ""dark forest"", ""winter sun"", ""reindeer""","The use of words like ""hunters"", ""blood trail"", and ""dark forest"" suggests a strong, masculine theme, implying a male writer. The imagery of a ""winter sun"" also evokes a sense of rugged, natural environments often associated with masculine perspectives. The writer's request to ""lie by me"" also implies a more aggressive or dominant tone, further supporting a male writer.","""reindeer"", ""winter"", ""snowdrift"", ""dark forest""","The mention of ""reindeer"" and ""winter"" suggests a Northern European or Scandinavian setting, likely referencing the cultural traditions of countries such as Norway or Finland. The ""dark forest"" and ""snowdrift"" also evoke a cold, wintry landscape typical of Northern Europe.","LYRICS: When the hunters of the dark forest 
+Trace a blood trail through the snowdrift 
+Can you come lie by me 
+When the wolves howl at the fawns 
+And the winter sun hides in your blood 
+Can you come lie by me 
+But when the tender spring stirs 
+In the limbo of the earth 
+Will you give me a little child 
+With soft hair and soft eyes 
+Like the velvet tuft 
+Of a reindeer
+
+GENDER: male
+GENDER_KEYWORDS: ""huntsmen"", ""blood trail"", ""dark forest"", ""winter sun"", ""reindeer""
+GENDER_REASONING: The use of words like ""hunters"", ""blood trail"", and ""dark forest"" suggests a strong, masculine theme, implying a male writer. The imagery of a ""winter sun"" also evokes a sense of rugged, natural environments often associated with masculine perspectives. The writer's request to ""lie by me"" also implies a more aggressive or dominant tone, further supporting a male writer.
+
+CONTINENT: Europe
+CONTINENT_KEYWORDS: ""reindeer"", ""winter"", ""snowdrift"", ""dark forest""
+CONTINENT_REASONING: The mention of ""reindeer"" and ""winter"" suggests a Northern European or Scandinavian setting, likely referencing the cultural traditions of countries such as Norway or Finland. The ""dark forest"" and ""snowdrift"" also evoke a cold, wintry landscape typical of Northern Europe."
+8107,Rock Your Body,Ryan Belhsen,Male,Africa,wasabi,"“Rock Your Body” is the fifth single by Oussama Belhcen from his third studio album “Dayman released May 4, 2012. The single is produced by the Moroccan producer, rapper and L-Boyz Record founder Fahd Lil. I wanna rock, rock your body, Like, like that, I wanna rock, rock your body, Like, like that, I wanna rock, rock your body, Like, like that, I wanna rock, I wanna rock, I wanna rock your body right jst like that, From the bed to the wall, I play the bad, u play the good girl, When you shake that thing, U got my world upside-down, And I would do anything, Jst to make you lemme take you down, Dance, let's dance, we won't stop like we are the robots, Tonight, is our night, we gonna party-party a-a-a-a-all night long, (Pre-Chorus) Oh oh oh ohwho Like that Oh oh oh ohwho Like that Oh oh oh ohwho Like that Oh oh oh ohwho (Silence) I wanna rock, rock your body, Like, like that, I wanna rock, rock your body, Like, like that, I wanna rock, rock your body, Like, like that, I wanna rock, I wanna rock, I wanna rock your body right jst like that, Young ladies, I'm glad you came, No matter what, don't listen to what they say, Turn the music up jst like chris brown said, If you sexy and you know it, lemme see your hands up, (Sooow) Dance, let's dance, we won't stop like we are the robots, Tonight, is our night, we gonna party-party a-a-a-a-all night long, Oh oh oh ohwho Like that Oh oh oh ohwho Like that Oh oh oh ohwho Like that Oh oh oh ohwho I wanna rock, rock your body, Like, like that, I wanna rock, rock your body, Like, like that, I wanna rock, rock your body, Like, like that, I wanna rock, I wanna rock, I wanna rock your body right like that, I wanna rock, rock your body... body, I wanna rock, rock your body... body, I wanna rock... body... body, I wanna rock, rock your body... like that, From Ibiza to Chicago, New york to Monaco, L.A. to santiago, Vegas to morocco, Morocco, Morocco, Morocco, Rocco, rocco, rocco, Let's rock it aaayyyy I wanna rock, rock your body, Like, like that, I wanna rock, rock your body, Like, like that, I wanna rock, rock your body, Like, like that, I wanna rock, I wanna rock, I wanna rock your body right like that,",,,,,,,"LYRICS: “Rock Your Body” is the fifth single by Oussama Belhcen from his third studio album “Dayman released May 4, 2012. The single is produced by the Moroccan producer, rapper and L-Boyz Record founder Fahd Lil. I wanna rock, rock your body, Like, like that, I wanna rock, rock your body, Like, like that, I wanna rock, rock your body, Like, like that, I wanna rock, I wanna rock, I wanna rock your body right jst like that, From the bed to the wall, I play the bad, u play the good girl, When you shake that thing, U got my world upside-down, And I would do anything, Jst to make you lemme take you down, Dance, let's dance, we won't stop like we are the robots, Tonight, is our night, we gonna party-party a-a-a-a-all night long, (Pre-Chorus) Oh oh oh ohwho Like that Oh oh oh ohwho Like that Oh oh oh ohwho Like that Oh oh oh ohwho (Silence) I wanna rock, rock your body, Like, like that, I wanna rock, rock your body, Like, like that, I wanna rock, rock your body, Like, like that, I wanna rock, I wanna rock, I wanna rock your body right jst like that, Young ladies, I'm glad you came, No matter what, don't listen to what they say, Turn the music up jst like chris brown said, If you sexy and you know it, lemme see your hands up, (Sooow) Dance, let's dance, we won't stop like we are the robots, Tonight, is our night, we gonna party-party a-a-a-a-all night long, Oh oh oh ohwho Like that Oh oh oh ohwho Like that Oh oh oh ohwho Like that Oh oh oh ohwho I wanna rock, rock your body, Like, like that, I wanna rock, rock your body, Like, like that, I wanna rock, rock your body, Like, like that, I wanna rock, I wanna rock, I wanna rock your body right like that, I wanna rock, rock your body... body, I wanna rock, rock your body... body, I wanna rock... body... body, I wanna rock, rock your body... like that, From Ibiza to Chicago, New york to Monaco, L.A."
+8108,Sweetest Girl,Akon,Male,Africa,wasabi,"Intro: (Wyclef Jean (Lil Wayne)) Some live for the bill Some kill for the bill She wined for the bill Grind for the bill (and she used to be the sweetest girl) Some steal for the bill, if they got to pay they bill (and she used to be the sweetest girl) Tonight Wyclef, Akon, Weezy on the bill Verse 1: (Wyclef Jean) High school she was that girl that make me do the hula hoop around the gym (Just to get a peek again, she's a 10) High school she was That girl that make me do the hula hoop around the gym (Just to get a peek again, she's a 10) Never thought she would come and work for the president Mr. George Washington (where my money at?) She thought he'd call (where my money at?) She had a good day, bad day, sunny day, rainy day All he wanna know is (where my money at?) Closed legs don't get fed, go out there and make my bread All you wanna know is (where my money at?) She ended up in a road car, bruised up, scarred hard All you wanna know is (where my money at?) She thought he'd call (where my money at?) Chorus: (Akon)  Cos I'mma tell you like wu told me Cash rules everything around me Singin' dollar dollar bill yall(dollar, dollar bill yall) Singin' dollar dollar bill yall(dollar, dollar bill yall) Cos I'mma tell you like wu told me Cash rules everything around me Singin' dollar dollar bill yall(dollar, dollar bill yall) Singin' dollar dollar bill yall(dollar, dollar bill yall) Verse 2: (Akon) Pimpin' got harder cos, hoes got smarter On the strip is something they don't wanna be a part of Rather be up in the club shakin' for a dub For triple times the money and spending it like they wanna They got they mind on they money, money on they mind They got they finger on the trigger, hand on the nines See everyday they feel the struggle, but staying on they grind And ain't nobody takin' from us, and that's the bottom line But I know there's a drop in the block You move slow You getting' pressure from cops You don't know not to lay low Because 25 to life is no joke To all my real gorillas thuggin' On top of corners every day strugglin' All the beautiful women getting' money Washin' them dollar bills like laundry Chorus: (Akon)  (x2) Cos I'mma tell you like wu told me Cash rules everything around me Singin' dollar dollar bill yall(dollar, dollar bill yall) Singin' dollar dollar bill yall(dollar, dollar bill yall) Cos I'mma tell you like wu told me Cash rules everything around me Singin' dollar dollar bill yall(dollar, dollar bill yall) Singin' dollar dollar bill yall(dollar, dollar bill yall) Bridge: (Wyclef Jean) Money, money-money-money Money, money-money-money It drives the world crazy Verse 3: (Lil Wayne) (Weezy) She used to be (she used to be the sweetest girl) She used to be the sweetest girl ever Now she like sour ameretta She wears a dress to the T like the letter And if you make it rain she will be under the weather She used to run track back in high school Now she tricks off the track right by school She takes a loss cos she don't wanna see her child lose So respect her, I'll pay up for the time used And then she runs to the pastor And he tells her there will be a new chapter But she feels no different after And then she asks him, (in the background Weezy- Where my money at? Chorus: (Akon)  (x2) Cos I'mma tell you like wu told me Cash rules everything around me Singin' dollar dollar bill yall(dollar, dollar bill yall) Singin' dollar dollar bill yall(dollar, dollar bill yall) Cos I'mma tell you like wu told me Cash rules everything around me Singin' dollar dollar bill yall(dollar, dollar bill yall) Singin' dollar dollar bill yall(dollar, dollar bill yall) Outro: (Wyclef Jean) Some live for the bill Some kill for the bill (where my money at?) She wined for the bill Grind for the bill (where my money at?) Some steal for the bill, if they got to pay the bill (where my money at?) Tonight Wyclef, Akon, Weezy on the bill",male,,"""she"", ""her"", ""that girl",,,,"LYRICS: Some live for the bill, Some kill for the bill, She wined for the bill, Grind for the bill, (and she used to be the sweetest girl) Some steal for the bill, if they got to pay their bill (and she used to be the sweetest girl) Tonight Wyclef, Akon, Weezy on the bill High school she was that girl that make me do the hula hoop around the gym (Just to get a peek again, she's a 10) High school she was That girl that make me do the hula hoop around the gym (Just to get a peek again, she's a 10) Never thought she would come and work for the president Mr. George Washington (where my money at?) She thought he'd call (where my money at?) She had a good day, bad day, sunny day, rainy day All he wanna know is (where my money at?) Closed legs don't get fed, go out there and make my bread All you wanna know is (where my money at?) She ended up in a road car, bruised up, scarred hard All you wanna know is (where my money at?) She thought he'd call (where my money at?) Cos I'mma tell you like wu told me Cash rules everything around me Singin' dollar dollar bill yall(dollar, dollar bill yall) Singin' dollar dollar bill yall(dollar, dollar bill yall) Cos I'mma tell you like wu told me Cash rules everything around me Singin' dollar dollar bill yall(dollar, dollar bill yall) Singin' dollar dollar bill yall(dollar, dollar bill yall) Pimpin' got harder cos, hoes got smarter On the strip is something they don't wanna be a part of Rather be up in the club shakin' for a dub For triple times the money and spending it like they wanna They got they mind on they money, money on they mind They got they finger on the trigger, hand on the nines See everyday they feel the struggle, but staying on they grind And ain't nobody takin' from us, and that's the bottom line But I know there's a drop in the block You move slow You getting' pressure from cops You don't know not to lay low Because 25 to life is no joke To all my...
+
+GENDER: male
+GENDER_KEYWORDS: ""she"", ""her"", ""that girl"
+8109,Arms Of Mary,Nicholis Louw,Male,Africa,wasabi,"The lights shine down the valley, the wind blows up the alley Oh well I wish I was lying in the arms of Mary She took the pains of boyhood, and turned them into feel-good Oh how I wish I was lying in the arms of Mary Mary was the girl who taught me all I had to know She put me right on my first mistake Summer wasn’t gone when I learned all she had to show She really gave all a boy could take So now when I get lonely, still looking for the one and only That’s when I wish I was lying in the arms of Mary The lights shine down the valley, the wind blows up the alley Oh well I wish I was lying in the arms of Mary Lying in the arms of Mary",male,North America,"""boy"", ""boyhood"", ""all a boy could take"", ""the one and only""","The use of masculine terms such as ""boy"" and ""boyhood"" suggests a male writer. Additionally, the expression ""all a boy could take"" implies a male perspective and experience.","""alley"", ""valley"", ""summer""","The use of words like ""alley"" and ""valley"" suggests a setting that is reminiscent of American or Canadian landscapes. The mention of ""summer"" also points towards a Northern Hemisphere location, and the cultural references are consistent with North American culture.","LYRICS: The lights shine down the valley, the wind blows up the alley Oh well I wish I was lying in the arms of Mary She took the pains of boyhood, and turned them into feel-good Oh how I wish I was lying in the arms of Mary Mary was the girl who taught me all I had to know She put me right on my first mistake Summer wasn’t gone when I learned all she had to show She really gave all a boy could take So now when I get lonely, still looking for the one and only That’s when I wish I was lying in the arms of Mary The lights shine down the valley, the wind blows up the alley Oh well I wish I was lying in the arms of Mary Lying in the arms of Mary
+
+GENDER: male  
+GENDER_KEYWORDS: ""boy"", ""boyhood"", ""all a boy could take"", ""the one and only""
+GENDER_REASONING: The use of masculine terms such as ""boy"" and ""boyhood"" suggests a male writer. Additionally, the expression ""all a boy could take"" implies a male perspective and experience.
+
+CONTINENT: North America  
+CONTINENT_KEYWORDS: ""alley"", ""valley"", ""summer""
+CONTINENT_REASONING: The use of words like ""alley"" and ""valley"" suggests a setting that is reminiscent of American or Canadian landscapes. The mention of ""summer"" also points towards a Northern Hemisphere location, and the cultural references are consistent with North American culture."
+8110,De Hofnar,Stef Bos,Male,Africa,wasabi,"I am the jester At the king's court I stand on this stage Beyond the law I act as if I'm afraid of no one But what I feel Is not what I say An opportunist, that's how I was born I do what I'm asked And between the lines of what I sing I am the singer Who sings to live And they'll vomit me out, sooner or later I hide my disgust and hate Yes, I know the king His desires and his life I know his hunger for power And I vomit on his status Because that's what he wants to hear I piss on his throne and he laughs Because I am the court jester Who can say anything As long as it pleases the king The troubadour who can sing anything As long as I entertain the people And I am the whore And you can look at me Look, as long as you pay I am the singer Who sings to live I am loved and hated I am loved and hated Because in the wings, the other jesters Stand ready to see me fall into the gutter A truth, a word can make my head roll If the king doesn't laugh, I'm dead I've spent my whole life refusing to bend for anything So I only bend for the audience And I know that ministers can drink my blood Because I say what I see and I give no credit Because I am the court jester Who can say anything As long as it pleases the king The troubadour who can sing anything As long as I entertain the people I am the whore You can look at me Look, as long as you pay I am the singer As long as the world exists As long as the world exists And one day, I'll break with everything Then I'll seize the power Then I'll steal the crown Then I'll shout now you're the jester And I am the king From now on, you're dead, plain and simple And then the curtain falls And there will be no applause The king leaves And slams the doors But the other jesters, there in the wings Stand ready like hyenas To tear me apart Because I am the court jester Who can say anything As long as it pleases the king The troubadour who can sing anything As long as I entertain the people I am the whore You can look at me Look, as long as you pay I am the singer Who sings to live And they'll vomit me out, sooner or later I am the singer Who sings to live And they'll vomit me out, sooner or later",male,,"""opportunist"", ""jester"", ""king"", ""whore"", ""bend for the audience""
+GENDER_REASON",,,,"LYRICS: I am the jester At the king's court I stand on this stage Beyond the law I act as if I'm afraid of no one But what I feel Is not what I say An opportunist, that's how I was born I do what I'm asked And between the lines of what I sing I am the singer Who sings to live And they'll vomit me out, sooner or later I hide my disgust and hate Yes, I know the king His desires and his life I know his hunger for power And I vomit on his status Because that's what he wants to hear I piss on his throne and he laughs Because I am the court jester Who can say anything As long as it pleases the king The troubadour who can sing anything As long as I entertain the people And I am the whore And you can look at me Look, as long as you pay I am the singer Who sings to live I am loved and hated I am loved and hated Because in the wings, the other jesters Stand ready to see me fall into the gutter A truth, a word can make my head roll If the king doesn't laugh, I'm dead I've spent my whole life refusing to bend for anything So I only bend for the audience And I know that ministers can drink my blood Because I say what I see and I give no credit Because I am the court jester Who can say anything As long as it pleases the king The troubadour who can sing anything As long as I entertain the people I am the whore You can look at me Look, as long as you pay I am the singer As long as the world exists As long as the world exists And one day, I'll break with everything Then I'll seize the power Then I'll steal the court Then I'll shout now you're the jester And I am the king From now on, you're dead, plain and simple And then the curtain falls And there will be no applause The king leaves And slams the doors But the other jesters, there in the wings Stand ready like hyenas To tear me apart Because I am the court jester Who can say anything As long as it pleases the king The troubadour who can sing anything As long as I entertain the people I am the whore You can look at me Look, as long as you...
+
+GENDER: male
+GENDER_KEYWORDS: ""opportunist"", ""jester"", ""king"", ""whore"", ""bend for the audience""
+GENDER_REASON"
+8111,Samaouma,Richard Bona,Male,Africa,wasabi,"In the beginning, there was only darkness
+In the beginning, Father
+There was only darkness
+The sun rose, and the moon appeared
+Yes, the moon appeared, and the moon showed its light
+The earth was filled with joy and happiness
+Happiness and joy
+The birds sang in the trees
+The rivers flowed and the fish swam
+The wind blew through the trees
+This is our Cameroon, our beautiful land
+We are proud of our heritage
+We dance and sing with joy
+The birds sang in the trees
+The rivers flowed and the fish swam
+The wind blew through the trees
+The waves of the ocean crashed on the shore
+Oh, yes
+The drums beat and the people danced
+With joy in their hearts
+They sang and danced all night
+Gari SENGA MUNA NA MANDA BO NDE MBA NA NI NDENGA NGO
+The sound of the drums echoed through the night
+The people danced and sang
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They danced and sang with joy in their hearts
+The sound of the drums was like thunder
+The people danced and sang all night
+They",female,Africa,"""our Cameroon"", ""we are proud of our heritage"", ""with joy in their hearts"", ""the people danced and sang with joy in their hearts""","The use of inclusive language such as ""our"" and ""we"" suggests a feminine perspective, as it is often associated with a more communal and nurturing tone. Additionally, the emphasis on heritage and the celebration of cultural traditions also aligns with female writers who often focus on family and community.","""Cameroon"", ""drums"", ""the sound of the drums was like thunder"", ""Gari SENGA MUNA NA MANDA BO NDE MBA NA NI NDENGA NGO""","The reference to Cameroon, a country in West Africa, is a clear indicator of the continent of origin. The mention of drums and their association with thunder further supports this classification, as drums are a significant part of African musical heritage. The use of a Cameroonian language expression ""Gari SENGA MUNA NA MANDA BO NDE MBA NA NI NDENGA NGO"" also points to a Cameroonian cultural influence.","LYRICS: In the beginning, there was only darkness... The people danced and sang all night They danced and sang with joy in their hearts... 
+GENDER: female
+GENDER_KEYWORDS: ""our Cameroon"", ""we are proud of our heritage"", ""with joy in their hearts"", ""the people danced and sang with joy in their hearts""
+GENDER_REASONING: The use of inclusive language such as ""our"" and ""we"" suggests a feminine perspective, as it is often associated with a more communal and nurturing tone. Additionally, the emphasis on heritage and the celebration of cultural traditions also aligns with female writers who often focus on family and community.
+
+CONTINENT: Africa
+CONTINENT_KEYWORDS: ""Cameroon"", ""drums"", ""the sound of the drums was like thunder"", ""Gari SENGA MUNA NA MANDA BO NDE MBA NA NI NDENGA NGO""
+CONTINENT_REASONING: The reference to Cameroon, a country in West Africa, is a clear indicator of the continent of origin. The mention of drums and their association with thunder further supports this classification, as drums are a significant part of African musical heritage. The use of a Cameroonian language expression ""Gari SENGA MUNA NA MANDA BO NDE MBA NA NI NDENGA NGO"" also points to a Cameroonian cultural influence."
+8112,Nomeva,Miriam Makeba,Female,Africa,wasabi,"Intro
+What can I do, it's just like that?
+What can I do, it's just like that?
+What can I do, it's just like that?
+What can I do, it's just like that?
+
+Verse
+They see him as just a fool
+They see him as a fool, hey
+They see him as just a fool
+They see him as a fool, hey
+
+A child was left to the elements
+We didn't shield him from the cold
+Hey, this child is loved
+He is tormented in the streets
+I won't be silent, no matter what
+Our sins have found us out
+I won't be silent, no matter what
+Our sins have found us out
+
+Cry, cry for the child (Cry, cry for the child)
+Cry, he was left to the elements (Cry, cry for the child)
+Hey, this child is loved (Hey, he is loved)
+He is tormented in the streets
+I won't be silent, no matter what (I won't be silent)
+Our sins have found us out (They have found us out)
+I won't be silent, no matter what (I won't be silent)
+Our sins have found us out (They have found us out)
+
+Cry, cry for the child (Cry, cry for the child)
+Cry, he was left to the elements (Cry, cry for the child)
+Hey, this child is loved (Hey, he is loved)
+He is tormented in the streets
+I won't be silent, no matter what (I won't be silent)
+Our sins have found us out (They have found us out)
+I won't be silent, no matter what (I won't be silent)
+Our sins have found us out (They have found us out)
+
+Outro
+Mother, yes, yes
+Hey, mother, yes
+Yes, yes, mother
+Hey, mother, yes
+Mother, yes, mother
+Mother, yes, yes
+Yes, yes
+Hey, mother, yes
+Hey",male,Africa,"""They see him as just a fool"", ""I won't be silent, no matter what"", ""Our sins have found us out""","I predicted the writer is male because the lyrics convey a sense of powerlessness and frustration, which is often associated with male perspectives in social justice movements. The use of ""They see him as just a fool"" suggests a detached, observational tone, which is also common in male-written lyrics.","""child was left to the elements"", ""tormented in the streets"", ""Mother"", ""yes, yes""","I predicted Africa as the continent of origin because the lyrics reference a child being left to the elements and tormented in the streets, which suggests a context of poverty and hardship common in many African countries. The use of ""Mother"" as a repeated refrain also implies a strong matriarchal culture, which is prevalent in many African societies.","LYRICS: What can I do, it's just like that? They see him as just a fool, They see him as a fool, hey... Mother, yes, yes
+GENDER: male
+GENDER_KEYWORDS: ""They see him as just a fool"", ""I won't be silent, no matter what"", ""Our sins have found us out""
+GENDER_REASONING: I predicted the writer is male because the lyrics convey a sense of powerlessness and frustration, which is often associated with male perspectives in social justice movements. The use of ""They see him as just a fool"" suggests a detached, observational tone, which is also common in male-written lyrics.
+CONTINENT: Africa
+CONTINENT_KEYWORDS: ""child was left to the elements"", ""tormented in the streets"", ""Mother"", ""yes, yes""
+CONTINENT_REASONING: I predicted Africa as the continent of origin because the lyrics reference a child being left to the elements and tormented in the streets, which suggests a context of poverty and hardship common in many African countries. The use of ""Mother"" as a repeated refrain also implies a strong matriarchal culture, which is prevalent in many African societies."
+8113,Ungakanani,Miriam Makeba,Female,Africa,wasabi,"What are you doing? (Ungangotshane)
+What are you doing? (Ungangotshane)
+What are you doing? (Ungangoboya benkom'uShak'iNkosi yakwaZulu)
+(iNkosi yakwaZulu)
+What are you doing? (Ungangotshane)
+What are you doing? (Ungangotshane)
+What are you doing? (Ungangoboya benkom'uShak'iNkosi yakwaZulu)
+(iNkosi yakwaZulu)
+
+Hey, chief (Raise the spear)
+Hey, chief (Of the whites)
+Hey, chief (Have you seen the Boers gathering?)
+(How do we fight in the dark?)
+(How do we fight in the dark?)
+
+Hey, chief (Raise the spear)
+Hey, chief (Of the whites)
+Hey, chief (Have you seen the Boers gathering?)
+(How do we fight in the dark?)
+(How do we fight in the dark?)",male,Africa,"'Ungangotshane', 'iNkosi yakwaZulu' (terms of respect used in Zulu culture)","The use of 'iNkosi yakwaZulu', which means 'king of the Zulu', suggests a male speaker, as 'Nkosi' is a title typically used for male leaders in Zulu culture.","'Ungangotshane', 'iNkosi yakwaZulu', 'Boers' (reference to a historical group of Dutch settlers in South Africa), 'Zulu' (language and culture)","The use of Zulu words and phrases, such as 'Ungangotshane' and 'iNkosi yakwaZulu', and the reference to the Boers, a historical group in South Africa, indicate that the song is from Africa, likely from South Africa.","LYRICS: What are you doing? (Ungangotshane)  
+GENDER: male  
+GENDER_KEYWORDS: 'Ungangotshane', 'iNkosi yakwaZulu' (terms of respect used in Zulu culture)
+GENDER_REASONING: The use of 'iNkosi yakwaZulu', which means 'king of the Zulu', suggests a male speaker, as 'Nkosi' is a title typically used for male leaders in Zulu culture.
+CONTINENT: Africa
+CONTINENT_KEYWORDS: 'Ungangotshane', 'iNkosi yakwaZulu', 'Boers' (reference to a historical group of Dutch settlers in South Africa), 'Zulu' (language and culture)
+CONTINENT_REASONING: The use of Zulu words and phrases, such as 'Ungangotshane' and 'iNkosi yakwaZulu', and the reference to the Boers, a historical group in South Africa, indicate that the song is from Africa, likely from South Africa."
+8114,Breek De Stilte,Stef Bos,Male,Africa,wasabi,"He's a child like many children
+He's neither more nor less
+But when you talk, he hardly ever says anything back
+He can disappear for the whole day
+In a world full of secrets
+He's restless and always on the run
+He lives alone in his thoughts
+And he seems to be waiting for something
+But the train he's waiting for never passes by
+There are no medicines
+That can make the silence disappear
+And there are still so many children like him
+
+Break the silence, break the silence
+Tear down those walls around them
+Word by word and stone by stone
+If we follow them in their dreams
+To discover where they live
+Perhaps we'll find the way to their heart
+If we try to travel with them
+And they show us the way out
+Perhaps one day they'll find the words
+
+Break the silence, break the silence
+Tear down those walls around them
+Word by word and stone by stone
+
+They're at war with the world
+They build walls around themselves
+Oh, but don't let go, don't give up
+Never leave them alone
+
+Break the silence, break the silence
+Tear down those walls around them
+Word by word and stone by stone",female,Europe,"""he"", ""him"", ""his""","The consistent use of third-person pronouns like ""he"", ""him"", and ""his"" suggests a feminine perspective, as they are commonly associated with more empathetic and nurturing qualities often attributed to women. This inference is also supported by the lyrical focus on understanding and helping a vulnerable child, which is often a theme in female-written songs.","""train"", ""walls"", ""stone""","The use of a train as a metaphor for waiting or escape is a common theme in European literature and music, often reflecting the continent's rich history of industrialization and urbanization. The reference to ""walls"" and ""stone"" may also evoke European architecture and history, particularly the Berlin Wall, which was a powerful symbol of division and separation.","LYRICS: 
+He's a child like many children
+He's neither more nor less
+But when you talk, he hardly ever says anything back
+He can disappear for the whole day
+In a world full of secrets
+He's restless and always on the run
+He lives alone in his thoughts
+And he seems to be waiting for something
+But the train he's waiting for never passes by
+There are no medicines
+That can make the silence disappear
+And there are still so many children like him
+
+Break the silence, break the silence
+Tear down those walls around them
+Word by word and stone by stone
+If we follow them in their dreams
+To discover where they live
+Perhaps we'll find the way to their heart
+If we try to travel with them
+And they show us the way out
+Perhaps one day they'll find the words
+
+Break the silence, break the silence
+Tear down those walls around them
+Word by word and stone by stone
+
+They're at war with the world
+They build walls around themselves
+Oh, but don't let go, don't give up
+Never leave them alone
+
+Break the silence, break the silence
+Tear down those walls around them
+Word by word and stone by stone
+
+GENDER: female  
+GENDER_KEYWORDS: ""he"", ""him"", ""his""  
+GENDER_REASONING: The consistent use of third-person pronouns like ""he"", ""him"", and ""his"" suggests a feminine perspective, as they are commonly associated with more empathetic and nurturing qualities often attributed to women. This inference is also supported by the lyrical focus on understanding and helping a vulnerable child, which is often a theme in female-written songs.
+
+CONTINENT: Europe  
+CONTINENT_KEYWORDS: ""train"", ""walls"", ""stone""  
+CONTINENT_REASONING: The use of a train as a metaphor for waiting or escape is a common theme in European literature and music, often reflecting the continent's rich history of industrialization and urbanization. The reference to ""walls"" and ""stone"" may also evoke European architecture and history, particularly the Berlin Wall, which was a powerful symbol of division and separation."
+8115,Monday Morning In Lagos,Fela Kuti,Male,Africa,wasabi,"Take four
+One, two, three
+Saturday, the end has come, my father has eaten
+Sunday, the end has come, the world has eaten
+Saturday, the end has come, my father has eaten
+Sunday, the end has come, the world has eaten
+
+Monday, there's nothing
+Trouble doesn't want to let me eat, pain doesn't want to let me take
+They have cast their eyes
+Monday, hunger is pressing hard
+(Monday, hunger is pressing hard)
+Monday, hunger is pressing hard
+(Monday, hunger is pressing hard)
+
+If someone strikes and runs away, we will go to court on Monday
+If someone asks me for trouble that I should eat, I will go to court on Monday
+If someone asks me for trouble that I should eat, I will go to court on Monday
+Hunger is pressing hard, it's court on Monday
+(Monday, hunger is pressing hard)
+
+If someone strikes and runs away, we will go to court on Monday
+May no evil come to me, it's court on Monday
+Hunger is pressing hard, it's court on Monday
+(Monday, hunger is pressing hard)
+
+Monday, hunger is pressing hard
+(Monday, hunger is pressing hard)
+Monday
+If someone strikes and runs away, we will go to court on Monday
+Monday
+If someone strikes and runs away, we will go to court on Monday
+Hunger is pressing hard, it's court on Monday
+May no evil come to me, it's court on Monday
+Hunger is pressing hard, it's court on Monday
+
+It's court on Monday
+Whoever wants to eat spice on Monday
+Even if you take a taxi and it falls into the sea
+You will become the king of spice on Monday, the king of spice on Monday
+May no evil come to hunger on spice on Monday
+Spice Monday, eh, eh, eh, oh
+Hey, eh, eh, eh, eh",male,Africa,"'my father','my','me', 'I'","The use of'my father' and'my' suggests a male narrator, as these words are commonly used by men in many cultures. Additionally, the use of'me' and 'I' as the subject of the sentences also suggests a male perspective.","'Monday','spice', 'king",,"LYRICS: Take four
+One, two, three
+Saturday, the end has come, my father has eaten
+Sunday, the end has come, the world has eaten
+Saturday, the end has come, my father has eaten
+Sunday, the end has come, the world has eaten
+
+Monday, there's nothing
+Trouble doesn't want to let me eat, pain doesn't want to let me take
+They have cast their eyes
+Monday, hunger is pressing hard
+(Monday, hunger is pressing hard)
+Monday, hunger is pressing hard
+(Monday, hunger is pressing hard)
+
+If someone strikes and runs away, we will go to court on Monday
+If someone asks me for trouble that I should eat, I will go to court on Monday
+If someone asks me for trouble that I should eat, I will go to court on Monday
+Hunger is pressing hard, it's court on Monday
+(Monday, hunger is pressing hard)
+
+If someone strikes and runs away, we will go to court on Monday
+May no evil come to me, it's court on Monday
+Hunger is pressing hard, it's court on Monday
+(Monday, hunger is pressing hard)
+
+Monday, hunger is pressing hard
+(Monday, hunger is pressing hard)
+Monday
+If someone strikes and runs away, we will go to court on Monday
+Monday
+If someone strikes and runs away, we will go to court on Monday
+Hunger is pressing hard, it's court on Monday
+May no evil come to me, it's court on Monday
+Hunger is pressing hard, it's court on Monday
+
+It's court on Monday
+Whoever wants to eat spice on Monday
+Even if you take a taxi and it falls into the sea
+You will become the king of spice on Monday, the king of spice on Monday
+May no evil come to hunger on spice on Monday
+Spice Monday, eh, eh, eh, oh
+Hey, eh, eh, eh, eh
+
+GENDER: male
+GENDER_KEYWORDS:'my father','my','me', 'I'
+GENDER_REASONING: The use of'my father' and'my' suggests a male narrator, as these words are commonly used by men in many cultures. Additionally, the use of'me' and 'I' as the subject of the sentences also suggests a male perspective.
+
+CONTINENT: Africa
+CONTINENT_KEYWORDS: 'Monday','spice', 'king"
+8116,My Game,Lucky Dube,Male,Africa,wasabi,So I see you' ve got a problem Do you wanna take it outside I' m not the fighting type But go ahead make my day You gonna fight me physically I' m gonna fight you spiritually I' m gonna fight you truthfully If I tell the truth boy You hate me for it And if I tell you lies You call me a good man I' ve got news for you boy Let me tell you this Listen to me Chorus: This is my game I' m gonna play it my way You call yourself The voice of the voiceless But the only time you use your voice Is when you criticise What other people have done We read in the Bible and Understand what it says They shall not judge yeah But why do you do it Rasta Call me a fake Call me anything you wanna Call me boy But what I do is - Jah work This is the people' s work boy You want me to say All the things that you believe in I' m not your puppet I' m not your puppet listen to me I' ve got news for you Chorus till fade,male,Africa,"'boy', 'I', 'you','me'","The lyrics predominantly use masculine pronouns ('he', 'him', 'his'), which suggests a male writer. The use of the word 'boy' also implies a male speaker addressing a male or female listener.","'Rasta', 'Jah', 'Bible'","The lyrics reference Jamaican Patois and Rastafarian culture, which are closely associated with the African diaspora, particularly in Jamaica. The mention of the 'Bible' also suggests a Christian influence, which is common in African cultures. The phrase 'Jah work' is a common Rastafarian expression.","LYRICS: 
+So I see you' ve got a problem Do you wanna take it outside I' m not the fighting type But go ahead make my day You gonna fight me physically I' m gonna fight you spiritually I' m gonna fight you truthfully If I tell the truth boy You hate me for it And if I tell you lies You call me a good man I' ve got news for you boy Let me tell you this Listen to me Chorus: This is my game I' m gonna play it my way You call yourself The voice of the voiceless But the only time you use your voice Is when you criticise What other people have done We read in the Bible and Understand what it says They shall not judge yeah But why do you do it Rasta Call me a fake Call me anything you wanna Call me boy But what I do is - Jah work This is the people' s work boy You want me to say All the things that you believe in I' m not your puppet I' m not your puppet listen to me I' ve got news for you Chorus till fade
+
+GENDER: male
+GENDER_KEYWORDS: 'boy', 'I', 'you','me'
+GENDER_REASONING: The lyrics predominantly use masculine pronouns ('he', 'him', 'his'), which suggests a male writer. The use of the word 'boy' also implies a male speaker addressing a male or female listener.
+
+CONTINENT: Africa
+CONTINENT_KEYWORDS: 'Rasta', 'Jah', 'Bible'
+CONTINENT_REASONING: The lyrics reference Jamaican Patois and Rastafarian culture, which are closely associated with the African diaspora, particularly in Jamaica. The mention of the 'Bible' also suggests a Christian influence, which is common in African cultures. The phrase 'Jah work' is a common Rastafarian expression."
+8117,Beautiful Emilie,Keziah Jones,Male,Africa,wasabi,"You got to talk to someone someday 'Cause when the words are gone it's too late You got to talk to someone someday 'Cause when the words are gone it's too late Communication with thee Put the antenna there I am a function of thee Speaking loud and clear Oh, beautiful Emilie Oh, beautiful Emilie I need an explanation Right now Some good communication Somehow I need a statement from thee About a L shaped room Space imaginary Is an abandoned womb Oh, beautiful Emilie Oh, beautiful Emilie I need an explanation Right now Some good communication Somehow (Whoa, yeah – whoa, yeah-hey) An explanation for thee (Explanation for – thee) ""You made an angel cry"" (Why?) I feel so close to you, there's no me (Close to me, there's no – me) I am a three times ""why?"" (Why?) Why?! (Why?) Why– Do ordinary people Specialize? (Why?) Oh, beautiful Emilie Oh, beautiful Emilie I need an explanation Right now Some good communication Somehow (Oh) – Clarification of thee (Beautiful Emilie) (Oh) – Your love is so unfair (Beautiful Emilie) (Oh) – What is the function of thee... (Beautiful Emilie) (Oh) – When all the song's not there? (Beautiful Emilie) (Oh) – I need an explanation (Beautiful Emilie) (Oh) – Right now (Beautiful Emilie) (Oh) – Some good communication (Beautiful Emilie) (Oh) – Somehow (Beautiful Emilie) (Oh) – I need an explanation (Beautiful Emilie) {*whispered*} (You got to talk to someone someday... 'Cause when the words are gone it's too late...)",female,Europe,"""beautiful Emilie"", ""I need an explanation"", ""some good communication""","The use of the name ""Emilie"" and the phrase ""beautiful"" suggests a feminine touch, indicating that the writer is likely a female. The language and tone used also convey a sense of vulnerability and emotional expression, which are common characteristics associated with female songwriters.","""L shaped room"", ""abandoned womb"", ""your love is so unfair"", ""clarification of thee""","The reference to a ""L shaped room"" and an ""abandoned womb"" suggests a more introspective and poetic style often","LYRICS: You got to talk to someone someday 'Cause when the words are gone it's too late You got to talk to someone someday 'Cause when the words are gone it's too late Communication with thee Put the antenna there I am a function of thee Speaking loud and clear Oh, beautiful Emilie Oh, beautiful Emilie I need an explanation Right now Some good communication Somehow I need a statement from thee About a L shaped room Space imaginary Is an abandoned womb Oh, beautiful Emilie Oh, beautiful Emilie I need an explanation Right now Some good communication Somehow (Whoa, yeah – whoa, yeah-hey) An explanation for thee (Explanation for – thee) ""You made an angel cry"" (Why?) I feel so close to you, there's no me (Close to me, there's no – me) I am a three times ""why?"" (Why?) Why?! (Why?) Why– Do ordinary people Specialize? (Why?) Oh, beautiful Emilie Oh, beautiful Emilie I need an explanation Right now Some good communication Somehow (Oh) – Clarification of thee (Beautiful Emilie) (Oh) – Your love is so unfair (Beautiful Emilie) (Oh) – What is the function of thee... (Beautiful Emilie) (Oh) – When all the song's not there? (Beautiful Emilie) (Oh) – I need an explanation (Beautiful Emilie) (Oh) – Right now (Beautiful Emilie) (Oh) – Some good communication (Beautiful Emilie) (Oh) – Somehow (Beautiful Emilie) (Oh) – I need an explanation (Beautiful Emilie) (*whispered*) (You got to talk to someone someday... 'Cause when the words are gone it's too late...)
+
+GENDER: female
+GENDER_KEYWORDS: ""beautiful Emilie"", ""I need an explanation"", ""some good communication""
+GENDER_REASONING: The use of the name ""Emilie"" and the phrase ""beautiful"" suggests a feminine touch, indicating that the writer is likely a female. The language and tone used also convey a sense of vulnerability and emotional expression, which are common characteristics associated with female songwriters.
+
+CONTINENT: Europe
+CONTINENT_KEYWORDS: ""L shaped room"", ""abandoned womb"", ""your love is so unfair"", ""clarification of thee""
+CONTINENT_REASONING: The reference to a ""L shaped room"" and an ""abandoned womb"" suggests a more introspective and poetic style often"
+8118,Baya Jabula,Miriam Makeba,Female,Africa,wasabi,"Rejoice, they say
+Hey ya ha ya they see, they are amazed by the prophets
+Rejoice, they say
+Hey ya ha ya they see, they are amazed by the prophets
+Rejoice, they say
+Hey ya ha ya they see, they are amazed by the prophets
+Rejoice, they say
+Hey ya ha ya they see, they are amazed by the prophets
+Be glad (They say, rejoice)
+Hey ya ha ya they see, they are amazed by the prophets
+They say, rejoice (Be glad)
+Hey ya ha ya they see, they are amazed by the prophets
+They say, rejoice (Be glad)
+Hey ya ha ya they see, they are amazed by the prophets
+They say, rejoice (Be glad)
+Hey ya ha ya they see, they are amazed by the prophets
+They say, when they rise up
+Hey ya ha ya they see, they are amazed by the prophets
+They say, when they rise up
+Hey ya ha ya they see, they are amazed by the prophets
+They say, when they rise up
+Hey ya ha ya they see, they are amazed by the prophets
+They say, when they rise up
+Hey ya ha ya they see, they are amazed by the prophets
+They say, with the prophets, be glad
+Hey ya ha ya they see, they are amazed by the prophets
+They say, when they rise up
+Hey ya ha ya they see, they are amazed by the prophets
+They say, when they rise up
+Hey ya ha ya they see, they are amazed by the prophets
+They say, rejoice (Be glad)
+Hey ya ha ya they see, they are amazed by the prophets
+They say, rejoice (Be glad)
+Hey ya ha ya they see, they are amazed by the prophets
+They say, rejoice (Be glad)
+Hey ya ha ya they see, they are amazed by the prophets
+They say, rejoice (Be glad)
+Hey ya ha ya they see, they are amazed by the prophets
+They say, rejoice (Be glad)
+Hey ya ha ya they see, they are amazed by the prophets
+They say, rejoice (Be glad)
+Hey ya ha ya they see, they are amazed by the prophets
+They say, when they rise up
+Hey ya ha ya they see, they are amazed by the prophets
+They say, when they rise up
+Hey ya ha ya they see, they are amazed by the prophets
+They say, when they rise up
+Hey ya ha ya they see, they are amazed by the prophets
+Be glad, they say",male,,"""they say",,,,"LYRICS: Rejoice, they say
+Hey ya ha ya they see, they are amazed by the prophets
+Rejoice, they say
+Hey ya ha ya they see, they are amazed by the prophets
+Rejoice, they say
+Hey ya ha ya they see, they are amazed by the prophets
+Rejoice, they say
+Hey ya ha ya they see, they are amazed by the prophets
+Be glad (They say, rejoice)
+Hey ya ha ya they see, they are amazed by the prophets
+They say, rejoice (Be glad)
+Hey ya ha ya they see, they are amazed by the prophets
+They say, rejoice (Be glad)
+Hey ya ha ya they see, they are amazed by the prophets
+They say, rejoice (Be glad)
+Hey ya ha ya they see, they are amazed by the prophets
+They say, when they rise up
+Hey ya ha ya they see, they are amazed by the prophets
+They say, when they rise up
+Hey ya ha ya they see, they are amazed by the prophets
+They say, when they rise up
+Hey ya ha ya they see, they are amazed by the prophets
+They say, with the prophets, be glad
+Hey ya ha ya they see, they are amazed by the prophets
+They say, when they rise up
+Hey ya ha ya they see, they are amazed by the prophets
+They say, when they rise up
+Hey ya ha ya they see, they are amazed by the prophets
+They say, rejoice (Be glad)
+Hey ya ha ya they see, they are amazed by the prophets
+They say, rejoice (Be glad)
+Hey ya ha ya they see, they are amazed by the prophets
+They say, rejoice (Be glad)
+Hey ya ha ya they see, they are amazed by the prophets
+They say, rejoice (Be glad)
+Hey ya ha ya they see, they are amazed by the prophets
+They say, rejoice (Be glad)
+Hey ya ha ya they see, they are amazed by the prophets
+They say, rejoice (Be glad)
+Hey ya ha ya they see, they are amazed by the prophets
+They say, when they rise up
+Hey ya ha ya they see, they are amazed by the prophets
+They say, when they rise up
+Hey ya ha ya they see, they are amazed by the prophets
+They say, when they rise up
+Be glad, they say
+
+GENDER: male
+GENDER_KEYWORDS: ""they say"
+8119,Free Your Soul,Keziah Jones,Male,Africa,wasabi,"We've been conditioned To believe what we said life No wonder we don't know The meaning of ""I"" It means the meaning of you And the things you do Not the clothes you wear Or the talk we share And now pictures that lie Tell us what to buy But never what to do When aall your money's thru So don't be deceived By what your T.V. receives 'cause they'll pasteurize you cold And they'll advertise you sold Chorus Lose all time Love your mind And free your soul Innoncent child turned out wild No more six, six picking up stix This kinda blufunk will make you Trip, dip, shake your hip And put on the Jones train to freedom Now, I've been meaning to draw Some kinda conclusion About the time, the mind And the soul intrusion But the Keziah Jones train of thought Has had to be ""derailed"" and ""defracked"" Do to this groove found Lying across the tracks Chorus x 2 Yeah babe I've been meaning to draw I've been meaning to draw Some kinda conclusion But we've been derailed Derailed and defracked Derailed and defracked Does anybody know what defracked means ? If you do If you do Get on the train Get on the train Get on the train Get on the train Chorus x 3 ""Don't be deceived by what your T.V. receives"" Lose all time Love your mind And free your soul",male,Africa,"'we', 'your', 'babe'","The use of 'we' suggests a collective perspective, which is often associated with male songwriters who may be addressing a group or community. The term 'babe' is also a colloquialism that is often used by male artists in their lyrics.","'blufunk', 'Jones train', 'Keziah Jones'","The use of the term 'blufunk' suggests a connection to African music styles, particularly those that originated in West Africa. Keziah Jones is a Nigerian musician, and the reference to his name likely indicates that the song is drawing inspiration from or paying homage to African music traditions. The term 'Jones train' further reinforces this connection, as it implies a connection to the African diaspora and the musical traditions that have been carried across the Atlantic.","LYRICS: 
+We've been conditioned To believe what we said life No wonder we don't know The meaning of ""I"" It means the meaning of you And the things you do Not the clothes you wear Or the talk we share And now pictures that lie Tell us what to buy But never what to do When aall your money's thru So don't be deceived By what your T.V. receives 'cause they'll pasteurize you cold And they'll advertise you sold Chorus Lose all time Love your mind And free your soul Innoncent child turned out wild No more six, six picking up stix This kinda blufunk will make you Trip, dip, shake your hip And put on the Jones train to freedom Now, I've been meaning to draw Some kinda conclusion About the time, the mind And the soul intrusion But the Keziah Jones train of thought Has had to be ""derailed"" and ""defracked"" Do to this groove found Lying across the tracks Chorus x 2 Yeah babe I've been meaning to draw I've been meaning to draw Some kinda conclusion But we've been derailed Derailed and defracked Derailed and defracked Does anybody know what defracked means? If you do If you do Get on the train Get on the train Get on the train Get on the train Chorus x 3 ""Don't be deceived by what your T.V. receives"" Lose all time Love your mind And free your soul
+
+GENDER: male
+GENDER_KEYWORDS: 'we', 'your', 'babe'
+GENDER_REASONING: The use of 'we' suggests a collective perspective, which is often associated with male songwriters who may be addressing a group or community. The term 'babe' is also a colloquialism that is often used by male artists in their lyrics.
+
+CONTINENT: Africa
+CONTINENT_KEYWORDS: 'blufunk', 'Jones train', 'Keziah Jones'
+CONTINENT_REASONING: The use of the term 'blufunk' suggests a connection to African music styles, particularly those that originated in West Africa. Keziah Jones is a Nigerian musician, and the reference to his name likely indicates that the song is drawing inspiration from or paying homage to African music traditions. The term 'Jones train' further reinforces this connection, as it implies a connection to the African diaspora and the musical traditions that have been carried across the Atlantic."
+8120,Affirmative Action,Lucky Dube,Male,Africa,wasabi,"From where I stand I can see the world Getting smaller and smaller And there'll be no place For people like you Georgie Who still live in the past When you couldn't do things For yourself, you blamed it on apartheid You blamed it on the government and everybody Now is the time to prove yourself If you think affirmative action Is the way out... no way... no way Constitution can be changed From time to time But that does not mean that You don't need no education We are tired of people who Think that affirmative action is the way out And, is another way of putting puppets Where they don't belong I'm so sorry Georgie But the only way to get our economy Strong, is to have An educated nation And if you think affirmative action Is the way out... no way... no way Chorus Education is still the key Even though we have Affirmative action Chorus till fade",male,Africa,"""Georgie"", ""people like you"", ""you"", ""yourself""","The use of the name ""Georgie"" and the second-person pronouns (""you"", ""yourself"") suggests a masculine perspective. The language used is direct and assertive, which is also consistent with a male writer.","""apartheid"", ""affirmative action"", ""education""","The mention of ""apartheid"" suggests a South African context, which is a country in Africa. The discussion of affirmative action and education also resonates with the historical and ongoing social issues in South Africa.","LYRICS: From where I stand I can see the world Getting smaller and smaller And there'll be no place For people like you Georgie Who still live in the past When you couldn't do things For yourself, you blamed it on apartheid You blamed it on the government and everybody Now is the time to prove yourself If you think affirmative action Is the way out... no way... no way Constitution can be changed From time to time But that does not mean that You don't need no education We are tired of people who Think that affirmative action is the way out And, is another way of putting puppets Where they don't belong I'm so sorry Georgie But the only way to get our economy Strong, is to have An educated nation And if you think affirmative action Is the way out... no way... no way Chorus Education is still the key Even though we have Affirmative action Chorus till fade
+GENDER: male
+GENDER_KEYWORDS: ""Georgie"", ""people like you"", ""you"", ""yourself""
+GENDER_REASONING: The use of the name ""Georgie"" and the second-person pronouns (""you"", ""yourself"") suggests a masculine perspective. The language used is direct and assertive, which is also consistent with a male writer.
+CONTINENT: Africa
+CONTINENT_KEYWORDS: ""apartheid"", ""affirmative action"", ""education""
+CONTINENT_REASONING: The mention of ""apartheid"" suggests a South African context, which is a country in Africa. The discussion of affirmative action and education also resonates with the historical and ongoing social issues in South Africa."
+8121,The Hand That Giveth,Lucky Dube,Male,Africa,wasabi,"Verse 1 What type of a rich man are you Who doesn't care about the poor people What type of a rich man are you Who doesn't care for the helpless people What type of a rich man are you Who doesn't care about the poor people What type of a rich man are you Who doesn't care for the helpless people Chorus They're reading the bible and understand what it says It says; Blessed is the hand that giveth Than the one that taketh Blessed is the hand that giveth Than the one that taketh Blessed is the hand that giveth Than the one that taketh Verse 2 Are you feeling the happy When you see another man starving? Are you feeling happy When you see another man with no food? Does it make you feel great, baby To see another man without, baby ? Chorus Blessed is the hand that giveth Than the one that taketh Blessed is the hand that giveth Than the one that taketh Blessed is the hand that giveth Than the one that taketh ?",male,North America,"""rich man"", ""baby"", ""happy""","The use of the term ""rich man"" and the phrase ""baby"" suggests a masculine perspective, as it is a common way for men to refer to each other. Additionally, the tone of the lyrics is confrontational and questioning, which is a trait often associated with male songwriters.","""Bible"", ""hand that giveth"", ""happy"", ""baby""","The lyrics reference the Bible, which is a significant cultural reference in North America. The phrase ""hand that giveth"" is also a common Christian concept. The use of the word ""baby"" also suggests an American English influence. The themes of poverty and social justice are also common in North American music.","LYRICS: 
+What type of a rich man are you Who doesn't care about the poor people What type of a rich man are you Who doesn't care for the helpless people What type of a rich man are you Who doesn't care about the poor people What type of a rich man are you Who doesn't care for the helpless people They're reading the bible and understand what it says It says; Blessed is the hand that giveth Than the one that taketh Are you feeling the happy When you see another man starving? Are you feeling happy When you see another man with no food? Does it make you feel great, baby To see another man without, baby?
+
+GENDER: male
+GENDER_KEYWORDS: ""rich man"", ""baby"", ""happy""
+GENDER_REASONING: The use of the term ""rich man"" and the phrase ""baby"" suggests a masculine perspective, as it is a common way for men to refer to each other. Additionally, the tone of the lyrics is confrontational and questioning, which is a trait often associated with male songwriters.
+
+CONTINENT: North America
+CONTINENT_KEYWORDS: ""Bible"", ""hand that giveth"", ""happy"", ""baby""
+CONTINENT_REASONING: The lyrics reference the Bible, which is a significant cultural reference in North America. The phrase ""hand that giveth"" is also a common Christian concept. The use of the word ""baby"" also suggests an American English influence. The themes of poverty and social justice are also common in North American music."

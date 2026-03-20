@@ -1,0 +1,142 @@
+Loading gnu/11.2.0
+  Loading requirement: binutils/11.2.0
+MASTER_ADDR: turpancomp4
+WORLD_SIZE: 8
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+[W1126 04:20:48.716961530 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1126 04:20:48.716976890 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+You are using the default legacy behaviour of the <class 'transformers.models.llama.tokenization_llama_fast.LlamaTokenizerFast'>. This is expected, and simply means that the `legacy` (previous) behavior will be used so nothing changes for you. If you want to use the new behaviour, set `legacy=False`. This should only be set if you understand what it means, and thoroughly read the reason why this was added as explained in https://github.com/huggingface/transformers/pull/24565 - if you loaded a llama tokenizer from a GGUF file you can ignore this message.
+[W1126 04:20:48.762841882 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1126 04:20:48.762856403 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1126 04:20:48.581305030 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1126 04:20:48.581320110 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+You are using the default legacy behaviour of the <class 'transformers.models.llama.tokenization_llama_fast.LlamaTokenizerFast'>. This is expected, and simply means that the `legacy` (previous) behavior will be used so nothing changes for you. If you want to use the new behaviour, set `legacy=False`. This should only be set if you understand what it means, and thoroughly read the reason why this was added as explained in https://github.com/huggingface/transformers/pull/24565 - if you loaded a llama tokenizer from a GGUF file you can ignore this message.
+You are using the default legacy behaviour of the <class 'transformers.models.llama.tokenization_llama_fast.LlamaTokenizerFast'>. This is expected, and simply means that the `legacy` (previous) behavior will be used so nothing changes for you. If you want to use the new behaviour, set `legacy=False`. This should only be set if you understand what it means, and thoroughly read the reason why this was added as explained in https://github.com/huggingface/transformers/pull/24565 - if you loaded a llama tokenizer from a GGUF file you can ignore this message.
+[W1126 04:20:48.863522897 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1126 04:20:48.863537897 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1126 04:20:48.893182300 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1126 04:20:48.893197460 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+You are using the default legacy behaviour of the <class 'transformers.models.llama.tokenization_llama_fast.LlamaTokenizerFast'>. This is expected, and simply means that the `legacy` (previous) behavior will be used so nothing changes for you. If you want to use the new behaviour, set `legacy=False`. This should only be set if you understand what it means, and thoroughly read the reason why this was added as explained in https://github.com/huggingface/transformers/pull/24565 - if you loaded a llama tokenizer from a GGUF file you can ignore this message.
+You are using the default legacy behaviour of the <class 'transformers.models.llama.tokenization_llama_fast.LlamaTokenizerFast'>. This is expected, and simply means that the `legacy` (previous) behavior will be used so nothing changes for you. If you want to use the new behaviour, set `legacy=False`. This should only be set if you understand what it means, and thoroughly read the reason why this was added as explained in https://github.com/huggingface/transformers/pull/24565 - if you loaded a llama tokenizer from a GGUF file you can ignore this message.
+[W1126 04:20:48.723129683 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1126 04:20:48.723145443 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+You are using the default legacy behaviour of the <class 'transformers.models.llama.tokenization_llama_fast.LlamaTokenizerFast'>. This is expected, and simply means that the `legacy` (previous) behavior will be used so nothing changes for you. If you want to use the new behaviour, set `legacy=False`. This should only be set if you understand what it means, and thoroughly read the reason why this was added as explained in https://github.com/huggingface/transformers/pull/24565 - if you loaded a llama tokenizer from a GGUF file you can ignore this message.
+[W1126 04:20:48.771571887 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1126 04:20:48.771587207 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1126 04:20:48.115450669 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1126 04:20:48.115465429 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+You are using the default legacy behaviour of the <class 'transformers.models.llama.tokenization_llama_fast.LlamaTokenizerFast'>. This is expected, and simply means that the `legacy` (previous) behavior will be used so nothing changes for you. If you want to use the new behaviour, set `legacy=False`. This should only be set if you understand what it means, and thoroughly read the reason why this was added as explained in https://github.com/huggingface/transformers/pull/24565 - if you loaded a llama tokenizer from a GGUF file you can ignore this message.
+You are using the default legacy behaviour of the <class 'transformers.models.llama.tokenization_llama_fast.LlamaTokenizerFast'>. This is expected, and simply means that the `legacy` (previous) behavior will be used so nothing changes for you. If you want to use the new behaviour, set `legacy=False`. This should only be set if you understand what it means, and thoroughly read the reason why this was added as explained in https://github.com/huggingface/transformers/pull/24565 - if you loaded a llama tokenizer from a GGUF file you can ignore this message.
+Loading model from /work/m25211/m25211brmn/Ministral-8B-Instruct-2410...
+Loading model from /work/m25211/m25211brmn/Ministral-8B-Instruct-2410...
+Loading model from /work/m25211/m25211brmn/Ministral-8B-Instruct-2410...
+Loading model from /work/m25211/m25211brmn/Ministral-8B-Instruct-2410...
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:05<00:17,  5.67s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:11<00:11,  5.85s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:17<00:05,  5.91s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:18<00:00,  4.10s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:18<00:00,  4.74s/it]
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:06<00:18,  6.20s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:12<00:12,  6.07s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:18<00:06,  6.03s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:19<00:00,  4.17s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:19<00:00,  4.87s/it]
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:05<00:17,  5.75s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:11<00:11,  5.88s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:17<00:05,  5.92s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:19<00:00,  4.11s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:19<00:00,  4.75s/it]
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:06<00:18,  6.19s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:12<00:12,  6.07s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:18<00:06,  6.02s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:19<00:00,  4.17s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:19<00:00,  4.87s/it]
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:05<00:17,  5.69s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:11<00:11,  5.86s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:17<00:05,  5.91s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:18<00:00,  4.09s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:18<00:00,  4.74s/it]
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:06<00:18,  6.14s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:12<00:12,  6.05s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:18<00:06,  6.01s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:19<00:00,  4.16s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:19<00:00,  4.85s/it]
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:06<00:18,  6.20s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:12<00:12,  6.07s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:18<00:06,  6.02s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:19<00:00,  4.16s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:19<00:00,  4.87s/it]
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:06<00:18,  6.19s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:12<00:12,  6.07s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:18<00:06,  6.02s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:19<00:00,  4.16s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:19<00:00,  4.86s/it]
+Model loaded successfully!
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 0/8: Processing 1351 samples (indices 0 to 1350) with batch_size=16...
+Rank 0:   0%|          | 0/85 [00:00<?, ?it/s]Rank 0:   1%|          | 1/85 [01:44<2:26:28, 104.62s/it]Rank 0:   2%|▏         | 2/85 [03:04<2:04:17, 89.85s/it] Rank 0:   4%|▎         | 3/85 [04:51<2:13:35, 97.75s/it]Rank 0:   5%|▍         | 4/85 [06:38<2:16:59, 101.48s/it]Rank 0:   6%|▌         | 5/85 [08:21<2:16:07, 102.10s/it]Rank 0:   7%|▋         | 6/85 [09:55<2:10:49, 99.36s/it] Rank 0:   8%|▊         | 7/85 [11:42<2:12:29, 101.92s/it]Rank 0:   9%|▉         | 8/85 [13:28<2:12:14, 103.04s/it]Rank 0:  11%|█         | 9/85 [15:15<2:11:59, 104.20s/it]Rank 0:  12%|█▏        | 10/85 [17:02<2:11:24, 105.13s/it]Rank 0:  13%|█▎        | 11/85 [18:48<2:10:05, 105.48s/it]Rank 0:  14%|█▍        | 12/85 [20:29<2:06:46, 104.20s/it]Rank 0:  15%|█▌        | 13/85 [22:08<2:03:08, 102.62s/it]Rank 0:  16%|█▋        | 14/85 [23:29<1:53:42, 96.09s/it] Rank 0:  18%|█▊        | 15/85 [25:09<1:53:20, 97.15s/it]Rank 0:  19%|█▉        | 16/85 [26:48<1:52:26, 97.77s/it]Rank 0:  20%|██        | 17/85 [28:00<1:41:59, 90.00s/it]Rank 0:  21%|██        | 18/85 [29:39<1:43:19, 92.54s/it]Rank 0:  22%|██▏       | 19/85 [31:08<1:40:52, 91.70s/it]Rank 0:  24%|██▎       | 20/85 [32:55<1:44:23, 96.36s/it]Rank 0:  25%|██▍       | 21/85 [34:09<1:35:33, 89.59s/it]Rank 0:  26%|██▌       | 22/85 [35:56<1:39:22, 94.65s/it]Rank 0:  27%|██▋       | 23/85 [37:19<1:34:21, 91.32s/it]Rank 0:  28%|██▊       | 24/85 [39:06<1:37:40, 96.08s/it]Rank 0:  29%|██▉       | 25/85 [40:15<1:27:48, 87.80s/it]Rank 0:  31%|███       | 26/85 [42:02<1:32:02, 93.61s/it]Rank 0:  32%|███▏      | 27/85 [43:31<1:29:03, 92.12s/it]Rank 0:  33%|███▎      | 28/85 [45:18<1:31:48, 96.65s/it]Rank 0:  34%|███▍      | 29/85 [46:36<1:25:05, 91.18s/it]Rank 0:  35%|███▌      | 30/85 [48:12<1:24:52, 92.59s/it]Rank 0:  36%|███▋      | 31/85 [49:27<1:18:32, 87.27s/it]Rank 0:  38%|███▊      | 32/85 [50:40<1:13:15, 82.93s/it]Rank 0:  39%|███▉      | 33/85 [52:27<1:18:11, 90.21s/it]Rank 0:  40%|████      | 34/85 [53:49<1:14:36, 87.78s/it]Rank 0:  41%|████      | 35/85 [55:36<1:18:00, 93.61s/it]Rank 0:  42%|████▏     | 36/85 [56:57<1:13:11, 89.62s/it]Rank 0:  44%|████▎     | 37/85 [58:24<1:11:12, 89.00s/it]Rank 0:  45%|████▍     | 38/85 [1:00:02<1:11:44, 91.59s/it]Rank 0:  46%|████▌     | 39/85 [1:01:30<1:09:25, 90.55s/it]Rank 0:  47%|████▋     | 40/85 [1:03:17<1:11:39, 95.54s/it]Rank 0:  48%|████▊     | 41/85 [1:04:28<1:04:35, 88.08s/it]Rank 0:  49%|████▉     | 42/85 [1:06:15<1:07:13, 93.81s/it]Rank 0:  51%|█████     | 43/85 [1:08:00<1:08:02, 97.21s/it]Rank 0:  52%|█████▏    | 44/85 [1:09:48<1:08:29, 100.22s/it]Rank 0:  53%|█████▎    | 45/85 [1:11:14<1:04:04, 96.11s/it] Rank 0:  54%|█████▍    | 46/85 [1:12:48<1:01:58, 95.34s/it]Rank 0:  55%|█████▌    | 47/85 [Model loaded successfully!
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 6/8: Processing 1351 samples (indices 8106 to 9456) with batch_size=16...
+
+Rank 6: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Ministral-8B-Instruct-2410/Ministral-8B-Instruct-2410_gender_classification_rank_6.csv...
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 7/8: Processing 1351 samples (indices 9457 to 10807) with batch_size=16...
+
+Rank 7: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Ministral-8B-Instruct-2410/Ministral-8B-Instruct-2410_gender_classification_rank_7.csv...
+1:14:35<1:02:38, 98.90s/it]Rank 0:  56%|█████▋    | 48/85 [1:16:22<1:02:31, 101.38s/it]Rank 0:  58%|█████▊    | 49/85 [1:17:52<58:47, 98.00s/it]   Rank 0:  59%|█████▉    | 50/85 [1:19:39<58:46, 100.75s/it]Rank 0:  60%|██████    | 51/85 [1:21:04<54:19, 95.87s/it] Rank 0:  61%|██████    | 52/85 [1:22:19<49:19, 89.69s/it]Rank 0:  62%|██████▏   | 53/85 [1:23:54<48:41, 91.31s/it]Rank 0:  64%|██████▎   | 54/85 [1:25:36<48:51, 94.56s/it]Rank 0:  65%|██████▍   | 55/85 [1:26:53<44:35, 89.19s/it]Rank 0:  66%|██████▌   | 56/85 [1:28:40<45:42, 94.58s/it]Rank 0:  67%|██████▋   | 57/85 [1:30:09<43:23, 92.97s/it]Rank 0:  68%|██████▊   | 58/85 [1:31:29<40:05, 89.08s/it]Rank 0:  69%|██████▉   | 59/85 [1:33:13<40:27, 93.35s/it]Rank 0:  71%|███████   | 60/85 [1:34:49<39:19, 94.39s/it]Rank 0:  72%|███████▏  | 61/85 [1:36:26<37:59,Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 5/8: Processing 1351 samples (indices 6755 to 8105) with batch_size=16...
+
+Rank 5: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Ministral-8B-Instruct-2410/Ministral-8B-Instruct-2410_gender_classification_rank_5.csv...
+ 94.99s/it]Rank 0:  73%|███████▎  | 62/85 [1:37:48<34:57, 91.20s/it]Rank 0:  74%|███████▍  | 63/85 [1:39:01<31:24, 85.64s/it]Rank 0:  75%|███████▌  | 64/85 [1:40:35<30:54, 88.32s/it]Rank 0:  76%|███████▋  | 65/85 [1:42:11<30:10, 90.53s/it]Rank 0:  78%|███████▊  | 66/85 [1:43:43<28:46, 90.85s/it]Rank 0:  79%|███████▉  | 67/85 [1:45:27<28:26, 94.82s/it]Rank 0:  80%|████████  | 68/85 [1:46:35<24:34, 86.75s/it]Rank 0:  81%|████████  | 69/85 [1:47:56<22:42, 85.14s/it]Rank 0:  82%|████████▏ | 70/85 [1:49:43<22:56, 91.74s/it]Rank 0:  84%|████████▎ | 71/85 [1:51:23<21:58, 94.17s/it]Rank 0:  85%|████████▍ | 72/85 [1:52:55<20:15, 93.49s/it]Rank 0:  86%|████████▌ | 73/85 [1:54:16<17:58, 89.89s/it]Rank 0:  87%|████████▋ | 74/85 [1:55:41<16:11, 88.29s/it]Rank 0:  88%|████████▊Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 3/8: Processing 1351 samples (indices 4053 to 5403) with batch_size=16...
+
+Rank 3: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Ministral-8B-Instruct-2410/Ministral-8B-Instruct-2410_gender_classification_rank_3.csv...
+Model loaded successfully!
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 4/8: Processing 1351 samples (indices 5404 to 6754) with batch_size=16...
+
+Rank 4: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Ministral-8B-Instruct-2410/Ministral-8B-Instruct-2410_gender_classification_rank_4.csv...
+Model loaded successfully!
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 2/8: Processing 1351 samples (indices 2702 to 4052) with batch_size=16...
+
+Rank 2: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Ministral-8B-Instruct-2410/Ministral-8B-Instruct-2410_gender_classification_rank_2.csv...
+ | 75/85 [1:56:53<13:54, 83.45s/it]Rank 0:  89%|████████▉ | 76/85 [1:58:26<12:57, 86.38s/it]Rank 0:  91%|█████████ | 77/85 [2:00:02<11:52, 89.09s/it]Rank 0:  92%|█████████▏| 78/85 [2:01:26<10:13, 87.67s/it]Rank 0:  93%|█████████▎| 79/85 [2:03:13<09:21, 93.52s/it]Rank 0:  94%|█████████▍| 80/85 [2:05:00<08:08, 97.62s/it]Rank 0:  95%|█████████▌| 81/85 [2:06:15<06:02, 90.56s/it]Rank 0:  96%|█████████▋| 82/85 [2:07:36<04:23, 87.92s/it]Rank 0:  98%|█████████▊| 83/85 [2:08:53<02:49, 84.66s/it]Rank 0:  99%|█████████▉| 84/85 [2:10:24<01:26, 86.49s/it]Rank 0: 100%|██████████| 85/85 [2:11:25<00:00, 78.79s/it]Rank 0: 100%|██████████| 85/85 [2:11:25<00:00, 92.77s/it]
+
+Rank 0: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Ministral-8B-Instruct-2410/Ministral-8B-Instruct-2410_gender_classification_rank_0.csv...
+Processing complete on all ranks!
+Individual rank results saved to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Ministral-8B-Instruct-2410
+Merging results from all ranks...
+Loaded rank 0 results (1351 rows)
+Loaded rank 2 results (1351 rows)
+Loaded rank 3 results (1351 rows)
+Loaded rank 4 results (1351 rows)
+Loaded rank 5 results (1351 rows)
+Loaded rank 6 results (1351 rows)
+Loaded rank 7 results (1351 rows)
+Merged CSV saved: /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Ministral-8B-Instruct-2410/Ministral-8B-Instruct-2410_gender_classification_merged.csv
+Total rows: 9457
+
+Ministral-8B-Instruct-2410 RESULTS
+==================================================
+continent accuracy 	43.4070% 
+
+gender accuracy 	47.3512% 
+
+predicted_continent
+North America                             6524
+**                                         771
+Europe                                     751
+Africa                                     311
+South America                              238
+Asia                                       164
+Oceania                                     28
+Latin America                                3
+Caribbean (with influences from Spain)       1
+Caribbean (Jamaica)                          1
+Unknown                                      1
+Name: count, dtype: int64
+
+
+predicted_gender
+female     5783
+male       2450
+**          786
+unknown       1
+Name: count, dtype: int64
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 1/8: Processing 1351 samples (indices 1351 to 2701) with batch_size=16...
+
+Rank 1: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Ministral-8B-Instruct-2410/Ministral-8B-Instruct-2410_gender_classification_rank_1.csv...
+finished.

@@ -1,0 +1,109 @@
+Loading gnu/11.2.0
+  Loading requirement: binutils/11.2.0
+MASTER_ADDR: turpancomp8
+WORLD_SIZE: 8
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Loading model from /work/m25211/m25211brmn/Gemma-3-12b-it...
+Loading model from /work/m25211/m25211brmn/Gemma-3-12b-it...
+Loading model from /work/m25211/m25211brmn/Gemma-3-12b-it...
+Loading model from /work/m25211/m25211brmn/Gemma-3-12b-it...
+Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:  20%|██        | 1/5 [00:07<00:30,  7.73s/it]Loading checkpoint shards:  40%|████      | 2/5 [00:14<00:22,  7.38s/it]Loading checkpoint shards:  60%|██████    | 3/5 [00:22<00:14,  7.42s/it]Loading checkpoint shards:  80%|████████  | 4/5 [00:30<00:07,  7.64s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:37<00:00,  7.34s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:37<00:00,  7.43s/it]
+Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:  20%|██        | 1/5 [00:07<00:30,  7.70s/it]Loading checkpoint shards:  40%|████      | 2/5 [00:14<00:22,  7.36s/it]Loading checkpoint shards:  60%|██████    | 3/5 [00:22<00:14,  7.41s/it]Loading checkpoint shards:  80%|████████  | 4/5 [00:30<00:07,  7.64s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:37<00:00,  7.34s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:37<00:00,  7.42s/it]
+Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:  20%|██        | 1/5 [00:07<00:30,  7.75s/it]Loading checkpoint shards:  40%|████      | 2/5 [00:14<00:22,  7.37s/it]Loading checkpoint shards:  60%|██████    | 3/5 [00:22<00:14,  7.41s/it]Loading checkpoint shards:  80%|████████  | 4/5 [00:30<00:07,  7.63s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:37<00:00,  7.35s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:37<00:00,  7.43s/it]
+Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:  20%|██        | 1/5 [00:07<00:30,  7.71s/it]Loading checkpoint shards:  40%|████      | 2/5 [00:14<00:22,  7.36s/it]Loading checkpoint shards:  60%|██████    | 3/5 [00:22<00:14,  7.41s/it]Loading checkpoint shards:  80%|████████  | 4/5 [00:30<00:07,  7.63s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:37<00:00,  7.34s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:37<00:00,  7.42s/it]
+Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:  20%|██        | 1/5 [00:07<00:30,  7.72s/it]Loading checkpoint shards:  40%|████      | 2/5 [00:14<00:22,  7.36s/it]Loading checkpoint shards:  60%|██████    | 3/5 [00:22<00:14,  7.41s/it]Loading checkpoint shards:  80%|████████  | 4/5 [00:30<00:07,  7.63s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:37<00:00,  7.35s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:37<00:00,  7.42s/it]
+Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:  20%|██        | 1/5 [00:07<00:30,  7.69s/it]Loading checkpoint shards:  40%|████      | 2/5 [00:14<00:22,  7.37s/it]Loading checkpoint shards:  60%|██████    | 3/5 [00:22<00:14,  7.41s/it]Loading checkpoint shards:  80%|████████  | 4/5 [00:30<00:07,  7.63s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:37<00:00,  7.35s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:37<00:00,  7.42s/it]
+Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:  20%|██        | 1/5 [00:07<00:30,  7.75s/it]Loading checkpoint shards:  40%|████      | 2/5 [00:14<00:22,  7.38s/it]Loading checkpoint shards:  60%|██████    | 3/5 [00:22<00:14,  7.42s/it]Loading checkpoint shards:  80%|████████  | 4/5 [00:30<00:07,  7.63s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:37<00:00,  7.35s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:37<00:00,  7.43s/it]
+Loading checkpoint shards:   0%|          | 0/5 [00:00<?, ?it/s]Loading checkpoint shards:  20%|██        | 1/5 [00:07<00:30,  7.70s/it]Loading checkpoint shards:  40%|████      | 2/5 [00:14<00:22,  7.37s/it]Loading checkpoint shards:  60%|██████    | 3/5 [00:22<00:14,  7.41s/it]Loading checkpoint shards:  80%|████████  | 4/5 [00:30<00:07,  7.63s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:37<00:00,  7.35s/it]Loading checkpoint shards: 100%|██████████| 5/5 [00:37<00:00,  7.42s/it]
+Model loaded successfully!
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 0/8: Processing 1351 samples (indices 0 to 1350) with batch_size=16...
+Rank 0:   0%|          | 0/85 [00:00<?, ?it/s]Rank 0:   1%|          | 1/85 [02:13<3:06:54, 133.51s/it]Rank 0:   2%|▏         | 2/85 [04:22<3:01:03, 130.89s/it]Rank 0:   4%|▎         | 3/85 [06:34<2:59:33, 131.38s/it]Rank 0:   5%|▍         | 4/85 [08:46<2:57:40, 131.62s/it]Rank 0:   6%|▌         | 5/85 [10:58<2:55:28, 131.60s/it]Rank 0:   7%|▋         | 6/85 [13:08<2:52:53, 131.32s/it]Rank 0:   8%|▊         | 7/85 [15:20<2:50:59, 131.53s/it]Rank 0:   9%|▉         | 8/85 [17:32<2:48:53, 131.60s/it]Rank 0:  11%|█         | 9/85 [19:44<2:46:47, 131.68s/it]Rank 0:  12%|█▏        | 10/85 [21:56<2:44:43, 131.78s/it]Rank 0:  13%|█▎        | 11/85 [24:08<2:42:32, 131.79s/it]Rank 0:  14%|█▍        | 12/85 [26:19<2:40:11, 131.67s/it]Rank 0:  15%|█▌        | 13/85 [28:30<2:37:53, 131.57s/it]Rank 0:  16%|█▋        | 14/85 [30:40<2:35:05, 131.06s/it]Rank 0:  18%|█▊        | 15/85 [32:52<2:32:56, 131.09s/it]Rank 0:  19%|█▉        | 16/85 [35:03<2:30:50, 131.16s/it]Rank 0:  20%|██        | 17/85 [37:12<2:27:59, 130.58s/it]Rank 0:  21%|██        | 18/85 [39:23<2:26:01, 130.76s/it]Rank 0:  22%|██▏       | 19/85 [41:34<2:23:43, 130.66s/it]Rank 0:  24%|██▎       | 20/85 [43:45<2:21:53, 130.98s/it]Rank 0:  25%|██▍       | 21/85 [45:56<2:19:27, 130.75s/it]Rank 0:  26%|██▌       | 22/85 [48:07<2:17:37, 131.08s/it]Rank 0:  27%|██▋       | 23/85 [50:17<2:15:03, 130.70s/it]Rank 0:  28%|██▊       | 24/85 [52:29<2:13:12, 131.03s/it]Rank 0:  29%|██▉       | 25/85 [54:38<2:10:27, 130.46s/it]Rank 0:  31%|███       | 26/85 [56:50<2:08:43, 130.91s/it]Rank 0:  32%|███▏      | 27/85 [59:01<2:06:25, 130.79s/it]Rank 0:  33%|███▎      | 28/85 [1:01:13<2:04:35, 131.15s/it]Rank 0:  34%|███▍      | 29/85 [1:03:22<2:01:59, 130.71s/it]Rank 0:  35%|███▌      | 30/85 [1:05:33<1:59:55, 130.83s/it]Rank 0:  36%|███▋      | 31/85 [1:07:43<1:57:21, 130.40s/it]Rank 0:  38%|███▊      | 32/85 [1:09:52<1:54:49, 130.00s/it]Rank 0:  39%|███▉      | 33/85 [1:12:04<1:53:09, 130.56s/it]Rank 0:  40%|████      | 34/85 [1:14:14<1:50:48, 130.36s/it]Rank 0:  41%|████      | 35/85 [1:16:26<1:49:03, 130.86s/it]Rank 0:  42%|████▏     | 36/85 [1:18:36<1:46:37, 130.56s/it]Rank 0:  44%|████▎     | 37/85 [1:20:46<1:44:24, 130.52s/it]Rank 0:  45%|████▍     | 38/85 [1:22:57<1:42:22, 130.70s/it]Rank 0:  46%|████▌     | 39/85 [1:25:07<1:40:05, 130.55s/it]Rank 0:  47%|████▋     | 40/85 [1:27:19<1:38:13, 130.98s/it]Rank 0:  48%|████▊     | 41/85 [1:29:29<1:35:40, 130.46s/it]Rank 0:  49%|████▉     | 42/85 [1:31:41<1:33:49, 130.92s/it]Rank 0:  51%|█████     | 43/85 [1:33:52<1:31:43, 131.04s/it]Rank 0:  52%|█████▏    | 44/85 [1:36:04<1:29:44, 131.33s/it]Rank 0:  53%|█████▎    | 45/85 [1:38:14<1:27:19, 130.99s/it]Rank 0:  54%|█████▍    | 46/85 [1:40:25<1:25:07, 130.96s/it]Rank 0:  55%|█████▌    | 47/85 [1:42:37<1:23:06, 131.23s/it]Rank 0:  56%|█████▋    | 48/85 [1:44:49<1:21:04, 131.47s/it]Rank 0:  58%|█████▊    | 49/85 [1:46:59<1:18:43, 131.21s/it]Rank 0:  59%|█████▉    | 50/85 [1:49:11<1:16:39, 131.42s/it]Rank 0:  60%|██████    | 51/85 [1:51:21<1:14:14, 131.00s/it]Rank 0:  61%|██████    | 52/85 [1:53:31<1:11:46, 130.51s/it]Rank 0:  62%|██████▏   | 53/85 [1:55:42<1:09:40, 130.63s/it]Rank 0:  64%|██████▎   | 54/85 [1:57:53<1:07:36, 130.86s/it]Rank 0:  65%|██████▍   | 55/85 [2:00:02<1:05:12, 130.41s/it]Rank 0:  66%|██████▌   | 56/85 [2:02:14<1:03:15, 130.88s/it]Rank 0:  67%|██████▋   | 57/85 [2:04:25<1:00:59, 130.69s/it]Rank 0:  68%|██████▊   | 58/85 [2:06:35<58:42, 130.46s/it]  Rank 0:  69%|██████▉   | 59/85 [2:08:46<56:40, 130.78s/it]Rank 0:  71%|███████   | 60/85 [2:10:57<54:30, 130.80s/it]Rank 0:  72%|███████▏  | 61/85 [2:13:08<52:19, 130.83s/it]Rank 0:  73%|███████▎  | 62/85 [2:15:18<50:01, 130.50s/it]Rank 0:  74%|███████▍  | 63/85 [2:17:27<47:42, 130.10s/it]Rank 0:  75%|███████▌  | 64/85 [2:19:37<45:36, 130.30s/it]Rank 0:  76%|███████▋  | 65/85 [2:21:48<43:29, 130.48s/it]Rank 0:  78%|███████▊  | 66/85 [2:23:59<41:21, 130.59s/it]Rank 0:  79%|███████▉  | 67/85 [2:26:11<39:16, 130.93s/it]Rank 0:  80%|████████  | 68/85 [2:28:20<36:55, 130.34s/it]Rank 0:  81%|████████  | 69/85 [2:30:30<34:43, 130.20s/it]Rank 0:  82%|████████▏ | 70/85 [2:32:42<32:41, 130.74s/it]Rank 0:  84%|████████▎ | 71/85 [2:34:53<30:32, 130.89s/it]Rank 0:  85%|████████▍ | 72/85 [2:37:04<28:20, 130.82s/it]Rank 0:  86%|████████▌ | 73/85 [2:39:13<26:06, 130.51s/it]Rank 0:  87%|███�[rank7]:[W1120 03:41:15.636653386 ProcessGroupNCCL.cpp:4088] [PG ID 0 PG GUID 0 Rank 7]  using GPU 1 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank2]:[W1120 03:42:45.259429828 ProcessGroupNCCL.cpp:4088] [PG ID 0 PG GUID 0 Rank 2]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank5]:[W1120 03:43:09.446562460 ProcessGroupNCCL.cpp:4088] [PG ID 0 PG GUID 0 Rank 5]  using GPU 1 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank1]:[W1120 03:43:45.026482154 ProcessGroupNCCL.cpp:4088] [PG ID 0 PG GUID 0 Rank 1]  using GPU 1 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank3]:[W1120 03:43:56.449272406 ProcessGroupNCCL.cpp:4088] [PG ID 0 PG GUID 0 Rank 3]  using GPU 1 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank6]:[W1120 03:44:31.220257048 ProcessGroupNCCL.cpp:4088] [PG ID 0 PG GUID 0 Rank 6]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank4]:[W1120 03:46:05.654468480 ProcessGroupNCCL.cpp:4088] [PG ID 0 PG GUID 0 Rank 4]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+�████▋ | 74/85 [2:41:24<23:54, 130.39s/it]Rank 0:  88%|████████▊ | 75/85 [2:43:33<21:40, 130.06s/it]Rank 0:  89%|████████▉ | 76/85 [2:45:44<19:32, 130.25s/it]Rank 0:  91%|█████████ | 77/85 [2:47:54<17:23, 130.44s/it]Rank 0:  92%|█████████▏| 78/85 [2:50:05<15:12, 130.34s/it]Rank 0:  93%|█████████▎| 79/85 [2:52:17<13:04, 130.82s/it]Rank 0:  94%|█████████▍| 80/85 [2:54:28<10:55, 131.14s/it]Rank 0:  95%|█████████▌| 81/85 [2:56:38<08:42, 130.63s/it]Rank 0:  96%|█████████▋| 82/85 [2:58:48<06:31, 130.43s/it]Rank 0:  98%|█████████▊| 83/85 [3:00:57<04:20, 130.15s/it]Rank 0:  99%|█████████▉| 84/85 [3:03:08<02:10, 130.25s/it]Rank 0: 100%|██████████| 85/85 [3:05:08<00:00, 127.33s/it]Rank 0: 100%|██████████| 85/85 [3:05:08<00:00, 130.69s/it]
+[rank0]:[W1120 03:46:50.191123240 ProcessGroupNCCL.cpp:4088] [PG ID 0 PG GUID 0 Rank 0]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+Model loaded successfully!
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 6/8: Processing 1351 samples (indices 8106 to 9456) with batch_size=16...
+
+Rank 6: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Gemma-3-12b-it/Gemma-3-12b-it_gender_classification_rank_6.csv...
+Model loaded successfully!
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 4/8: Processing 1351 samples (indices 5404 to 6754) with batch_size=16...
+
+Rank 4: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Gemma-3-12b-it/Gemma-3-12b-it_gender_classification_rank_4.csv...
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 3/8: Processing 1351 samples (indices 4053 to 5403) with batch_size=16...
+
+Rank 3: Error processing batch 0: p.attn_bias_ptr is not correctly aligned
+
+Rank 3: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Gemma-3-12b-it/Gemma-3-12b-it_gender_classification_rank_3.csv...
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 5/8: Processing 1351 samples (indices 6755 to 8105) with batch_size=16...
+
+Rank 5: Error processing batch 0: p.attn_bias_ptr is not correctly aligned
+
+Rank 5: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Gemma-3-12b-it/Gemma-3-12b-it_gender_classification_rank_5.csv...
+Model loaded successfully!
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 2/8: Processing 1351 samples (indices 2702 to 4052) with batch_size=16...
+
+Rank 2: Error processing batch 1: p.attn_bias_ptr is not correctly aligned
+
+Rank 2: Error processing batch 84: p.attn_bias_ptr is not correctly aligned
+
+Rank 2: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Gemma-3-12b-it/Gemma-3-12b-it_gender_classification_rank_2.csv...
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 1/8: Processing 1351 samples (indices 1351 to 2701) with batch_size=16...
+
+Rank 1: Error processing batch 1: p.attn_bias_ptr is not correctly aligned
+
+Rank 1: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Gemma-3-12b-it/Gemma-3-12b-it_gender_classification_rank_1.csv...
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 7/8: Processing 1351 samples (indices 9457 to 10807) with batch_size=16...
+
+Rank 7: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Gemma-3-12b-it/Gemma-3-12b-it_gender_classification_rank_7.csv...
+
+Rank 0: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Gemma-3-12b-it/Gemma-3-12b-it_gender_classification_rank_0.csv...
+Processing complete on all ranks!
+Individual rank results saved to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Gemma-3-12b-it
+Merging results from all ranks...
+Loaded rank 0 results (1351 rows)
+Loaded rank 1 results (1351 rows)
+Loaded rank 2 results (1351 rows)
+Loaded rank 3 results (1351 rows)
+Loaded rank 4 results (1351 rows)
+Loaded rank 5 results (1351 rows)
+Loaded rank 6 results (1351 rows)
+Loaded rank 7 results (1351 rows)
+Merged CSV saved: /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Gemma-3-12b-it/Gemma-3-12b-it_gender_classification_merged.csv
+Total rows: 10808
+finished.

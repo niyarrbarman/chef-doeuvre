@@ -1,0 +1,35 @@
+Loading gnu/11.2.0
+  Loading requirement: binutils/11.2.0
+mkdir: cannot create directory ‘/tmpdir/m25211brmn/chef-doeuvre’: File exists
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Loading model from /work/m25211/m25211brmn/Llama-3.1-8B-Instruct...
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:01<00:04,  1.66s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:03<00:03,  1.84s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:05<00:01,  1.89s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:05<00:00,  1.41s/it]
+Model loaded successfully!
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/wasabi_final.csv...
+Total rows in dataset: 4466
+Filtered to 1151 rows with language='english'
+After removing missing lyrics: 1151 rows
+
+Processing 50 samples...
+Classifying lyrics:   0%|          | 0/50 [00:00<?, ?it/s]Classifying lyrics:   2%|▏         | 1/50 [00:22<18:22, 22.51s/it]Classifying lyrics:   4%|▍         | 2/50 [00:36<13:49, 17.28s/it]Classifying lyrics:   6%|▌         | 3/50 [00:55<14:13, 18.17s/it]Classifying lyrics:   8%|▊         | 4/50 [01:03<10:47, 14.08s/it]Classifying lyrics:  10%|█         | 5/50 [01:22<11:57, 15.93s/it]Classifying lyrics:  12%|█▏        | 6/50 [01:37<11:33, 15.75s/it]Classifying lyrics:  14%|█▍        | 7/50 [01:43<09:00, 12.56s/it]Classifying lyrics:  16%|█▌        | 8/50 [01:51<07:40, 10.96s/it]Classifying lyrics:  18%|█▊        | 9/50 [02:06<08:26, 12.35s/it]Classifying lyrics:  20%|██        | 10/50 [02:25<09:35, 14.39s/it]Classifying lyrics:  22%|██▏       | 11/50 [02:43<10:04, 15.50s/it]Classifying lyrics:  24%|██▍       | 12/50 [03:01<10:19, 16.30s/it]Classifying lyrics:  26%|██▌       | 13/50 [03:08<08:20, 13.53s/it]Classifying lyrics:  28%|██▊       | 14/50 [03:24<08:24, 14.01s/it]Classifying lyrics:  30%|███       | 15/50 [03:29<06:42, 11.49s/it]Classifying lyrics:  32%|███▏      | 16/50 [03:47<07:35, 13.40s/it]Classifying lyrics:  34%|███▍      | 17/50 [04:06<08:20, 15.16s/it]Classifying lyrics:  36%|███▌      | 18/50 [04:22<08:06, 15.21s/it]Classifying lyrics:  38%|███▊      | 19/50 [04:38<08:00, 15.50s/it]Classifying lyrics:  40%|████      | 20/50 [04:45<06:31, 13.06s/it]Classifying lyrics:  42%|████▏     | 21/50 [04:54<05:38, 11.68s/it]Classifying lyrics:  44%|████▍     | 22/50 [05:13<06:30, 13.94s/it]Classifying lyrics:  46%|████▌     | 23/50 [05:32<06:59, 15.52s/it]Classifying lyrics:  48%|████▊     | 24/50 [05:48<06:50, 15.79s/it]Classifying lyrics:  50%|█████     | 25/50 [05:56<05:28, 13.16s/it]Classifying lyrics:  52%|█████▏    | 26/50 [06:05<04:47, 11.96s/it]Classifying lyrics:  54%|█████▍    | 27/50 [06:20<04:56, 12.87s/it]Classifying lyrics:  56%|█████▌    | 28/50 [06:27<04:07, 11.23s/it]Classifying lyrics:  58%|█████▊    | 29/50 [06:46<04:42, 13.44s/it]Classifying lyrics:  60%|██████    | 30/50 [06:56<04:09, 12.47s/it]Classifying lyrics:  62%|██████▏   | 31/50 [07:07<03:48, 12.04s/it]Classifying lyrics:  64%|██████▍   | 32/50 [07:21<03:48, 12.69s/it]Classifying lyrics:  66%|██████▌   | 33/50 [07:29<03:13, 11.37s/it]Classifying lyrics:  68%|██████▊   | 34/50 [07:36<02:39,  9.98s/it]Classifying lyrics:  70%|███████   | 35/50 [07:54<03:02, 12.20s/it]Classifying lyrics:  72%|███████▏  | 36/50 [08:00<02:28, 10.58s/it]Classifying lyrics:  74%|███████▍  | 37/50 [08:08<02:07,  9.80s/it]Classifying lyrics:  76%|███████▌  | 38/50 [08:28<02:31, 12.62s/it]Classifying lyrics:  78%|███████▊  | 39/50 [08:38<02:11, 11.96s/it]Classifying lyrics:  80%|████████  | 40/50 [08:50<01:59, 11.97s/it]Classifying lyrics:  82%|████████▏ | 41/50 [09:03<01:51, 12.43s/it]Classifying lyrics:  84%|████████▍ | 42/50 [09:22<01:53, 14.21s/it]Classifying lyrics:  86%|████████▌ | 43/50 [09:41<01:49, 15.63s/it]Classifying lyrics:  88%|████████▊ | 44/50 [09:57<01:34, 15.81s/it]Classifying lyrics:  90%|█████████ | 45/50 [10:16<01:24, 16.83s/it]Classifying lyrics:  92%|█████████▏| 46/50 [10:25<00:58, 14.50s/it]Classifying lyrics:  94%|█████████▍| 47/50 [10:35<00:39, 13.13s/it]Classifying lyrics:  96%|█████████▌| 48/50 [10:53<00:29, 14.60s/it]Classifying lyrics:  98%|█████████▊| 49/50 [11:06<00:14, 14.09s/it]Classifying lyrics: 100%|██████████| 50/50 [11:16<00:00, 12.98s/it]Classifying lyrics: 100%|██████████| 50/50 [11:16<00:00, 13.54s/it]
+
+Saving results to /tmpdir/m25211brmn/chef-doeuvre/gender_classification_english.csv...
+
+✓ Processing complete!
+✓ Total samples processed: 50
+✓ Output saved to: /tmpdir/m25211brmn/chef-doeuvre/gender_classification_english.csv
+
+=== Summary Statistics ===
+predicted_gender
+neutral    26
+male       19
+female      4
+Name: count, dtype: int64
+
+=== Comparison with Original Labels ===
+predicted_gender  female  male  neutral  All
+original_gender                             
+Female                 3    11       20   34
+Male                   1     8        6   15
+All                    4    19       26   49
+finished.

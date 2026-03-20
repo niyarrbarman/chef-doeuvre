@@ -1,0 +1,469 @@
+index,song_title,artist,original_gender,original_continent,source,lyrics,predicted_gender,predicted_continent,gender_keywords,gender_reasoning,continent_keywords,continent_reasoning,raw_model_response
+0,Baby It's Cold Outside (feat. Christina Aguilera),CeeLo Green,Male,North America,spotify,i really cannot stay baby it is cold outside got to go away baby it is cold out there this evening has been been hoping that you would drop in so very nice hold your hands they are just like ice my mother will start to worry beautiful what is your hurry my father will be pacing the floor listen to that fireplace roar so really better scurry beautiful please do not hurry well maybe just a half a drink more why do not you put some records on while i pour the neighbors might think baby it is bad out there say what is in this drink no cabs to be had out there i wish i knew how your eyes are like starlight to break the spell take your hat your hair looks swell i ought to say no no no sir mind if i move in closer at least going to say that i tried the sense in hurting my pride i really cannot stay baby do not hold out baby it is cold outside i simply must go see that it is cold outside the answer is no i said it is cold out there this welcome has been how lucky that you dropped in so nice and warm look out the window at that storm my sister will be suspicious gosh your lips look delicious my brother will be there at the door waves upon a tropical shore my maiden aunt s mind is vicious oh your lips are delicious maybe just a cigarette more never such a blizzard before hey got to go home baby you will freeze out there say lend me your coat up to your knees out there really been grand thrilled when you touch my hand but do not you see how can you do this thing to me bound to be talk tomorrow think of my life long sorrow at least there will be plenty implied if you caught pneumonia and died i really cannot stay get over that old lie baby baby it is cold outside,male,North America,"'baby','mother', 'father', 'brother','sister', 'aunt','my'","The lyrics contain a mix of traditionally masculine and feminine terms, but the use of'my' and possessive pronouns, along with the speaker's mention of his mother, father, brother, sister, and aunt, suggest a masculine perspective. The speaker also uses terms of endearment such as 'baby' but in a way that is more common for a man addressing a woman in the 1940s.","'blizzard', 'fireplace','records','sister', 'bro",,"LYRICS: 
+i really cannot stay baby it is cold outside got to go away baby it is cold out there this evening has been been hoping that you would drop in so very nice hold your hands they are just like ice my mother will start to worry beautiful what is your hurry my father will be pacing the floor listen to that fireplace roar so really better scurry beautiful please do not hurry well maybe just a half a drink more why do not you put some records on while i pour the neighbors might think baby it is bad out there say what is in this drink no cabs to be had out there i wish i knew how your eyes are like starlight to break the spell take your hat your hair looks swell i ought to say no no no sir mind if i move in closer at least going to say that i tried the sense in hurting my pride i really cannot stay baby do not hold out baby it is cold outside i simply must go see that it is cold outside the answer is no i said it is cold out there this welcome has been how lucky that you dropped in so nice and warm look out the window at that storm my sister will be suspicious gosh your lips look delicious my brother will be there at the door waves upon a tropical shore my maiden aunt s mind is vicious oh your lips are delicious maybe just a cigarette more never such a blizzard before hey got to go home baby you will freeze out there say lend me your coat up to your knees out there really been grand thrilled when you touch my hand but do not you see how can you do this thing to me bound to be talk tomorrow think of my life long sorrow at least there will be plenty implied if you caught pneumonia and died i really cannot stay get over that old lie baby baby it is cold outside
+
+GENDER: male  
+GENDER_KEYWORDS: 'baby','mother', 'father', 'brother','sister', 'aunt','my' 
+GENDER_REASONING: The lyrics contain a mix of traditionally masculine and feminine terms, but the use of'my' and possessive pronouns, along with the speaker's mention of his mother, father, brother, sister, and aunt, suggest a masculine perspective. The speaker also uses terms of endearment such as 'baby' but in a way that is more common for a man addressing a woman in the 1940s.
+
+CONTINENT: North America  
+CONTINENT_KEYWORDS: 'blizzard', 'fireplace','records','sister', 'bro"
+1,Soldier,James TW,Male,Europe,spotify,hold your breath do not look down keep trying darling it is okay to be scared it is frightening at times it just feels like the world is trying hard to knock us down but there is a reason that we are still here but no one else is around how we have grown every single day proud i swear i will not let anything stop us now not a soldier but fight through our darkest of days get on my shoulders and carry you all of the way cause there is no life worth living in if you are not with me in it not a soldier but you make me want to be brave yeah you do through the depths of despair we have stumbled and all that distance between us we have crumbled ignored all of the rumours and jealous disapprovals and we have come out the other side with something beautiful oh how we have grown every single day proud and now i know nothing that can stop us now not a soldier but fight through our darkest of days get on my shoulders and carry you all of the way cause there is no life worth living in if you are not with me in it not a soldier but you make me want to be brave yeah you do only we know where we are going every day we are going to keep on growing learning from the tears and the mistakes not perfect but we have come such a long way as long as i got you by my side i know what i want to do in this life one day when our kids fall in love we can tell them that the odds were against us not a soldier but fight through our darkest of days get on my shoulders and carry you all of the way woo ooh cause there is no life worth living in if you are not with me in it not a soldier soldier but you make me want to be brave yeah you do yeah you do yeah you do but you make me want to be brave yeah you do oh yeah you do,female,North America,"darling, sweet, brave","I predicted the writer as female based on the use of words like ""darling"" which is a term often associated with feminine affection. Additionally, the writer's perspective is centered around emotional vulnerability and relationships, which is a common theme in female-written songs. The use of phrases like ""you make me want to be brave"" also suggests a softer, more empathetic tone, which is often associated with female songwriters.","soldier, darkest of days, brave",I predicted,"LYRICS: hold your breath do not look down keep trying darling it is okay to be scared it is frightening at times it just feels like the world is trying hard to knock us down but there is a reason that we are still here but no one else is around how we have grown every single day proud i swear i will not let anything stop us now not a soldier but fight through our darkest of days get on my shoulders and carry you all of the way cause there is no life worth living in if you are not with me in it not a soldier but you make me want to be brave yeah you do through the depths of despair we have stumbled and all that distance between us we have crumbled ignored all of the rumours and jealous disapprovals and we have come out the other side with something beautiful oh how we have grown every single day proud and now i know nothing that can stop us now not a soldier but fight through our darkest of days get on my shoulders and carry you all of the way cause there is no life worth living in if you are not with me in it not a soldier but you make me want to be brave yeah you do only we know where we are going every day we are going to keep on growing learning from the tears and the mistakes not perfect but we have come such a long way as long as i got you by my side i know what i want to do in this life one day when our kids fall in love we can tell them that the odds were against us not a soldier but fight through our darkest of days get on my shoulders and carry you all of the way woo ooh cause there is no life worth living in if you are not with me in it not a soldier soldier but you make me want to be brave yeah you do yeah you do yeah you do but you make me want to be brave yeah you do oh yeah you do
+
+GENDER: female
+GENDER_KEYWORDS: darling, sweet, brave
+GENDER_REASONING: I predicted the writer as female based on the use of words like ""darling"" which is a term often associated with feminine affection. Additionally, the writer's perspective is centered around emotional vulnerability and relationships, which is a common theme in female-written songs. The use of phrases like ""you make me want to be brave"" also suggests a softer, more empathetic tone, which is often associated with female songwriters.
+
+CONTINENT: North America
+CONTINENT_KEYWORDS: soldier, darkest of days, brave
+CONTINENT_REASONING: I predicted"
+2,Satisfy You,Diddy,Male,North America,spotify,all i want is somebody who is going to love me for me somebody i can love for them all this money do not mean shit if you am not got nobody to share it with love rules the world you feel me he do not understand you like i do no he will never make love to you like i do so give it to me cause i can show you bout a real love and i can promise anything that i do is just to satisfy you when it hurt i ease the pain girl caress your frame get them worries off your brain girl in your corner do what you want it is your thing girl i persist and try but we one in the same girl it am not a game so i cannot play with you i want to lay with you stay with you pray with you grow old and gray with you in good and bad times we will always make it through cause what we got is true no matter what they say to you i could straight lace you not just appearance stimulate your mind strengthen your spirits be that voice of reason when you am not tryna hear it you want it but you fear it but you love it when you near it sit her on the sofa get a little closer touch you right do it like a man s suppose to knew you was the one that is why i chose you cause you get down for yours and ride like a soldier your soul am not a toy you am not dealin with a boy feel emptiness inside i can fill that void when you spend time with your woman and listen it shines more than any baguette diamond can glisten i cannot impress you with the cars and the wealth cause any woman with will and drive can get it herself rather show you it is heartfelt make your heart melt and prove to you you are more important than anything else worthwhile special like my first child when i see your face it is always like the first time our eyes met i knew we would be together in a tri jet i want to give you things that i did not buy yet hold you mold you do not know let me show you no tellin what we could grow to let it be known i told you and i mma be there for whatever you go through my love s true let him sing you a sad song no baby waiting for love like this too long you do not have to wait you do not have to wait on him baby all that you need i can give you you do not have to wait you do not have to wait on i do satisfy you you do not have to wait on him the light when you cannot see that air when you cannot breathe that feeling when you cannot leave some doubt some believe some lie cheat and deceive so it is only you and me when you weak make you strong here s where you belong i am not perfect but i promise i will not do you wrong keep you away from harm my love is protected wrap you in my arms so you will never feel neglected just make you aware of what we have is rare in the moment of despair the courage when you are scared loyal down for you soon as i saw you wanted to be there cause i could hold it down for you be around for you plant seeds in the soil make love all night bending bed coils a queen therefore i treat you royal this is all for you cause i simply adore you until fade this one right here goes out to all my sisters,male,,"""girl"", ""she"", ""you"", ""your"", ""me"", ""him"", ""man"", ""boy"", ""woman"", ""soul"", ""he"", ""they""",The use of masculine pronouns such as,,,"LYRICS: 
+all i want is somebody who is going to love me for me somebody i can love for them all this money do not mean shit if you am not got nobody to share it with love rules the world you feel me he do not understand you like i do no he will never make love to you like i do so give it to me cause i can show you bout a real love and i can promise anything that i do is just to satisfy you when it hurt i ease the pain girl caress your frame get them worries off your brain girl in your corner do what you want it is your thing girl i persist and try but we one in the same girl it am not a game so i cannot play with you i want to lay with you stay with you pray with you grow old and gray with you in good and bad times we will always make it through cause what we got is true no matter what they say to you i could straight lace you not just appearance stimulate your mind strengthen your spirits be that voice of reason when you am not tryna hear it you want it but you fear it but you love it when you near it sit her on the sofa get a little closer touch you right do it like a man s suppose to knew you was the one that is why i chose you cause you get down for yours and ride like a soldier your soul am not a toy you am not dealin with a boy feel emptiness inside i can fill that void when you spend time with your woman and listen it shines more than any baguette diamond can glisten i cannot impress you with the cars and the wealth cause any woman with will and drive can get it herself rather show you it is heartfelt make your heart melt and prove to you you are more important than anything else worthwhile special like my first child when i see your face it is always like the first time our eyes met i knew we would be together in a tri jet i want to give you things that i did not buy yet hold you mold you do not know let me show you no tellin what we could grow to let it be known i told you and i mma be there for whatever you go through my love s true let him sing you a sad song no b...
+
+GENDER: male
+GENDER_KEYWORDS: ""girl"", ""she"", ""you"", ""your"", ""me"", ""him"", ""man"", ""boy"", ""woman"", ""soul"", ""he"", ""they""
+GENDER_REASONING: The use of masculine pronouns such as"
+3,Tender Lover,Babyface,Male,North America,spotify,feels good everybody tender lover tender love eleanor rigby spends half her life all alone no fault of her own made a decision love has no place in her home love it has a right to go love has no limit if you believe in love open up so even give in cause if it starts to give just hold on we did not did not make it but love ll get you by if you only try just do not give up on love cause it did not work out this time tender lover girl so sorry well i never meant to hurt you i never meant to break your heart tender love so broken hearted well i never meant to break your break your little tender heart ever give up in spite of our love love is much too precious greater than both of us more than enough keep looking for love just be a believer give you what you want sky is the limit if you believe in love open up so ever give in cause if it starts to give just hold on we did not make it but love ll get you by if you only try just do not give up on love cause it did not work out this time my tender lover tender lover tender love na,female,Europe,"""tender lover"", ""girl"", ""heart"", ""hearted""","The use of the words ""tender lover"" and ""girl"" suggests a feminine perspective, and the focus on emotions and relationships, particularly the pain of a broken heart, is consistent with a female writer's perspective.","""eleanor rigby"", ""love has no place in her home""","The reference to ""eleanor rigby"" is likely a nod to the Beatles' song ""Eleanor Rigby,"" which is a quintessential British song. The phrase ""love has no place in her home"" also suggests a Western cultural influence, particularly British or European, where the concept of love and relationships is often explored in literature and music.","LYRICS: feels good everybody tender lover tender love eleanor rigby spends half her life all alone no fault of her own made a decision love has no place in her home love it has a right to go love has no limit if you believe in love open up so even give in cause if it starts to give just hold on we did not did not make it but love ll get you by if you only try just do not give up on love cause it did not work out this time tender lover girl so sorry well i never meant to hurt you i never meant to break your heart tender love so broken hearted well i never meant to break your break your little tender heart ever give up in spite of our love love is much too precious greater than both of us more than enough keep looking for love just be a believer give you what you want sky is the limit if you believe in love open up so ever give in cause if it starts to give just hold on we did not make it but love ll get you by if you only try just do not give up on love cause it did not work out this time my tender lover tender lover tender love na
+
+GENDER: female
+GENDER_KEYWORDS: ""tender lover"", ""girl"", ""heart"", ""hearted""
+GENDER_REASONING: The use of the words ""tender lover"" and ""girl"" suggests a feminine perspective, and the focus on emotions and relationships, particularly the pain of a broken heart, is consistent with a female writer's perspective.
+
+CONTINENT: Europe
+CONTINENT_KEYWORDS: ""eleanor rigby"", ""love has no place in her home""
+CONTINENT_REASONING: The reference to ""eleanor rigby"" is likely a nod to the Beatles' song ""Eleanor Rigby,"" which is a quintessential British song. The phrase ""love has no place in her home"" also suggests a Western cultural influence, particularly British or European, where the concept of love and relationships is often explored in literature and music."
+4,Ti volevo dedicare (feat. J-AX & Boomdabash),Rocco Hunt,Male,Europe,spotify,"I have something to tell you that I've been wanting to say for a while but I've never found the right moment. I could do it here, I don't care if these people are laughing at me. I swear, the other night was amazing. You won't leave my mind. A single ring wouldn't be enough. You're worth more than any jewel. And who knows, when you leave, if you'll ever come back to me. Tell me if this feeling is mutual. Dance until, with your eyes closed, you give me a kiss and then apologize. Stay here just one second longer because I wanted to dedicate a thousand songs to you, written on a guitar that needs tuning, in those nights until the sun rises and you lose count of the hours. I wanted to dedicate to you what I feel and I don't know what it is that I feel. Let's not say forever because nothing lasts forever. If you believe too much in dreams, they might wake you up at the best part. Everything seems like déjà vu. A thousand words on TV, Coca Cola and Malibu. Let's dance like a tribe. And who knows, when you leave, if you'll ever come back to me. Tell me if this feeling is mutual. Dance until, with your eyes closed, you give me a kiss and then apologize. Stay here just one second longer because I wanted to dedicate a thousand songs to you, written on a guitar that needs tuning, in those nights until the sun rises and you lose count of the hours. I wanted to dedicate to you what I feel and I don't know what it is that I feel. I don't know how to serenade. Dark nights, asereje. I don't follow trends but I go back to vinyl. I don't know if Maradona was better than Pelé but women's soccer is definitely more virile. Women against men, we both serve even if we're different like husky eyes. I love the inconsistent ones. You leave like Heidi, you undress like Miley, all made up like Billie Eilish. When you're close, you're argumentative. Oh, when you're far away, you're America. You make my poetic vein flow like Lucio Dalla. My hand that writes a dedication to you. I think of you and the words come out in meter. It's easy to find them like grass on Telegram. Here lies are for sale and you are the truth serum, better than pentothal. The feeling that sometimes comes over me is that we're doing well, like beaches and tides, like boats on the horizon. We get lost among the waves. Good and evil blend in our shadows until the sun rises, you lose count of the hours. I wanted to dedicate to you what I feel and I don't know what it is that I feel. I don't know what it is. I wanted to dedicate to you what I feel and I don't know what it is that I feel.",male,,"'my', 'I','me','my mind','my guitar','my",,,,"LYRICS: I have something to tell you that I've been wanting to say for a while but I've never found the right moment. I could do it here, I don't care if these people are laughing at me. I swear, the other night was amazing. You won't leave my mind. A single ring wouldn't be enough. You're worth more than any jewel. And who knows, when you leave, if you'll ever come back to me. Tell me if this feeling is mutual. Dance until, with your eyes closed, you give me a kiss and then apologize. Stay here just one second longer because I wanted to dedicate a thousand songs to you, written on a guitar that needs tuning, in those nights until the sun rises and you lose count of the hours. I wanted to dedicate to you what I feel and I don't know what it is that I feel. Let's not say forever because nothing lasts forever. If you believe too much in dreams, they might wake you up at the best part. Everything seems like déjà vu. A thousand words on TV, Coca Cola and Malibu. Let's dance like a tribe. And who knows, when you leave, if you'll ever come back to me. Tell me if this feeling is mutual. Dance until, with your eyes closed, you give me a kiss and then apologize. Stay here just one second longer because I wanted to dedicate a thousand songs to you, written on a guitar that needs tuning, in those nights until the sun rises and you lose count of the hours. I wanted to dedicate to you what I feel and I don't know what it is that I feel. I don't know how to serenade. Dark nights, asereje. I don't follow trends but I go back to vinyl. I don't know if Maradona was better than Pelé but women's soccer is definitely more virile. Women against men, we both serve even if we're different like husky eyes. I love the inconsistent ones. You leave like Heidi, you undress like Miley, all made up like Billie Eilish. When you're close, you're argumentative. Oh, when you're far away, you're America. You make my poetic vein flow like Lucio Dalla. My hand that writes a dedication to you. I think of you an...
+
+GENDER: male
+GENDER_KEYWORDS:'my', 'I','me','my mind','my guitar','my"
+5,Una Vaina Loca,Fuego,Male,North America,spotify,fuego uoh uoh uoh the music of the future yeah a crazy thing that takes me to glory I've never felt anything like this in my life she drives me crazy when we're alone when I feel that it's a crazy thing ratata all night she desires you with me I do it wherever she dies because she wants me to peg her to the wall she likes the tigers that are playful she wants me to change positions and she likes and enjoys it hard she wants me to give her a crazy thing that takes me to glory I've never felt anything like this in my life she drives me crazy when we're alone when I feel that it's a crazy thing ratata devil how good you are with your pum pum pum I'm going to give you for your pum pum pum when I hit you mami tum tum tum if we do it in my car let's do brum brum brum I carry my tank full she wants me to go down south and screams wou wou wou with shory attitude I'm going to give you light a crazy thing that takes me to glory I've never felt anything like this in my life she drives me crazy when we're alone when I feel that it's a crazy thing ratata a crazy thing you have me crazy mami locaa you know no one like her in my life the manbo bacano drives me crazy it's me when we're alone f u e g o fire is a crazy thing ratata yah all night she desires you with me I do it wherever she dies because she wants me to peg her to the wall she likes the tigers that are playful she wants me to change positions and she likes and enjoys it hard she wants me to give her a crazy thing that takes me to glory I've never felt anything like this in my life she drives me crazy when we're alone when I feel that it's a crazy thing ratata,male,,"""she"", ""mami"", ""me"", ""I"", ""my"", ""he"", ""him"", ""she dies""","I predicted the gender of the writer as male based on the use of masculine pronouns such as ""I"", ""me"", ""my"", and ""he"" and ""him"". The use of feminine pronouns like ""she"" and ""her"" suggests that the writer is referring to a female partner, but the overall tone and language used by the writer implies a",,,"LYRICS: fuego uoh uoh uoh the music of the future yeah a crazy thing that takes me to glory I've never felt anything like this in my life she drives me crazy when we're alone when I feel that it's a crazy thing ratata all night she desires you with me I do it wherever she dies because she wants me to peg her to the wall she likes the tigers that are playful she wants me to change positions and she likes and enjoys it hard she wants me to give her a crazy thing that takes me to glory I've never felt anything like this in my life she drives me crazy when we're alone when I feel that it's a crazy thing ratata devil how good you are with your pum pum pum I'm going to give you for your pum pum pum when I hit you mami tum tum tum if we do it in my car let's do brum brum brum I carry my tank full she wants me to go down south and screams wou wou wou with shory attitude I'm going to give you light a crazy thing that takes me to glory I've never felt anything like this in my life she drives me crazy when we're alone when I feel that it's a crazy thing ratata a crazy thing you have me crazy mami locaa you know no one like her in my life the manbo bacano drives me crazy it's me when we're alone f u e g o fire is a crazy thing ratata yah all night she desires you with me I do it wherever she dies because she wants me to peg her to the wall she likes the tigers that are playful she wants me to change positions and she likes and enjoys it hard she wants me to give her a crazy thing that takes me to glory I've never felt anything like this in my life she drives me crazy when we're alone when I feel that it's a crazy thing ratata
+
+GENDER: male
+GENDER_KEYWORDS: ""she"", ""mami"", ""me"", ""I"", ""my"", ""he"", ""him"", ""she dies""
+GENDER_REASONING: I predicted the gender of the writer as male based on the use of masculine pronouns such as ""I"", ""me"", ""my"", and ""he"" and ""him"". The use of feminine pronouns like ""she"" and ""her"" suggests that the writer is referring to a female partner, but the overall tone and language used by the writer implies a"
+6,La Mordidita,Ricky Martin,Male,North America,spotify,"The bell rang and the weekend can be seen
+sha la la la la la
+dressed in a suit
+wild lust under my skin
+if God put the apple
+it was to bite
+oh God let's sin
+cuddling until dawn
+the party arrived for your little mouth
+all night
+all day
+let's go bathe on the little shore
+that the tide is itchy
+ita ita ita
+a little bite
+a little bite
+a little bite
+of your little mouth
+a little bite
+a little bite
+a little bite
+of your little mouth
+your lips my teeth
+crunchy bite
+rich cake
+fire in your pupils
+your body drips
+tequila and honey
+if God put the apple
+it was to bite
+oh God let's sin
+cuddling until dawn
+the party arrived for your little mouth
+all night
+all day
+let's go bathe on the little shore
+that the tide is itchy
+ita ita ita
+a little bite
+a little bite
+a little bite
+of your little mouth
+a little bite
+a little bite
+a little bite
+of your little mouth
+I want to think you're not real
+it seems natural
+lethal
+that's how you put yourself to dance
+you don't put on the brakes
+when you start to sweat
+let's go low to feel your flow
+to teach you girl
+to call attention
+it keeps you in tension
+without lowering the pressure
+sweat has a cure
+to stop the tension
+dé ja me moderte
+I'm a vampire well crazy
+dé ja me moderte
+I swear and if people
+dé ja me moderte
+slowly and look for me
+dé ja me moderte
+tied up well crazy
+the party arrived for your little mouth
+all night
+all day
+let's go bathe on the little shore
+that the tide is itchy
+ita ita ita
+a little bite
+a little bite
+a little bite
+of your little mouth
+a little bite
+a little bite
+a little bite
+it's itchy
+ita ita ita
+it's itchy
+ita ita ita
+the party arrived for your little mouth
+all night
+all day
+let's go bathe on the little shore
+that the tide is itchy
+ita ita ita
+The bell rang and the weekend can be seen
+sha la la la la la
+dressed in a suit
+wild lust under my skin
+if God put the apple
+it was to bite
+oh God let's sin
+cuddling until dawn
+the party arrived for your little mouth
+all night
+all day
+let's go bathe on the little shore
+that the tide is itchy
+ita ita ita
+a little bite
+a little bite
+a little bite
+of your little mouth
+a little bite
+a little bite
+a little bite
+of your little mouth
+your lips my teeth
+crunchy bite
+rich cake
+fire in your pupils
+your body drips
+tequila and honey
+if God put the apple
+it was to bite
+oh God let's sin
+cuddling until dawn
+the party arrived for your little mouth
+all night
+all day
+let's go bathe on the little shore
+that the tide is itchy
+ita ita ita
+a little bite
+a little bite
+a little bite
+of your little mouth
+a little bite
+a little bite
+a little bite
+of your little mouth
+I want to think you're not real
+it seems natural
+lethal
+that's how you put yourself to dance
+you don't put on the brakes
+when you start to sweat
+let's go low to feel your flow
+to teach you girl
+to call attention
+it keeps you in tension
+without lowering the pressure
+sweat has a cure
+to stop the tension
+dé ja me moderte
+I'm a vampire well crazy
+dé ja me moderte
+I swear and if people
+dé ja me moderte
+slowly and look for me
+dé ja me moderte
+tied up well crazy
+the party arrived for your little mouth
+all night
+all day
+let's go bathe on the little shore
+that the tide is itchy
+ita ita ita
+a little bite
+a little bite
+a little bite
+of your little mouth
+a little bite
+a little bite
+a little bite
+it's itchy
+ita ita ita
+it's itchy
+ita ita ita
+the party arrived for your little mouth
+all night
+all day
+let's go bathe on the little shore
+that the tide is itchy
+ita ita ita",male,,'dressed,,,,"LYRICS: 
+The bell rang and the weekend can be seen
+sha la la la la la
+dressed in a suit
+wild lust under my skin
+if God put the apple
+it was to bite
+oh God let's sin
+cuddling until dawn
+the party arrived for your little mouth
+all night
+all day
+let's go bathe on the little shore
+that the tide is itchy
+ita ita ita
+a little bite
+a little bite
+a little bite
+of your little mouth
+a little bite
+a little bite
+a little bite
+of your little mouth
+your lips my teeth
+crunchy bite
+rich cake
+fire in your pupils
+your body drips
+tequila and honey
+if God put the apple
+it was to bite
+oh God let's sin
+cuddling until dawn
+the party arrived for your little mouth
+all night
+all day
+let's go bathe on the little shore
+that the tide is itchy
+ita ita ita
+a little bite
+a little bite
+a little bite
+of your little mouth
+a little bite
+a little bite
+a little bite
+of your little mouth
+I want to think you're not real
+it seems natural
+lethal
+that's how you put yourself to dance
+you don't put on the brakes
+when you start to sweat
+let's go low to feel your flow
+to teach you girl
+to call attention
+it keeps you in tension
+without lowering the pressure
+sweat has a cure
+to stop the tension
+dé ja me moderte
+I'm a vampire well crazy
+dé ja me moderte
+I swear and if people
+dé ja me moderte
+slowly and look for me
+dé ja me moderte
+tied up well crazy
+the party arrived for your little mouth
+all night
+all day
+let's go bathe on the little shore
+that the tide is itchy
+ita ita ita
+a little bite
+a little bite
+a little bite
+of your little mouth
+a little bite
+a little bite
+a little bite
+it's itchy
+ita ita ita
+it's itchy
+ita ita ita
+the party arrived for your little mouth
+all night
+all day
+let's go bathe on the little shore
+that the ti...
+
+GENDER: male
+GENDER_KEYWORDS: 'dressed"
+7,Changes,2Pac,Male,North America,spotify,i see no changes wake up in the morning and i ask myself is life worth livin should i blast myself tired of bein poor and even worse black my stomach hurts so lookin for a purse to snatch cops give a damn about a negro pull the trigger kill a nigga he is a hero give the crack to the kids who the hell cares one less hungry mouth on the welfare first ship em dope and let em deal to brothers give em guns step back watch em kill each other time to fight back that is what huey said two shots in the dark now huey s dead i got love for my brother but we can never go nowhere unless we share with each other we got to start makin changes learn to see me as a brother instead of two distant strangers and that is how it is supposed to be how can the devil take a brother if he is close to me love to go back to when we played as kids but things change and that is the way it is just the way it is things ll never be the same just the way it is aww yeah just the way it is things ll never be the same just the way it is aww yeah i see no changes all i see is racist faces misplaced hate makes disgrace to races we under i wonder what it takes to make this one better place let us erase the wasted take the evil out the people they will be actin right cause both black and white are smokin crack tonight and the only time we chill is when we kill each other it takes skill to be real time to heal each other and although it seems heaven sent we am not ready to see a black president it am not a secret do not conceal the fact the penitentiary s packed and it is filled with blacks but some things will never change try to show another way but you stayin in the dope game now tell me what is a mother to do bein real do not appeal to the brother in you you got to operate the easy way i made a g today but you made it in a sleazy way sellin crack to the kids i got to get paid well hey but that is the way it is just the way it is things ll never be the same just the way it is aww yeah just the way it is things ll never be the same just the way it is aww yeah we got to make a change time for us as a people to start makin some changes change the way we eat change the way we live and let us change the way we treat each other you see the old way was not workin so it is on us to do what we got to do to survive and still i see no changes cannot a brother get a little peace war on the streets and a war in the middle east instead of war on poverty they got a war on drugs so the police can bother me and i am not never did a crime i am not have to do but now back with the facts givin it back to you let em jack you up back you up crack you up and pimp smack you up you got to learn to hold your own they get jealous when they see you with your mobile phone but tell the cops they cannot touch this i do not trust this when they try to rush i bust this the sound of my tool you say it am not cool my mama did not raise no fool and as long as i stay black i got to stay strapped and i never get to lay back cause i always got to worry bout the payback some buck that i roughed up way back comin back after all these years rat a tat tat tat tat that is the way it is just the way it is things ll never be the same just the way it is aww yeah my brother you are my sister just the way it is things ll never be the same just the way it is aww yeah some things ll never change,male,,"""brother"", ""nigga"", ""he"", ""his""","The use of masculine pronouns (""he"", ""his"") and masculine-oriented slang (""nigga"", ""bro",,,"LYRICS: 
+i see no changes wake up in the morning and i ask myself is life worth livin should i blast myself tired of bein poor and even worse black my stomach hurts so lookin for a purse to snatch cops give a damn about a negro pull the trigger kill a nigga he is a hero give the crack to the kids who the hell cares one less hungry mouth on the welfare first ship em dope and let em deal to brothers give em guns step back watch em kill each other time to fight back that is what huey said two shots in the dark now huey s dead i got love for my brother but we can never go nowhere unless we share with each other we got to start makin changes learn to see me as a brother instead of two distant strangers and that is how it is supposed to be how can the devil take a brother if he is close to me love to go back to when we played as kids but things change and that is the way it is just the way it is things ll never be the same just the way it is aww yeah just the way it is things ll never be the same just the way it is aww yeah i see no changes all i see is racist faces misplaced hate makes disgrace to races we under i wonder what it takes to make this one better place let us erase the wasted take the evil out the people they will be actin right cause both black and white are smokin crack tonight and the only time we chill is when we kill each other it takes skill to be real time to heal each other and although it seems heaven sent we am not ready to see a black president it am not a secret do not conceal the fact the penitentiary s packed and it is filled with blacks but some things will never change try to show another way but you stayin in the dope game now tell me what is a mother to do bein real do not appeal to the brother in you you got to operate the easy way i made a g today but you made it in a sleazy way sellin crack to the kids i got to get paid well hey but that is the way it is just the way it is things ll never be the same just the way it is aww yeah just the way it is 
+
+GENDER: male
+GENDER_KEYWORDS: ""brother"", ""nigga"", ""he"", ""his""
+GENDER_REASONING: The use of masculine pronouns (""he"", ""his"") and masculine-oriented slang (""nigga"", ""bro"
+8,Latina (feat. Maluma),Reykon,Male,Latin America,spotify,No uh ah uh reykon ey ah oh maluma mamacita ooh this is for you you said you would take me to heaven without leaving the room you rewarded me I made you leave your comfort zone from you I only got a taste I innocently wait for your call and it didn't arrive alright alright you are more beautiful more fine what a Latina more hard hard hard tasting you was my cure jajaja what a tremendous waist wow wuoh oh oh oh oh more beautiful more fine there's more feeling more hard and more beautiful I took you to the stars you left me on the moon uh uh uh wants má ma wants flame just call because she wants it harder oh what a divine waist mamacita wants má ma wants flame just call because she wants it harder hard hard hard until the moon falls I am reykon the leader ah she has a different movement eh like romeo I will make her an indecent proposal eh the problem is that she answers eh and let's repeat what we did last Friday all week you and me in my bed don't act like you don't believe I know what you're planning with a taste she fell in love and we woke up like becky without pajamas wuh I am reykon the leader ah that you are more beautiful more fine what a Latina more hard hard hard tasting you was my cure you know oh what a tremendous waist uh uh uh it's more beautiful more fine there's more feeling more hard and more beautiful baby I took you to the stars you left me on the moon wow wuoh oh oh oh oh wants má ma wants flame just call because she wants it harder tell her oh what a tremendous waist mamacita wants má ma wants flame just call because she wants it harder until the moon falls maluma baby says that he doesn't take anyone on the ferrari mami look I haven't gone out to party again I prefer my bed with your body watching netflix and smoking mari tell her that with you everything feels má rich jaja starting with your little kisses you meet all the requirements if you haven't understood I'll explain it you said you would take me to heaven without leaving the room you rewarded me I made you leave your comfort zone from you I only got a taste I innocently wait for your call and it didn't arrive says you you you are more beautiful more fine what a Latina more hard hard hard tasting you was my cure cure oh what a tremendous waist uh uh uh it's more beautiful more fine there's more feeling more hard and more beautiful baby I took you to the stars you left me on the moon wow wuoh oh oh oh oh I am reykon the leader ey ey don't forget reykon with my maluma baby alright alright maluma baby the envy for the whole world so they know black angels the kénsel tenso beats says chez tom chez tom chez tom tell her chez che chez tom parcero making all the mamacitas dance pretty boy dirty boy ey reykon and maluma what everyone wanted what everyone expected reykon I took you to the stars maluma you left me on the moon give me a call baby i love you uh uh uh,male,,"""mamacita"", ""she"", ""her"", ""my bed"", ""your body""","The use of feminine titles and pronouns (""mamacita"", ""she"", ""her"") in the lyrics, as well as the reference to a romantic partner",,,"LYRICS: 
+No uh ah uh reykon ey ah oh maluma mamacita ooh this is for you you said you would take me to heaven without leaving the room you rewarded me I made you leave your comfort zone from you I only got a taste I innocently wait for your call and it didn't arrive alright alright you are more beautiful more fine what a Latina more hard hard hard tasting you was my cure jajaja what a tremendous waist wow wuoh oh oh oh oh more beautiful more fine there's more feeling more hard and more beautiful I took you to the stars you left me on the moon uh uh uh wants má ma wants flame just call because she wants it harder oh what a divine waist mamacita wants má ma wants flame just call because she wants it harder hard hard hard until the moon falls I am reykon the leader ah she has a different movement eh like romeo I will make her an indecent proposal eh the problem is that she answers eh and let's repeat what we did last Friday all week you and me in my bed don't act like you don't believe I know what you're planning with a taste she fell in love and we woke up like becky without pajamas wuh I am reykon the leader ah that you are more beautiful more fine what a Latina more hard hard hard tasting you was my cure you know oh what a tremendous waist uh uh uh it's more beautiful more fine there's more feeling more hard and more beautiful baby I took you to the stars you left me on the moon wow wuoh oh oh oh oh wants má ma wants flame just call because she wants it harder tell her oh what a tremendous waist mamacita wants má ma wants flame just call because she wants it harder until the moon falls maluma baby says that he doesn't take anyone on the ferrari mami look I haven't gone out to party again I prefer my bed with your body watching netflix and smoking mari tell her that with you everything feels má rich jaja starting with your little kisses you meet all the requirements if you haven't understood I'll explain it you said you would take me to heaven without leaving the room you rew...
+
+GENDER: male
+GENDER_KEYWORDS: ""mamacita"", ""she"", ""her"", ""my bed"", ""your body""
+GENDER_REASONING: The use of feminine titles and pronouns (""mamacita"", ""she"", ""her"") in the lyrics, as well as the reference to a romantic partner"
+9,Suga Suga,Baby Bash,Male,North America,spotify,so tight so fly you got me lifted you got me lifted you got me lifted shifted higher than a ceiling and ooh wee it is the ultimate feeling you got me lifted feeling so gifted sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly you know it is leather when we ride flinging rawhide doing what we do watching screens getting high girl you keep it so fly with you sweet honeybuns you were there when the money was gone be there when the money comes off top i cannot lie i love to get high you my lil sugar yo little stud and every time we kick it it is off to the groovy treat you like my sticky icky or my sweet ooey gooey for real though you got me lifted shifted higher than a ceiling and ooh wee it is the ultimate feeling you got me lifted feeling so gifted sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly now i am not worried about a thing cause i just hit me a lick i got a fat sack and a superfly chick there ain't nothing you can say to a playa cause doowop she fly like the planes in the air right she is full grown setting the wrong tone digging the energy and loving the o zone so fly like a dove so fly like a raven quick to politic with some fly conversation in a natural mood then a natural dude and we some natural fools blowing out by the pool she like my sexy cool mama with blades on her beret rocking dolce & gabbana italian with high heels and a cuban you got me lifted shifted higher than a ceiling and ooh wee it is the ultimate feeling you got me lifted feeling so gifted sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly you know it is leather when we ride flinging rawhide doing what we do watching screens getting high girl you keep it so fly with you sweet honeybuns you were there when the money was gone be there when the money comes you know it is leather when we ride flinging rawhide doing what we do watching screens getting high girl you keep it so fly with you sweet honeybuns you were there when the money was gone be there when the money comes for real though you got me lifted shifted higher than a ceiling and ooh wee it is the ultimate feeling you got me lifted feeling so gifted sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly so high like a star so high like a star so high like a star so high like a star sugar,male,,"'sugar', 'lil sugar', 'yo little stud', 'player', 'playa', 'dude','mama'","The use of words like'sugar', 'lil sugar', 'yo little stud' and'sweet",,,"LYRICS: 
+so tight so fly you got me lifted you got me lifted you got me lifted shifted higher than a ceiling and ooh wee it is the ultimate feeling you got me lifted feeling so gifted sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly you know it is leather when we ride flinging rawhide doing what we do watching screens getting high girl you keep it so fly with you sweet honeybuns you were there when the money was gone be there when the money comes off top i cannot lie i love to get high you my lil sugar yo little stud and every time we kick it is off to the groovy treat you like my sticky icky or my sweet ooey gooey for real though you got me lifted shifted higher than a ceiling and ooh wee it is the ultimate feeling you got me lifted feeling so gifted sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly now i am not worried about a thing cause i just hit me a lick i got a fat sack and a superfly chick there ain't nothing you can say to a playa cause doowop she fly like the planes in the air right she is full grown setting the wrong tone digging the energy and loving the o zone so fly like a dove so fly like a raven quick to politic with some fly conversation in a natural mood then a natural dude and we some natural fools blowing out by the pool she like my sexy cool mama with blades on her beret rocking dolce & gabbana italian with high heels and a cuban you got me lifted shifted higher than a ceiling and ooh wee it is the ultimate feeling you got me lifted feeling so gifted sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly sugar sugar how you get so fly you know it is leather when we ride flinging rawhide doing what we do watching screens getting high girl you keep it so fly with you sweet honeybuns you were the...
+
+GENDER: male
+GENDER_KEYWORDS:'sugar', 'lil sugar', 'yo little stud', 'player', 'playa', 'dude','mama'
+GENDER_REASONING: The use of words like'sugar', 'lil sugar', 'yo little stud' and'sweet"
+10,You Don't Know Me - Radio Edit,Jax Jones,Male,Europe,spotify,ooh na na yeah act like you know me like you know me na na yeah I am not your buddy not your girl ooh na na yeah act like you know me like you know me na na yeah you do not know me what you what you gon do oh yeah time is money so do not mess with mine see out with my girls I may have a good time step back with your chit chat killing my vibe oh oh woah oh ah see I cannot get too much of a good thing mmm s why me I am dressed up in the finest things woah please hold your tongue do not say a damn thing see your iPhone camera flashing please step back it is my style you are cramping you here for long oh no just passing do you want to drink nah thanks for asking ooh na na yeah act like you know me like you know me na na yeah I am not your buddy not your girl ooh na na yeah act like you know me like you know me na na yeah you do not know me fuck yeah ooh na na yeah act like you know me like you know me na na yeah I am not your buddy not your girl ooh na na yeah act like you know me like you know me na na yeah you do not know me fuck yeah I mean we could throw shapes together but it does not mean you are in my circle yeah cruise through life and feeling on track if you cannot keep up then you better fall back uh cause money look better when I see it all stacked up ooh ooh ooh ooh see I cannot get too much of a good thing mmm s why me I am dressed up in the finest things woah please hold your tongue do not say a damn thing see your iPhone camera flashing please step back it is my style you are cramping you here for long oh no just passing do you want to drink nah thanks for asking ooh na na yeah act like you know me like you know me na na yeah I am not your buddy not your girl ooh na na yeah act like you know me like you know me na na yeah you do not know me fuck yeah ooh na na yeah act like you know me like you know me na na yeah I am not your buddy not your girl ooh na na yeah act like you know me like you know me na na yeah you do not know me fuck yeah come round here just know though get what you want what you want what you want want tell you what you do not know I get what I want what I want what I want want see your iPhone camera flashing please step back it is my style you are cramping you here for long oh no just passing do you want to drink nah thanks for asking ooh na na yeah act like you know me like you know me na na yeah I am not your buddy not your girl ooh na na yeah act like you know me like you know me na na yeah you do not know me fuck yeah you do not know me fuck yeah,female,,"""I am not your buddy not your girl"", ""see out with my girls"", ""you are cramping"", ""step back with your chit chat killing my vibe""","The lyrics contain phrases that suggest a confident and assertive female speaker, who is setting boundaries and asserting her independence. The repetition",,,"LYRICS: ooh na na yeah act like you know me like you know me na na yeah I am not your buddy not your girl ooh na na yeah act like you know me like you know me na na yeah you do not know me what you what you gon do oh yeah time is money so do not mess with mine see out with my girls I may have a good time step back with your chit chat killing my vibe oh oh woah oh ah see I cannot get too much of a good thing mmm s why me I am dressed up in the finest things woah please hold your tongue do not say a damn thing see your iPhone camera flashing please step back it is my style you are cramping you here for long oh no just passing do you want to drink nah thanks for asking ooh na na yeah act like you know me like you know me na na yeah I am not your buddy not your girl ooh na na yeah act like you know me like you know me na na yeah you do not know me fuck yeah ooh na na yeah act like you know me like you know me na na yeah I am not your buddy not your girl ooh na na yeah act like you know me like you know me na na yeah you do not know me fuck yeah I mean we could throw shapes together but it does not mean you are in my circle yeah cruise through life and feeling on track if you cannot keep up then you better fall back uh cause money look better when I see it all stacked up ooh ooh ooh ooh see I cannot get too much of a good thing mmm s why me I am dressed up in the finest things woah please hold your tongue do not say a damn thing see your iPhone camera flashing please step back it is my style you are cramping you here for long oh no just passing do you want to drink nah thanks for asking ooh na na yeah act like you know me like you know me na na yeah I am not your buddy not your girl ooh na na yeah act like you know me like you know me na na yeah you do not know me fuck yeah come round here j...
+
+GENDER: female
+GENDER_KEYWORDS: ""I am not your buddy not your girl"", ""see out with my girls"", ""you are cramping"", ""step back with your chit chat killing my vibe""
+GENDER_REASONING: The lyrics contain phrases that suggest a confident and assertive female speaker, who is setting boundaries and asserting her independence. The repetition"
+11,Secrets,The Weeknd,Male,North America,spotify,everybody here wants you my love my love and i know that you want em too my love my love i ask you what your heart desires my love my love you tell me the only one my love my love a lie a lie i catch you every time in your lies your lies every time you close your eyes i hear the secrets that you keep when you are talkin in your sleep i hear the secrets that you keep keep keep when you are talk talkin talkin i hear the secrets that you keep when you are talkin in your sleep i hear the secrets that you keep keep keep when you are talk talkin talkin you told me not to worry bout those guys those guys you told me that you left it all behind behind a lie a lie i catch you every time in your lies your lies every time you close your eyes i hear the secrets that you keep when you are talkin in your sleep i hear the secrets that you keep keep keep when you are talk talkin talkin i hear the secrets that you keep when you are talkin in your sleep i hear the secrets that you keep keep keep when you are talk talkin talkin wipe the lies from your eyes i see that you are not mine i can see the lust in your eyes you cannot hide it you cannot be the one i realize we are divided i hear the secrets that you keep when you are talkin in your sleep i hear the secrets that you keep keep keep when you are talk talkin talkin i hear the secrets that you keep when you are talkin in your sleep i hear the secrets that you keep keep keep when you are talk talkin talkin,male,North America,"""my love my love"", ""you"", ""i"", ""you are not mine""","The use of possessive language such as ""my love my love"" and ""you are not mine"" suggests a male perspective, as it is a common way for males to express affection or ownership in romantic relationships. The repetition of ""you"" and ""i"" also indicates a more assertive and direct tone often associated with male writers.","""you cannot hide it"", ""i can see the lust in your eyes"", ""you told me not to worry bout those guys""","The use of phrases like ""you cannot hide it"" and ""i can see the lust in your eyes"" suggests a cultural influence of romantic and sensual","LYRICS: 
+everybody here wants you my love my love and i know that you want em too my love my love i ask you what your heart desires my love my love you tell me the only one my love my love a lie a lie i catch you every time in your lies your lies every time you close your eyes i hear the secrets that you keep when you are talkin in your sleep i hear the secrets that you keep keep keep when you are talk talkin talkin i hear the secrets that you keep when you are talkin in your sleep i hear the secrets that you keep keep keep when you are talk talkin talkin you told me not to worry bout those guys those guys you told me that you left it all behind behind a lie a lie i catch you every time in your lies your lies every time you close your eyes i hear the secrets that you keep when you are talkin in your sleep i hear the secrets that you keep keep keep when you are talk talkin talkin i hear the secrets that you keep when you are talkin in your sleep i hear the secrets that you keep keep keep when you are talk talkin talkin wipe the lies from your eyes i see that you are not mine i can see the lust in your eyes you cannot hide it you cannot be the one i realize we are divided i hear the secrets that you keep when you are talkin in your sleep i hear the secrets that you keep keep keep when you are talk talkin talkin i hear the secrets that you keep when you are talkin in your sleep i hear the secrets that you keep keep keep when you are talk talkin talkin
+
+GENDER: male
+GENDER_KEYWORDS: ""my love my love"", ""you"", ""i"", ""you are not mine""
+GENDER_REASONING: The use of possessive language such as ""my love my love"" and ""you are not mine"" suggests a male perspective, as it is a common way for males to express affection or ownership in romantic relationships. The repetition of ""you"" and ""i"" also indicates a more assertive and direct tone often associated with male writers.
+
+CONTINENT: North America
+CONTINENT_KEYWORDS: ""you cannot hide it"", ""i can see the lust in your eyes"", ""you told me not to worry bout those guys""
+CONTINENT_REASONING: The use of phrases like ""you cannot hide it"" and ""i can see the lust in your eyes"" suggests a cultural influence of romantic and sensual"
+12,Me Enamoré,Jay Wheeler,Male,North America,spotify,"Yeah yeah yeah, my favorite voice baby, and hello, how are you?
+I wouldn't want to bother you, but I had to call you.
+I know maybe you didn't expect this, but I have to confess
+that I'm dying to kiss you.
+You drive me crazy and I can't deny it,
+and when you look at me, I don't know how to react.
+You changed everything, I can't even think.
+I had to vent, don't go and change.
+I fell in love, yes, I fell in love.
+Among so many hearts, in yours I stayed and I fell in love.
+Yes, I fell in love and I couldn't avoid it,
+no matter how much I tried.
+I fell in love, I fell in love.
+
+Yeah yeah oh oh oh oh oh.
+I fell in love, I fell in love.
+Ah ah ah ah ah ah ah ah.
+
+I know it's hard for you to trust,
+you blame your past, you don't want to start over.
+For all that you've cried, thinking everyone is the same,
+you don't want to waste your time.
+I don't know if you're going to ignore me for telling you what I feel.
+I'm not going to stay silent anymore.
+If you let me, I'll stay with you.
+
+Yeah, I have to accept it.
+I try not to think about you, but I can't anymore.
+I fell in love, yes, I fell in love.
+Among so many hearts, in yours I stayed and I fell in love.
+Yes, I fell in love and I couldn't avoid it,
+no matter how much I tried.
+
+Imagining that I have you here,
+I wish you would say yes.
+What can I do if I always miss you?
+I don't know what I've become,
+but when I saw you, I feel like everything changed.
+I'm in love and I don't deny it.
+
+Yeah, if you're not here, I feel blind.
+I can't forget you.
+You have everything I want.
+
+I fell in love, yes, I fell in love.
+Yeah yeah yeah yeah.
+
+I fell in love, yes, I fell in love,
+and I couldn't avoid it, no matter how much I tried.
+Yeah yeah yeah yeah.
+
+Nah, my favorite voice baby.",female,,"""my favorite voice baby"", ""I don't know what I've become"", ""I'm in love and I don",,,,"LYRICS: Yeah yeah yeah, my favorite voice baby, and hello, how are you?
+I wouldn't want to bother you, but I had to call you.
+I know maybe you didn't expect this, but I have to confess
+that I'm dying to kiss you.
+You drive me crazy and I can't deny it,
+and when you look at me, I don't know how to react.
+You changed everything, I can't even think.
+I had to vent, don't go and change.
+I fell in love, yes, I fell in love.
+Among so many hearts, in yours I stayed and I fell in love.
+Yes, I fell in love and I couldn't avoid it,
+no matter how much I tried.
+I fell in love, I fell in love.
+Yeah yeah oh oh oh oh oh.
+I fell in love, I fell in love.
+Ah ah ah ah ah ah ah ah.
+I know it's hard for you to trust,
+you blame your past, you don't want to start over.
+For all that you've cried, thinking everyone is the same,
+you don't want to waste your time.
+I don't know if you're going to ignore me for telling you what I feel.
+I'm not going to stay silent anymore.
+If you let me, I'll stay with you.
+Yeah, I have to accept it.
+I try not to think about you, but I can't anymore.
+I fell in love, yes, I fell in love.
+Among so many hearts, in yours I stayed and I fell in love.
+Yes, I fell in love and I couldn't avoid it,
+no matter how much I tried.
+Imagining that I have you here,
+I wish you would say yes.
+What can I do if I always miss you?
+I don't know what I've become,
+but when I saw you, I feel like everything changed.
+I'm in love and I don't deny it.
+Yeah, if you're not here, I feel blind.
+I can't forget you.
+You have everything I want.
+I fell in love, yes, I fell in love.
+Yeah yeah yeah yeah.
+I fell in love, yes, I fell in love,
+and I couldn't avoid it, no matter how much I tried.
+Yeah yeah yeah yeah.
+Nah, my favorite voice baby.
+
+GENDER: female
+GENDER_KEYWORDS: ""my favorite voice baby"", ""I don't know what I've become"", ""I'm in love and I don"
+13,"Stand Out - From ""How to Build a Better Boy""",Sabrina Carpenter,Female,North America,spotify,sweat all the little things just keep your eye on the bigger things cause if you look a little closer going to get a bigger picture your heart beats like a marching drum telling you to keep on walking on and you got to find a little fire shine your light a little brighter you and i were meant to fly like rockets in the night keep your head up shoot the clouds down throw it all in break your own ground and if you are going to make a mess make it loud and if you are going to take a stand stand out life is our game we can go play shake up the rules be afraid and if you are going to make a mess make it loud and if you are going to take a stand stand out stand out oh oh oh oh stand out oh oh oh oh stand out oh oh oh oh stand out oh oh oh oh stand out jump on to the roller coaster up up now we are getting closer we can be the silver lining for every treasure that is hiding coming on like the speed of light yeah boom boom it is like dynamite going to start a revolution stop keep movin you and i were meant to fly like rockets in the night keep your head up shoot the clouds down throw it all in break your own ground and if you are going to make a mess make it loud and if you are going to take a stand stand out life is our game we can go play shake up the rules be afraid and if you are going to make a mess make it loud and if you are going to take a stand stand out stand out oh oh oh oh stand out oh oh oh oh stand out oh oh oh oh stand out stand out oh oh oh oh stand out oh oh oh oh stand out oh oh oh oh stand out be the voice be the cause be the change be yourself the best you can be you and i were meant to fly like rockets in the night keep your head up shoot the clouds down throw it all in break your own ground and if you are going to make a mess make it loud and if you are going to take a stand stand out life is our game we can go play shake up the rules be afraid and if you are going to make a mess make it loud make it loud and if you are going to take a stand stand out stand out oh oh oh oh yeah stand out oh oh oh oh stand out stand out oh oh oh oh stand out oh oh oh oh stand out oh oh oh oh stand out oh oh oh oh stand out oh oh oh oh stand out,male,,"""you and i were meant to fly like rockets in the night"", ""keep your head up"", ""shoot the clouds down"", ""be the voice be the cause be the change""
+GENDER",,,,"LYRICS: 
+sweat all the little things just keep your eye on the bigger things cause if you look a little closer going to get a bigger picture your heart beats like a marching drum telling you to keep on walking on and you got to find a little fire shine your light a little brighter you and i were meant to fly like rockets in the night keep your head up shoot the clouds down throw it all in break your own ground and if you are going to make a mess make it loud and if you are going to take a stand stand out life is our game we can go play shake up the rules be afraid and if you are going to make a mess make it loud and if you are going to take a stand stand out stand out oh oh oh oh stand out oh oh oh oh stand out oh oh oh oh stand out oh oh oh oh stand out oh oh oh oh stand out jump on to the roller coaster up up now we are getting closer we can be the silver lining for every treasure that is hiding coming on like the speed of light yeah boom boom it is like dynamite going to start a revolution stop keep movin you and i were meant to fly like rockets in the night keep your head up shoot the clouds down throw it all in break your own ground and if you are going to make a mess make it loud and if you are going to take a stand stand out life is our game we can go play shake up the rules be afraid and if you are going to make a mess make it loud and if you are going to take a stand stand out stand out oh oh oh oh stand out oh oh oh oh stand out oh oh oh oh stand out oh oh oh oh stand out oh oh oh oh stand out oh oh oh oh stand out be the voice be the cause be the change be yourself the best you can be you and i were meant to fly like rockets in the night keep your head up shoot the clouds down throw it all in break your own ground and if you are going to make a mess make it loud and if you are going to take a stand stand out life is our game we can go play shake up the rules be afraid and if you are going to make a mess make it loud make it loud and if you are going to take a stand stand out 
+
+GENDER: male
+GENDER_KEYWORDS: ""you and i were meant to fly like rockets in the night"", ""keep your head up"", ""shoot the clouds down"", ""be the voice be the cause be the change""
+GENDER"
+14,La Vida Es Una (feat. Pitbull),Lil Jon,Male,North America,spotify,Little Juan yeah Mr Worldwide yeah this is the anthem for everyone who enjoys life hey hey hey hey come on today we drink go today we smoke go life is short like hey life is one like hey today we drink go today we smoke go life is short like hey life is one like hey ayyyyy I that the party continues party that the party continues party that the party continues ayyyyy I that the party continues party that the party continues party that the party continues here comes the crazy one to get the water out of your coconut oh oh she says she does nothing but I know she does everything oh oh she has my vote she comes with nothing and leaves with everything mami sit here so I can see that my tongue is a motorcycle rrrrah I see you are hot hah I see you have a nice butt hah I see you are very boogie mami give me a tongue kiss come on yeah I see that you want to party I see that you are crazy I see that you want a drink come on open your mouth let's live life without worry let's live life great fun let's live life without worry let's live life great fun,male,North America,"""mami"", ""hot"", ""nice butt"", ""tongue kiss"", ""crazy"", ""boogie"", ""my vote""","The use of terms like ""mami"" and ""tongue kiss"" suggests a male perspective, as they are colloquialisms often used by men to address women. The lyrics also contain objectifying language towards women, such as commenting on physical appearance (""you are hot"", ""you have a nice butt"") and making a lewd suggestion (""give me a tongue kiss""). This language pattern is consistent with a male writer.","""coconut"", ""party"", ""anthem"", ""crazy one"", ""tongue kiss"", ""vote"", ""motorcycle""","The use of the term ""coconut"" suggests a reference to Latin American culture, which is common in North America. The mention of a ""crazy one"" and ""motorcycle"" also implies a carefree, party-oriented attitude, which is consistent with North American culture. Additionally, the mention of a ""vote"" suggests a democratic or American cultural reference. The overall tone and language style, with its emphasis on partying and freedom, also aligns with North American culture","LYRICS: 
+Little Juan yeah Mr Worldwide yeah this is the anthem for everyone who enjoys life hey hey hey hey come on today we drink go today we smoke go life is short like hey life is one like hey today we drink go today we smoke go life is short like hey life is one like hey ayyyyy I that the party continues party that the party continues party that the party continues ayyyyy I that the party continues party that the party continues party that the party continues here comes the crazy one to get the water out of your coconut oh oh she says she does nothing but I know she does everything oh oh she has my vote she comes with nothing and leaves with everything mami sit here so I can see that my tongue is a motorcycle rrrrah I see you are hot hah I see you have a nice butt hah I see you are very boogie mami give me a tongue kiss come on yeah I see that you want to party I see that you are crazy I see that you want a drink come on open your mouth let's live life without worry let's live life great fun let's live life without worry let's live life great fun
+
+GENDER: male
+GENDER_KEYWORDS: ""mami"", ""hot"", ""nice butt"", ""tongue kiss"", ""crazy"", ""boogie"", ""my vote""
+GENDER_REASONING: The use of terms like ""mami"" and ""tongue kiss"" suggests a male perspective, as they are colloquialisms often used by men to address women. The lyrics also contain objectifying language towards women, such as commenting on physical appearance (""you are hot"", ""you have a nice butt"") and making a lewd suggestion (""give me a tongue kiss""). This language pattern is consistent with a male writer.
+
+CONTINENT: North America
+CONTINENT_KEYWORDS: ""coconut"", ""party"", ""anthem"", ""crazy one"", ""tongue kiss"", ""vote"", ""motorcycle""
+CONTINENT_REASONING: The use of the term ""coconut"" suggests a reference to Latin American culture, which is common in North America. The mention of a ""crazy one"" and ""motorcycle"" also implies a carefree, party-oriented attitude, which is consistent with North American culture. Additionally, the mention of a ""vote"" suggests a democratic or American cultural reference. The overall tone and language style, with its emphasis on partying and freedom, also aligns with North American culture"
+15,We Own It (Fast & Furious),2 Chainz,Male,North America,spotify,young khalifa man2 chainz money s the motivation money s the conversation you on vacation we gettin paid so we on paycation i did it for the fam whatever we had to do it is just who i am yeah it is the life i chose gunshots in the dark one eye closed and we got it cooking like a one eyed stove you can catch me kissing my girl with both eyes closed perfecting my passion thanks for asking slow down so we had to crash it you used plastic we bout cash i see some people ahead that we gon pass i never feared death or dying i only fear never trying i am whatever i am only god can judge me now one shot everything rides on tonight even if got three strikes i ma go for it this moment we own it and not to be played with because it can get dangerous see these people i ride with this moment we own it and the same ones that i ride with be the same ones that i die with put it all out on the line with if you looking for me you can find wiz in the new car or in the crown with my new broad that is a fine chick and the wonder squad down with no way around it what you say tell me what you say working hard reppin for my dogs do this every day takin off looking out for all makin sure we ball like the mob all you do is call catch you if you fall young khalifa i never feared death or dying i only fear never trying i am whatever i am only god can judge me now one shot everything rides on tonight even if got three strikes i ma go for it this moment we own it and not to be played with because it can get dangerous see these people i ride with this moment we own it i ride or die for love this the biggest day of my life we got big guns been graduated from knives the day in the life and ready to ride got the spirit feelin like a killer inside financial outbreak free but i am not out yet ridin with the plug so close to the outlet at the red light rims sittin offset i look better on your girl than her outfit stuck to the plan always think that we would stand up never ran we the fam and loyalty never change up been down since day one look at where we came from jumpin out on anybody who try to say some one thing about it got a problem i got the same one money rolls we fold plently clubs we closed follow the same code never turn our backs our cars do not even lose control one shot everything rides on tonight even if got three strikes i ma go for it this moment we own it and not to be played with because it can get dangerous see these people i ride with this moment we own it i ride or die for mine ride or die material only one life to live so here we go this moment we own it young khalifa man2 chainz money s the motivation money s the conversation you on vacation we gettin paid so we on paycation i did it for the fam whatever we had to do it is just who i am yeah it is the life i chose gunshots in the dark one eye closed and we got it cooking like a one eyed stove you can catch me kissing my girl with both eyes closed perfecting my passion thanks for asking slow down so we had to crash it you used plastic we bout cash i see some people ahead that we gon pass i never feared death or dying i only fear never trying i am whatever i am only god can judge me now one shot everything rides on tonight even if got three strikes i ma go for it this moment we own it and not to be played with because it can get dangerous see these people i ride with this moment we own it and the same ones that i ride with be the same ones that i die with put it all out on the line with if you looking for me you can find wiz in the new car or in the crown with my new broad that is a fine chick and the wonder squad down with no way around it what you say tell me what you say working hard reppin for my dogs do this every day takin off looking out for all makin sure we ball like the mob all you do is call catch you if you fall young khalifa i never feared death or dying i only fear never trying i am whatever i am only god can judge me now one shot everything rides on tonight even if got three strikes i ma go for it this moment we own it and not to be played with because it can get dangerous see these people i ride with this moment we own it i ride or die for love this the biggest day of my life we got big guns been graduated from knives the day in the life and ready to ride got the spirit feelin like a killer inside financial outbreak free but i am not out yet ridin with the plug so close to the outlet at the red light rims sittin offset i look better on your girl than her outfit stuck to the plan always think that we would stand up never ran we the fam and loyalty never change up been down since day one look at where we came from jumpin out on anybody who try to say some one thing about it got a problem i got the same one money rolls we fold plently clubs we closed follow the same code never turn our backs our cars do not even lose control one shot everything rides on tonight even if got three strikes i ma go for it this moment we own it and not to be played with because it can get dangerous see these people i ride with this moment we own it i ride or die for mine ride or die material only one life to live so here we go this moment we own it young khalifa man2 chainz money s the motivation money s the conversation you on vacation we gettin paid so we on paycation i did it for the fam whatever we had to do it is just who i am yeah it is the life i chose gunshots in the dark one eye closed and we got it cooking like a one eyed stove you can catch me kissing my girl with both eyes closed perfecting my passion thanks for asking slow down so we had to crash it you used plastic we bout cash i see some people ahead that we gon pass i never feared death or dying i only fear never trying i am whatever i am only god can judge me now one shot everything rides on tonight even if got three strikes i ma go for it this moment we own it and not to be played with because it can get dangerous see these people i ride with this moment we own it and the same ones that i ride with be the same ones that i die with put it all out on the line with if you looking for me you can find wiz in the new car or in the crown with my new broad that is a fine chick and the wonder squad down with no way around it what you say tell me what you say working hard reppin for my dogs do this every day takin off looking out for all makin sure we ball like the mob all you do is call catch you if you fall young khalifa i never feared death or dying i only fear never trying i am whatever i am only god can judge me now one shot everything rides on tonight even if got three strikes i ma go for it this moment we own it and not to be played with because it can get dangerous see these people i ride with this moment we own it i ride or die for love this the biggest day of my life we got big guns been graduated from knives the day in the life and ready to ride got the spirit feelin like a killer inside financial outbreak free but i am not out yet ridin with the plug so close to the outlet at the red light rims sittin offset i look better on your girl than her outfit stuck to the plan always think that we would stand up never ran we the fam and loyalty never change up been down since day one look at where we came from jumpin out on anybody who try to say some one thing about it got a problem i got the same one money rolls we fold plently clubs we closed follow the same code never turn our backs our cars do not even lose control one shot everything rides on tonight even if got three strikes i ma go for it this moment we own it and not to be played with because it can get dangerous see these people i ride with this moment we own it i ride or die for mine ride or die material only one life to live so here we go this moment we own it,male,,"""young khalifa,"" ""man2,"" ""chainz,"" ""fam,"" ""dogs,"" ""mob,"" ""ride with,"" ""broads""",I predicted the writer to be male due to the use,,,"LYRICS: 
+young khalifa man2 chainz money s the motivation money s the conversation you on vacation we gettin paid so we on paycation i did it for the fam whatever we had to do it is just who i am yeah it is the life i chose gunshots in the dark one eye closed and we got it cooking like a one eyed stove you can catch me kissing my girl with both eyes closed perfecting my passion thanks for asking slow down so we had to crash it you used plastic we bout cash i see some people ahead that we gon pass i never feared death or dying i only fear never trying i am whatever i am only god can judge me now one shot everything rides on tonight even if got three strikes i ma go for it this moment we own it and not to be played with because it can get dangerous see these people i ride with this moment we own it and the same ones that i ride with be the same ones that i die with put it all out on the line with if you looking for me you can find wiz in the new car or in the crown with my new broad that is a fine chick and the wonder squad down with no way around it what you say tell me what you say working hard reppin for my dogs do this every day takin off looking out for all makin sure we ball like the mob all you do is call catch you if you fall young khalifa i never feared death or dying i only fear never trying i am whatever i am only god can judge me now one shot everything rides on tonight even if got three strikes i ma go for it this moment we own it and not to be played with because it can get dangerous see these people i ride with this moment we own it i ride or die for love this the biggest day of my life we got big guns been graduated from knives the day in the life and ready to ride got the spirit feelin like a killer inside financial outbreak free but i am not out yet ridin with the plug so close to the outlet at the red light rims sittin offset i look better on your girl than her outfit stuck to the plan always think that we would stand up never ran we the fam and loyalty never got me in trouble
+
+GENDER: male
+GENDER_KEYWORDS: ""young khalifa,"" ""man2,"" ""chainz,"" ""fam,"" ""dogs,"" ""mob,"" ""ride with,"" ""broads""
+GENDER_REASONING: I predicted the writer to be male due to the use"

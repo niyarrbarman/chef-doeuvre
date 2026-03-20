@@ -1,0 +1,196 @@
+Loading gnu/11.2.0
+  Loading requirement: binutils/11.2.0
+MASTER_ADDR: turpancomp3
+WORLD_SIZE: 8
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+Error in cpuinfo: prctl(PR_SVE_GET_VL) failed
+[W1120 14:14:00.704454200 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1120 14:14:00.704469360 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1120 14:14:00.540442052 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1120 14:14:00.540457412 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1120 14:14:00.690062562 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1120 14:14:00.690077802 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1120 14:14:00.581741043 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1120 14:14:00.581756363 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1120 14:14:00.840886432 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1120 14:14:00.840901752 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1120 14:14:01.065736357 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1120 14:14:01.065753038 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1120 14:14:01.055305076 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1120 14:14:01.055319436 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+[W1120 14:14:01.020575903 Utils.hpp:164] Warning: Environment variable NCCL_BLOCKING_WAIT is deprecated; use TORCH_NCCL_BLOCKING_WAIT instead (function operator())
+[W1120 14:14:01.020591023 Utils.hpp:135] Warning: Environment variable NCCL_ASYNC_ERROR_HANDLING is deprecated; use TORCH_NCCL_ASYNC_ERROR_HANDLING instead (function operator())
+Sliding Window Attention is enabled but not implemented for `sdpa`; unexpected results may be encountered.
+Sliding Window Attention is enabled but not implemented for `sdpa`; unexpected results may be encountered.
+Sliding Window Attention is enabled but not implemented for `sdpa`; unexpected results may be encountered.
+Sliding Window Attention is enabled but not implemented for `sdpa`; unexpected results may be encountered.
+Sliding Window Attention is enabled but not implemented for `sdpa`; unexpected results may be encountered.
+Loading model from /work/m25211/m25211brmn/Qwen-2.5-7B-Instruct...
+Sliding Window Attention is enabled but not implemented for `sdpa`; unexpected results may be encountered.
+Loading model from /work/m25211/m25211brmn/Qwen-2.5-7B-Instruct...
+Sliding Window Attention is enabled but not implemented for `sdpa`; unexpected results may be encountered.
+Sliding Window Attention is enabled but not implemented for `sdpa`; unexpected results may be encountered.
+Loading model from /work/m25211/m25211brmn/Qwen-2.5-7B-Instruct...
+Loading model from /work/m25211/m25211brmn/Qwen-2.5-7B-Instruct...
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:06,  2.30s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:04<00:04,  2.39s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.42s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:09<00:00,  2.34s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:09<00:00,  2.35s/it]
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:01<00:05,  1.99s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:04<00:04,  2.28s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:06<00:02,  2.36s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:09<00:00,  2.30s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:09<00:00,  2.28s/it]
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:06,  2.11s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:04<00:04,  2.31s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.38s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:09<00:00,  2.32s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:09<00:00,  2.31s/it]
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:06,  2.27s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:04<00:04,  2.39s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.42s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:09<00:00,  2.34s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:09<00:00,  2.35s/it]
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:06,  2.03s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:04<00:04,  2.31s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.39s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:09<00:00,  2.36s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:09<00:00,  2.33s/it]
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:06,  2.29s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:04<00:04,  2.42s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.45s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:09<00:00,  2.39s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:09<00:00,  2.40s/it]
+Model loaded successfully!
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 0/8: Processing 1351 samples (indices 0 to 1350) with batch_size=32...
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:07,  2.58s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:05<00:05,  2.59s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.57s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:10<00:00,  2.47s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:10<00:00,  2.51s/it]
+Loading checkpoint shards:   0%|          | 0/4 [00:00<?, ?it/s]Loading checkpoint shards:  25%|██▌       | 1/4 [00:02<00:07,  2.59s/it]Loading checkpoint shards:  50%|█████     | 2/4 [00:05<00:05,  2.60s/it]Loading checkpoint shards:  75%|███████▌  | 3/4 [00:07<00:02,  2.57s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:10<00:00,  2.47s/it]Loading checkpoint shards: 100%|██████████| 4/4 [00:10<00:00,  2.51s/it]
+Rank 0:   0%|          | 0/43 [00:00<?, ?it/s]Rank 0:   2%|▏         | 1/43 [02:04<1:27:00, 124.31s/it]Rank 0:   5%|▍         | 2/43 [04:11<1:26:01, 125.88s/it]Rank 0:   7%|▋         | 3/43 [06:13<1:22:43, 124.09s/it]Rank 0:   9%|▉         | 4/43 [08:20<1:21:24, 125.25s/it]Rank 0:  12%|█▏        | 5/43 [10:27<1:19:44, 125.90s/it]Rank 0:  14%|█▍        | 6/43 [12:32<1:17:34, 125.79s/it]Rank 0:  16%|█▋        | 7/43 [14:30<1:13:46, 122.95s/it]Rank 0:  19%|█▊        | 8/43 [16:29<1:11:01, 121.75s/it]Rank 0:  21%|██        | 9/43 [18:25<1:08:01, 120.04s/it]Rank 0:  23%|██▎       | 10/43 [20:31<1:07:05, 121.99s/it]Rank 0:  26%|██▌       | 11/43 [22:38<1:05:47, 123.36s/it]Rank 0:  28%|██▊       | 12/43 [24:45<1:04:18, 124.46s/it]Rank 0:  30%|███       | 13/43 [26:52<1:02:36, 125.23s/it]Rank 0:  33%|███▎      | 14/43 [28:59<1:00:47, 125.78s/it]Rank 0:  35%|███▍      | 15/43 [30:51<56:49, 121.78s/it]  Rank 0:  37%|███▋      |[rank6]:[W1120 15:03:30.730293119 ProcessGroupNCCL.cpp:4088] [PG ID 0 PG GUID 0 Rank 6]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank7]:[W1120 15:06:13.489321154 ProcessGroupNCCL.cpp:4088] [PG ID 0 PG GUID 0 Rank 7]  using GPU 1 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank6]:[W1120 15:13:30.827358829 socket.cpp:462] [c10d] waitForInput: poll for socket SocketImpl(fd=33, addr=[turpancomp6-admin1-1.calmip.local]:41830, remote=[turpancomp3-admin1-1.calmip.local]:29500) returned 0, likely a timeout
+[rank6]:[W1120 15:13:30.828042114 socket.cpp:487] [c10d] waitForInput: socket SocketImpl(fd=33, addr=[turpancomp6-admin1-1.calmip.local]:41830, remote=[turpancomp3-admin1-1.calmip.local]:29500) timed out after 600000ms
+Model loaded successfully!
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 6/8: Processing 1351 samples (indices 8106 to 9456) with batch_size=32...
+
+Rank 6: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Qwen-2.5-7B-Instruct/Qwen-2.5-7B-Instruct_gender_classification_rank_6.csv...
+[rank6]: Traceback (most recent call last):
+[rank6]:   File "/users/m25211/m25211brmn/chef-doeuvre/src/main.py", line 366, in <module>
+[rank6]:     main()
+[rank6]:   File "/users/m25211/m25211brmn/chef-doeuvre/src/main.py", line 327, in main
+[rank6]:     dist.barrier()
+[rank6]:   File "/usr/local/lib/python3.10/dist-packages/torch/distributed/c10d_logger.py", line 83, in wrapper
+[rank6]:     return func(*args, **kwargs)
+[rank6]:   File "/usr/local/lib/python3.10/dist-packages/torch/distributed/distributed_c10d.py", line 4161, in barrier
+[rank6]:     work = group.barrier(opts=opts)
+[rank6]: torch.distributed.DistBackendError: [6] is setting up NCCL communicator and retrieving ncclUniqueId from [0] via c10d key-value store by key '0', but store->get('0') got error: wait timeout after 600000ms, keys: /default_pg/0//cuda//0
+[rank6]: Exception raised from doWait at /opt/pytorch/pytorch/torch/csrc/distributed/c10d/TCPStore.cpp:644 (most recent call first):
+[rank6]: frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0xd4 (0x40008a33b134 in /usr/local/lib/python3.10/dist-packages/torch/lib/libc10.so)
+[rank6]: frame #1: c10d::TCPStore::doWait(c10::ArrayRef<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, std::chrono::duration<long, std::ratio<1l, 1000l> >) + 0x344 (0x40004248d794 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank6]: frame #2: c10d::TCPStore::doGet(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) + 0x2c (0x40004248da5c in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank6]: frame #3: c10d::TCPStore::get(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) + 0xd0 (0x40004248f060 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank6]: frame #4: c10d::PrefixStore::get(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) + 0x3c (0x400042436a5c in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank6]: frame #5: c10d::PrefixStore::get(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) + 0x3c (0x400042436a5c in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank6]: frame #6: c10d::PrefixStore::get(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) + 0x3c (0x400042436a5c in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank6]: frame #7: c10d::ProcessGroupNCCL::broadcastUniqueNCCLID(ncclUniqueId*, bool, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int) + 0x14c (0x40004576a7fc in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cuda.so)
+[rank6]: frame #8: c10d::ProcessGroupNCCL::getNCCLComm(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, c10::Device&, c10d::OpType, int, bool) + 0x1094 (0x40004577ea94 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cuda.so)
+[rank6]: frame #9: <unknown function> + 0x14f5d34 (0x400045785d34 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cuda.so)
+[rank6]: frame #10: c10d::ProcessGroupNCCL::allreduce_impl(at::Tensor&, c10d::AllreduceOptions const&) + 0x1c (0x400045786e4c in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cuda.so)
+[rank6]: frame #11: c10d::ProcessGroupNCCL::barrier(c10d::BarrierOptions const&) + 0x4ac (0x400045792a1c in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cuda.so)
+[rank6]: frame #12: <unknown function> + 0x48f7104 (0x400042427104 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank6]: frame #13: <unknown function> + 0x4903d74 (0x400042433d74 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank6]: frame #14: <unknown function> + 0x4088608 (0x400041bb8608 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank6]: frame #15: <unknown function> + 0x4910314 (0x400042440314 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank6]: frame #16: <unknown function> + 0x4910dd8 (0x400042440dd8 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank6]: frame #17: <unknown function> + 0x1054370 (0x40003da54370 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_python.so)
+[rank6]: frame #18: <unknown function> + 0x62d3e0 (0x40003d02d3e0 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_python.so)
+[rank6]: <omitting python frames>
+[rank6]: frame #38: <unknown function> + 0x273fc (0x40001f9c73fc in /lib/aarch64-linux-gnu/libc.so.6)
+[rank6]: frame #39: __libc_start_main + 0x98 (0x40001f9c74cc in /lib/aarch64-linux-gnu/libc.so.6)
+[rank6]: . This may indicate a possible application crash on rank 0 or a network set up issue.
+[rank6]:[W1120 15:13:31.617462400 ProcessGroupNCCL.cpp:1262] Warning: WARNING: process group has NOT been destroyed before we destruct ProcessGroupNCCL. On normal program exit, the application should call destroy_process_group to ensure that any pending NCCL operations have finished in this process. In rare cases this process can exit before this point and block the progress of another member of the process group. This constraint has always been present,  but this warning has only been added since PyTorch 2.4 (function operator())
+srun: error: turpancomp6: task 6: Exited with exit code 1
+[rank7]:[W1120 15:16:13.591207860 socket.cpp:462] [c10d] waitForInput: poll for socket SocketImpl(fd=52, addr=[turpancomp6-admin1-1.calmip.local]:41820, remote=[turpancomp3-admin1-1.calmip.local]:29500) returned 0, likely a timeout
+[rank7]:[W1120 15:16:13.592329749 socket.cpp:487] [c10d] waitForInput: socket SocketImpl(fd=52, addr=[turpancomp6-admin1-1.calmip.local]:41820, remote=[turpancomp3-admin1-1.calmip.local]:29500) timed out after 600000ms
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 7/8: Processing 1351 samples (indices 9457 to 10807) with batch_size=32...
+
+Rank 7: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Qwen-2.5-7B-Instruct/Qwen-2.5-7B-Instruct_gender_classification_rank_7.csv...
+[rank7]: Traceback (most recent call last):
+[rank7]:   File "/users/m25211/m25211brmn/chef-doeuvre/src/main.py", line 366, in <module>
+[rank7]:     main()
+[rank7]:   File "/users/m25211/m25211brmn/chef-doeuvre/src/main.py", line 327, in main
+[rank7]:     dist.barrier()
+[rank7]:   File "/usr/local/lib/python3.10/dist-packages/torch/distributed/c10d_logger.py", line 83, in wrapper
+[rank7]:     return func(*args, **kwargs)
+[rank7]:   File "/usr/local/lib/python3.10/dist-packages/torch/distributed/distributed_c10d.py", line 4161, in barrier
+[rank7]:     work = group.barrier(opts=opts)
+[rank7]: torch.distributed.DistBackendError: [7] is setting up NCCL communicator and retrieving ncclUniqueId from [0] via c10d key-value store by key '0', but store->get('0') got error: wait timeout after 600000ms, keys: /default_pg/0//cuda//0
+[rank7]: Exception raised from doWait at /opt/pytorch/pytorch/torch/csrc/distributed/c10d/TCPStore.cpp:644 (most recent call first):
+[rank7]: frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0xd4 (0x40007994b134 in /usr/local/lib/python3.10/dist-packages/torch/lib/libc10.so)
+[rank7]: frame #1: c10d::TCPStore::doWait(c10::ArrayRef<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, std::chrono::duration<long, std::ratio<1l, 1000l> >) + 0x344 (0x400031a9d794 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank7]: frame #2: c10d::TCPStore::doGet(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) + 0x2c (0x400031a9da5c in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank7]: frame #3: c10d::TCPStore::get(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) + 0xd0 (0x400031a9f060 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank7]: frame #4: c10d::PrefixStore::get(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) + 0x3c (0x400031a46a5c in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank7]: frame #5: c10d::PrefixStore::get(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) + 0x3c (0x400031a46a5c in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank7]: frame #6: c10d::PrefixStore::get(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) + 0x3c (0x400031a46a5c in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank7]: frame #7: c10d::ProcessGroupNCCL::broadcastUniqueNCCLID(ncclUniqueId*, bool, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int) + 0x14c (0x400034d7a7fc in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cuda.so)
+[rank7]: frame #8: c10d::ProcessGroupNCCL::getNCCLComm(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, c10::Device&, c10d::OpType, int, bool) + 0x1094 (0x400034d8ea94 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cuda.so)
+[rank7]: frame #9: <unknown function> + 0x14f5d34 (0x400034d95d34 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cuda.so)
+[rank7]: frame #10: c10d::ProcessGroupNCCL::allreduce_impl(at::Tensor&, c10d::AllreduceOptions const&) + 0x1c (0x400034d96e4c in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cuda.so)
+[rank7]: frame #11: c10d::ProcessGroupNCCL::barrier(c10d::BarrierOptions const&) + 0x4ac (0x400034da2a1c in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cuda.so)
+[rank7]: frame #12: <unknown function> + 0x48f7104 (0x400031a37104 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank7]: frame #13: <unknown function> + 0x4903d74 (0x400031a43d74 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank7]: frame #14: <unknown function> + 0x4088608 (0x4000311c8608 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank7]: frame #15: <unknown function> + 0x4910314 (0x400031a50314 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank7]: frame #16: <unknown function> + 0x4910dd8 (0x400031a50dd8 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank7]: frame #17: <unknown function> + 0x1054370 (0x40002d064370 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_python.so)
+[rank7]: frame #18: <unknown function> + 0x62d3e0 (0x40002c63d3e0 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_python.so)
+[rank7]: <omitting python frames>
+[rank7]: frame #38: <unknown function> + 0x273fc (0x40000efd73fc in /lib/aarch64-linux-gnu/libc.so.6)
+[rank7]: frame #39: __libc_start_main + 0x98 (0x40000efd74cc in /lib/aarch64-linux-gnu/libc.so.6)
+[rank7]: . This may indicate a possible application crash on rank 0 or a network set up issue.
+srun: error: turpancomp6: task 7: Exited with exit code 1
+ 16/43 [32:18<50:01, 111.17s/it]Rank 0:  40%|███▉      | 17/43 [34:25<50:14, 115.93s/it]Rank 0:  42%|████▏     | 18/43 [36:32<49:41, 119.27s/it]Rank 0:  44%|████▍     | 19/43 [38:27<47:13, 118.07s/it]Rank 0:  47%|████▋     | 20/43 [40:34<46:17, 120.76s/it]Rank 0:  49%|████▉     | 21/43 [42:41<44:58, 122.64s/it]Rank 0:  51%|█████     | 22/43 [44:48<43:23, 123.96s/it]Rank 0:  53%|█████▎    | 23/43 [46:38<39:56, 119.83s/it]Rank 0:  56%|█████▌    | 24/43 [48:45<38:37, 121.98s/it]Rank 0:  58%|█████▊    | 25/43 [50:52<37:02, 123.49s/it]Rank 0:  60%|██████    | 26/43 [52:31<32:51, 115.98s/it]Rank 0:  63%|██████▎   | 27/43 [54:31<31:13, 117.08s/it]Rank 0:  65%|██████▌   | 28/43 [56:38<30:00, 120.05s/it]Rank 0:  67%|██████▋   | 29/43 [58:21<26:51, 115.10s/it]Rank 0:  70%|██████▉   | 30/43 [1:00:23<25:21, 117.06s/it]Rank 0:  72%|█████�[rank5]:[W1120 15:20:46.430766638 ProcessGroupNCCL.cpp:4088] [PG ID 0 PG GUID 0 Rank 5]  using GPU 1 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank5]:[W1120 15:30:46.532357809 socket.cpp:462] [c10d] waitForInput: poll for socket SocketImpl(fd=52, addr=[turpancomp5-admin1-1.calmip.local]:42038, remote=[turpancomp3-admin1-1.calmip.local]:29500) returned 0, likely a timeout
+[rank5]:[W1120 15:30:46.533007651 socket.cpp:487] [c10d] waitForInput: socket SocketImpl(fd=52, addr=[turpancomp5-admin1-1.calmip.local]:42038, remote=[turpancomp3-admin1-1.calmip.local]:29500) timed out after 600000ms
+Loading data from /users/m25211/m25211brmn/chef-doeuvre/data/final-merged-ds.csv...
+Total rows in dataset: 10808
+After removing missing lyrics: 10808 rows
+Rank 5/8: Processing 1351 samples (indices 6755 to 8105) with batch_size=32...
+
+Rank 5: Saving results to /tmpdir/m25211brmn/chef-doeuvre/ddp_results/Qwen-2.5-7B-Instruct/Qwen-2.5-7B-Instruct_gender_classification_rank_5.csv...
+[rank5]: Traceback (most recent call last):
+[rank5]:   File "/users/m25211/m25211brmn/chef-doeuvre/src/main.py", line 366, in <module>
+[rank5]:     main()
+[rank5]:   File "/users/m25211/m25211brmn/chef-doeuvre/src/main.py", line 327, in main
+[rank5]:     dist.barrier()
+[rank5]:   File "/usr/local/lib/python3.10/dist-packages/torch/distributed/c10d_logger.py", line 83, in wrapper
+[rank5]:     return func(*args, **kwargs)
+[rank5]:   File "/usr/local/lib/python3.10/dist-packages/torch/distributed/distributed_c10d.py", line 4161, in barrier
+[rank5]:     work = group.barrier(opts=opts)
+[rank5]: torch.distributed.DistBackendError: [5] is setting up NCCL communicator and retrieving ncclUniqueId from [0] via c10d key-value store by key '0', but store->get('0') got error: wait timeout after 600000ms, keys: /default_pg/0//cuda//0
+[rank5]: Exception raised from doWait at /opt/pytorch/pytorch/torch/csrc/distributed/c10d/TCPStore.cpp:644 (most recent call first):
+[rank5]: frame #0: c10::Error::Error(c10::SourceLocation, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> >) + 0xd4 (0x40009092b134 in /usr/local/lib/python3.10/dist-packages/torch/lib/libc10.so)
+[rank5]: frame #1: c10d::TCPStore::doWait(c10::ArrayRef<std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > >, std::chrono::duration<long, std::ratio<1l, 1000l> >) + 0x344 (0x400048a7d794 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank5]: frame #2: c10d::TCPStore::doGet(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) + 0x2c (0x400048a7da5c in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank5]: frame #3: c10d::TCPStore::get(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) + 0xd0 (0x400048a7f060 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank5]: frame #4: c10d::PrefixStore::get(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) + 0x3c (0x400048a26a5c in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank5]: frame #5: c10d::PrefixStore::get(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) + 0x3c (0x400048a26a5c in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank5]: frame #6: c10d::PrefixStore::get(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&) + 0x3c (0x400048a26a5c in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank5]: frame #7: c10d::ProcessGroupNCCL::broadcastUniqueNCCLID(ncclUniqueId*, bool, std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, int) + 0x14c (0x40004bd5a7fc in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cuda.so)
+[rank5]: frame #8: c10d::ProcessGroupNCCL::getNCCLComm(std::__cxx11::basic_string<char, std::char_traits<char>, std::allocator<char> > const&, c10::Device&, c10d::OpType, int, bool) + 0x1094 (0x40004bd6ea94 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cuda.so)
+[rank5]: frame #9: <unknown function> + 0x14f5d34 (0x40004bd75d34 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cuda.so)
+[rank5]: frame #10: c10d::ProcessGroupNCCL::allreduce_impl(at::Tensor&, c10d::AllreduceOptions const&) + 0x1c (0x40004bd76e4c in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cuda.so)
+[rank5]: frame #11: c10d::ProcessGroupNCCL::barrier(c10d::BarrierOptions const&) + 0x4ac (0x40004bd82a1c in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cuda.so)
+[rank5]: frame #12: <unknown function> + 0x48f7104 (0x400048a17104 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank5]: frame #13: <unknown function> + 0x4903d74 (0x400048a23d74 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank5]: frame #14: <unknown function> + 0x4088608 (0x4000481a8608 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank5]: frame #15: <unknown function> + 0x4910314 (0x400048a30314 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank5]: frame #16: <unknown function> + 0x4910dd8 (0x400048a30dd8 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_cpu.so)
+[rank5]: frame #17: <unknown function> + 0x1054370 (0x400044044370 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_python.so)
+[rank5]: frame #18: <unknown function> + 0x62d3e0 (0x40004361d3e0 in /usr/local/lib/python3.10/dist-packages/torch/lib/libtorch_python.so)
+[rank5]: <omitting python frames>
+[rank5]: frame #38: <unknown function> + 0x273fc (0x400025fb73fc in /lib/aarch64-linux-gnu/libc.so.6)
+[rank5]: frame #39: __libc_start_main + 0x98 (0x400025fb74cc in /lib/aarch64-linux-gnu/libc.so.6)
+[rank5]: . This may indicate a possible application crash on rank 0 or a network set up issue.
+srun: error: turpancomp5: task 5: Exited with exit code 1
+[rank2]:[W1120 15:34:35.019798886 ProcessGroupNCCL.cpp:4088] [PG ID 0 PG GUID 0 Rank 2]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank1]:[W1120 15:35:16.068783841 ProcessGroupNCCL.cpp:4088] [PG ID 0 PG GUID 0 Rank 1]  using GPU 1 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank4]:[W1120 15:35:24.276208038 ProcessGroupNCCL.cpp:4088] [PG ID 0 PG GUID 0 Rank 4]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+[rank3]:[W1120 15:37:02.562362038 ProcessGroupNCCL.cpp:4088] [PG ID 0 PG GUID 0 Rank 3]  using GPU 1 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+��█▏  | 31/43 [1:02:15<23:08, 115.71s/it]Rank 0:  74%|███████▍  | 32/43 [1:04:06<20:54, 114.07s/it]Rank 0:  77%|███████▋  | 33/43 [1:05:57<18:52, 113.29s/it]Rank 0:  79%|███████▉  | 34/43 [1:08:00<17:25, 116.19s/it]Rank 0:  81%|████████▏ | 35/43 [1:10:07<15:55, 119.43s/it]Rank 0:  84%|████████▎ | 36/43 [1:12:05<13:52, 118.99s/it]Rank 0:  86%|████████▌ | 37/43 [1:13:44<11:18, 113.09s/it]Rank 0:  88%|████████▊ | 38/43 [1:15:33<09:19, 111.80s/it]Rank 0:  91%|█████████ | 39/43 [1:17:24<07:25, 111.49s/it]Rank 0:  93%|█████████▎| 40/43 [1:19:31<05:48, 116.11s/it]Rank 0:  95%|█████████▌| 41/43 [1:21:07<03:40, 110.04s/it]Rank 0:  98%|█████████▊| 42/43 [1:22:53<01:48, 108.82s/it]Rank 0: 100%|██████████| 43/43 [1:23:34<00:00, 88.70s/it] Rank 0: 100%|██████████| 43/43 [1:23:34<00:00, 116.62s/it]
+[rank0]:[W1120 15:37:47.585660817 ProcessGroupNCCL.cpp:4088] [PG ID 0 PG GUID 0 Rank 0]  using GPU 0 to perform barrier as devices used by this process are currently unknown. This can potentially cause a hang if this rank to GPU mapping is incorrect.Specify device_ids in barrier() to force use of a particular device,or call init_process_group() with a device_id.
+srun: Job step aborted: Waiting up to 32 seconds for job step to finish.
+slurmstepd: error: *** STEP 67550.0 ON turpancomp3 CANCELLED AT 2025-11-20T18:14:08 DUE TO TIME LIMIT ***
+slurmstepd: error: *** JOB 67550 ON turpancomp3 CANCELLED AT 2025-11-20T18:14:08 DUE TO TIME LIMIT ***

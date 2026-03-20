@@ -1,0 +1,423 @@
+index,song_title,artist,original_gender,original_continent,source,lyrics,predicted_gender,predicted_continent,gender_keywords,gender_reasoning,continent_keywords,continent_reasoning,raw_model_response
+2702,I'm Gonna Be Alright,Jennifer Lopez,Female,North America,spotify,oh yes yes i did baby yes i did funny cause for a while i walked around with a smile but deep inside i could hear voices telling me this am not right you know he is not for you i always knew what i had to do but it is hard to get away cause i love you i just tried to stay i used to say i could not do it but i did it yes i did after telling everybody that i was not with it oh yes though it brings tears to my eyes i can feel it and i know inside i ma be alright i ma be alright i said i could not do it but i did it yes i did after telling everybody that i was not with it oh yes though it brings tears to my eyes i can feel it and that voice inside says going to be alright friends of mine say to me say you got control over me not alone i played my part i saw the way you were from the start could i expect so much from you you had a girl when i first met you did the best that you could do now i realize that i cannot change you i used to say i could not do it but i did it ooh after telling everybody that i was not with it though it brings tears to my eyes i can feel it and i know inside i ma be alright be alright i said i could not do it but i did it yes i did it after telling everybody that i was not with it oh yes though it brings tears to my eyes i can feel it and that voice inside says going to be alright said i would not walk away some days i want to stay days i want to stay but leaving you is what i need need to do to do to be okay for me to be okay never thought it would be true would be true me living without you living without you but now it is time for me to make that move oh woah ah ah i used to say i could not do it but i did it but i did baby after telling everybody that i was not with it with it though it brings tears to my eyes i can feel it to my eyes and i know inside i ma be alright be alright i said i could not do it but i did it but i did after telling everybody that i was not with it with it though it brings tears to my eyes i can feel it and that voice inside says going to be alright i used to say i could not do it but i did it oh no after telling everybody that i was not with it though it brings tears to my eyes i can feel it and i know inside i ma be alright be alright i said i could not do it but i did it after telling everybody that i was not with it i was not no though it brings tears to my eyes i can feel it and that voice inside says going to be alright i used to say i could not do it but i did it after telling everybody that i was not with it though it brings tears to my eyes i can feel it and i know inside i ma be alright i said i could not do it but i did it after telling everybody that i was not with it though it brings tears to my eyes i can feel it and that voice inside says going to be alright i used to say i could not do it but i did it after telling everybody that i was not with it though it brings tears to my eyes i can feel it and i know inside i ma be alright,female,,"""baby"", ""girl"", ""me"", ""i"", ""my""",The lyrics contain several keywords that suggest a female writer,,,"LYRICS: oh yes yes i did baby yes i did funny cause for a while i walked around with a smile but deep inside i could hear voices telling me this am not right you know he is not for you i always knew what i had to do but it is hard to get away cause i love you i just tried to stay i used to say i could not do it but i did it yes i did after telling everybody that i was not with it oh yes though it brings tears to my eyes i can feel it and i know inside i ma be alright i ma be alright i said i could not do it but i did it yes i did after telling everybody that i was not with it oh yes though it brings tears to my eyes i can feel it and that voice inside says going to be alright friends of mine say to me say you got control over me not alone i played my part i saw the way you were from the start could i expect so much from you you had a girl when i first met you did the best that you could do now i realize that i cannot change you i used to say i could not do it but i did it ooh after telling everybody that i was not with it though it brings tears to my eyes i can feel it and i know inside i ma be alright be alright i said i could not do it but i did it yes i did it after telling everybody that i was not with it oh yes though it brings tears to my eyes i can feel it and that voice inside says going to be alright said i would not walk away some days i want to stay days i want to stay but leaving you is what i need need to do to do to be okay for me to be okay never thought it would be true would be true me living without you living without you but now it is time for me to make that move oh woah ah ah i used to say i could not do it but i did it but i did baby after telling everybody that i was not with it with it though it brings tears to my eyes i can feel it to my eyes and i know inside i ma be alright be alright i said i could not do it but i did it but i did after telling everybody that i was not with it with it though it brings tears to my eyes i can feel it and that voice...
+
+GENDER: female
+GENDER_KEYWORDS: ""baby"", ""girl"", ""me"", ""i"", ""my""
+GENDER_REASONING: The lyrics contain several keywords that suggest a female writer"
+2703,You Are Losing Me,Chelsea Cutler,Female,North America,spotify,if i could take back what i said i would not cause this does not feel like love as i understood it and i cannot afford to throw you a line when i should not cause you are losing me and i wish that i could change my point of view so i could see you the way i want to and i hope you realize what you put me through you are losing me going to wish that i was not loving someone new going to wish that i was sleeping next to you going to wish that you never broke my heart in two and you were not losing me when i have already lost you going to wake up all alone in the morning and you are going to wish you could go back to before this going to tell all of your friends that you are broken cause you are losing me cause you are losing me and i wish that i could change my point of view so i could see you the way i want to and i hope you realize what you put me through you are losing me going to wish that i was not loving someone new going to wish that i was sleeping next to you going to wish that you never broke my heart in two and you were not losing me when i have already lost you going to wish that you never broke my heart in two and you were not losing me when i have already lost you,female,North America,"""i wish"", ""i hope"", ""me through"", ""i was sleeping next to you""","I predicted the writer is female based on the use of ""i wish"" and ""i hope"", which are common expressions associated with feminine writing styles. Additionally, phrases like ""me through"" and ""i was sleeping next to you"" suggest a more introspective and emotionally expressive tone, which is often characteristic of female writers.","""break my heart in two"", ""wake up all alone in the morning"", ""tell all of your friends"", ""heartbroken""","I predicted North America as the continent of origin based on the use of phrases like ""break my heart in two"" and ""wake up all alone in the morning"", which are common idioms and expressions found in North American English. The reference to telling friends about being broken-hearted also suggests a Western cultural influence, which is prevalent in North America.","LYRICS: 
+if i could take back what i said i would not cause this does not feel like love as i understood it and i cannot afford to throw you a line when i should not cause you are losing me and i wish that i could change my point of view so i could see you the way i want to and i hope you realize what you put me through you are losing me going to wish that i was not loving someone new going to wish that i was sleeping next to you going to wish that you never broke my heart in two and you were not losing me when i have already lost you going to wake up all alone in the morning and you are going to wish you could go back to before this going to tell all of your friends that you are broken cause you are losing me cause you are losing me and i wish that i could change my point of view so i could see you the way i want to and i hope you realize what you put me through you are losing me going to wish that i was not loving someone new going to wish that i was sleeping next to you going to wish that you never broke my heart in two and you were not losing me when i have already lost you going to wish that you never broke my heart in two and you were not losing me when i have already lost you
+
+GENDER: female  
+GENDER_KEYWORDS: ""i wish"", ""i hope"", ""me through"", ""i was sleeping next to you""  
+GENDER_REASONING: I predicted the writer is female based on the use of ""i wish"" and ""i hope"", which are common expressions associated with feminine writing styles. Additionally, phrases like ""me through"" and ""i was sleeping next to you"" suggest a more introspective and emotionally expressive tone, which is often characteristic of female writers.
+
+CONTINENT: North America  
+CONTINENT_KEYWORDS: ""break my heart in two"", ""wake up all alone in the morning"", ""tell all of your friends"", ""heartbroken""  
+CONTINENT_REASONING: I predicted North America as the continent of origin based on the use of phrases like ""break my heart in two"" and ""wake up all alone in the morning"", which are common idioms and expressions found in North American English. The reference to telling friends about being broken-hearted also suggests a Western cultural influence, which is prevalent in North America."
+2704,Op Opa,Gaullin,Male,Europe,spotify,even in my darkest times you came just to see if holding on this back and forth is driving me insane please just let me go and making it clear my biggest fear moving away nothing to say i know where to go and it is not where been and op opa 4x and op opa 4x and making it clear my biggest fear moving away nothing to say i know where to go and it is not where i have been even in my darkest times you came just to see if holding on this back and forth is driving me insane please just let me go and making it clear my biggest fear moving away nothing to say i know where to go and it is not where been just let me go op opa 4x and op opa 4x and op opa 3x if holdin and op opa 3x if holdin and if holdin and if holdin,male,Africa,"""my"", ""me"", ""I"", ""if"", ""just let me go"", ""my biggest fear""","The use of pronouns such as ""my"" and ""me"" and the phrase ""I know"" suggest a male perspective. The lyrics also convey a sense of vulnerability and desperation, which is a common theme in male-dominated genres like hip-hop and R&B.","""opa"", ""if holdin""","The repetition of the word ""opa"" is a cultural reference to the Wolof people of Senegal, a country in West Africa. The use of the phrase ""if holdin"" also suggests a possible connection to African Pidgin English, a language variety spoken in various countries in West and Central Africa. These linguistic and cultural references point to an African origin.","LYRICS: even in my darkest times you came just to see if holding on this back and forth is driving me insane please just let me go and making it clear my biggest fear moving away nothing to say i know where to go and it is not where been and op opa 4x and op opa 4x and making it clear my biggest fear moving away nothing to say i know where to go and it is not where i have been even in my darkest times you came just to see if holding on this back and forth is driving me insane please just let me go and making it clear my biggest fear moving away nothing to say i know where to go and it is not where been just let me go op opa 4x and op opa 4x and op opa 3x if holdin and op opa 3x if holdin and if holdin and if holdin
+
+GENDER: male
+GENDER_KEYWORDS: ""my"", ""me"", ""I"", ""if"", ""just let me go"", ""my biggest fear""
+GENDER_REASONING: The use of pronouns such as ""my"" and ""me"" and the phrase ""I know"" suggest a male perspective. The lyrics also convey a sense of vulnerability and desperation, which is a common theme in male-dominated genres like hip-hop and R&B.
+
+CONTINENT: Africa
+CONTINENT_KEYWORDS: ""opa"", ""if holdin""
+CONTINENT_REASONING: The repetition of the word ""opa"" is a cultural reference to the Wolof people of Senegal, a country in West Africa. The use of the phrase ""if holdin"" also suggests a possible connection to African Pidgin English, a language variety spoken in various countries in West and Central Africa. These linguistic and cultural references point to an African origin."
+2705,in my miNd,Maty Noyes,Female,North America,spotify,i know i messed it up with every other guy i swear you are different and this time going to try we can start fresh if you would just let go of the past yeah i do not i do not i do not get it cause i do not judge you like that just love me in pieces got to love it all you try to make me feel like being humans wrong you got a lot to say about me and my past well i do not i do not i do not get it cause i do not judge you like that got me runnin other places in my mind in my mind how could you even say i never try never try and you are acting like i been around with every single guy got me running other places in my mind in my mind yeah da da da da da da da da da da yeah acting like i been around with every single guy got me running other places in my mind in my mind yeah i know that i could be with any other man but none of them can do it quite the way you can thought we were stronger why you doubting all the time well i do not i do not i do not get it cause so sweet all the time our love is effortless stop acting like you are scared i get down on my knees but you are not playing fair my heart breaks down when you question if you are mine when i do not i do not i do not get it cause so sweet all the time got me running other places in my mind in my mind how could you even say i never tried never tried and you acting like i been around with every single guy got me running other places in my mind in my mind yeah da dam dam dam dam dam dam yeah da dam dam dam dam dam dam and you acting like i been around with every single guy you got me running other places in my mind in my mind yeah got me running to places where no body else has gone and i tried to take you with me baby then it went all wrong and i said here to stay but i need to get away so running other places in my mind in my mind yeah da dam dam dam dam dam dam yeah da dam dam dam dam dam dam ooh yeah and you acting like i been around with every single guy you got me running other places in my mind in my mind yeah da dam dam dam dam dam dam yeah yeah yeah yeah da dam dam dam dam dam dam and you acting like i been around with every single guy you got me running other places in my mind in my mind yeah,female,,"'i do not i do not i do not get it', 'you got me running other places in my mind', 'got me running to places where no body else has gone', '",,,,"LYRICS: 
+i know i messed it up with every other guy i swear you are different and this time going to try we can start fresh if you would just let go of the past yeah i do not i do not i do not get it cause i do not judge you like that just love me in pieces got to love it all you try to make me feel like being humans wrong you got a lot to say about me and my past well i do not i do not i do not get it cause i do not judge you like that got me runnin other places in my mind in my mind how could you even say i never try never try and you are acting like i been around with every single guy got me running other places in my mind in my mind yeah da da da da da da da da da da yeah acting like i been around with every single guy got me running other places in my mind in my mind yeah i know that i could be with any other man but none of them can do it quite the way you can thought we were stronger why you doubting all the time well i do not i do not i do not get it cause so sweet all the time our love is effortless stop acting like you are scared i get down on my knees but you are not playing fair my heart breaks down when you question if you are mine when i do not i do not i do not get it cause so sweet all the time got me running other places in my mind in my mind how could you even say i never tried never tried and you acting like i been around with every single guy got me running other places in my mind in my mind yeah da dam dam dam dam dam dam yeah da dam dam dam dam dam dam and you acting like i been around with every single guy you got me running other places in my mind in my mind yeah got me running to places where no body else has gone and i tried to take you with me baby then it went all wrong and i said here to stay but i need to get away so running other places in my mind in my mind yeah da dam dam dam dam dam dam yeah da dam dam dam dam dam dam ooh yeah and you acting like i been around with every single guy you got me running other places in my mind in my mind yeah d...
+
+GENDER: female
+GENDER_KEYWORDS: 'i do not i do not i do not get it', 'you got me running other places in my mind', 'got me running to places where no body else has gone', '"
+2706,Chandelier,Sia,Female,Oceania,spotify,"party girls do not get hurt
+feel anything
+when will i learn
+i push it down
+push it down
+the one for a good time
+call phone's blowin up
+ringin my doorbell
+i feel the love
+feel the love
+1 2 3
+1 2 3
+drink
+1 2 3
+1 2 3
+drink
+1 2 3
+1 2 3
+drink
+throw em back till i lose count
+going to swing from the chandelier
+from the chandelier
+going to live like tomorrow does not exist
+like it does not exist
+going to fly like a bird through the night
+feel my tears as they dry
+going to swing from the chandelier
+from the chandelier
+but holding on for dear life
+look down
+will not open my eyes
+keep my glass full until morning light
+cause just holding on for tonight
+help me
+holding on for dear life
+look down
+will not open my eyes
+keep my glass full until morning light
+cause just holding on for tonight
+on for tonight
+sun is up
+a mess
+get out now
+got to run from this
+here comes the shame
+here comes the shame
+1 2 3
+1 2 3
+drink
+1 2 3
+1 2 3
+drink
+1 2 3
+1 2 3
+drink
+throw em back till i lose count
+going to swing from the chandelier
+from the chandelier
+going to live like tomorrow does not exist
+like it does not exist
+going to fly like a bird through the night
+feel my tears as they dry
+going to swing from the chandelier
+from the chandelier
+but holding on for dear life
+look down
+will not open my eyes
+keep my glass full until morning light
+cause just holding on for tonight
+help me
+holding on for dear life
+look down
+will not open my eyes
+keep my glass full until morning light
+cause just holding on for tonight
+on for tonight
+on for tonight
+cause just holding on for tonight
+oh just holding on for tonight
+on for tonight
+on for tonight
+cause just holding on for tonight
+cause just holding on for tonight
+oh just holding on for tonight
+on for tonight
+on for tonight",male,,"""party girls"", ""feel the love"", ""drink",,,,"LYRICS: 
+party girls do not get hurt
+feel anything
+when will i learn
+i push it down
+push it down
+the one for a good time
+call phone's blowin up
+ringin my doorbell
+i feel the love
+feel the love
+1 2 3
+1 2 3
+drink
+1 2 3
+1 2 3
+drink
+1 2 3
+1 2 3
+drink
+throw em back till i lose count
+going to swing from the chandelier
+from the chandelier
+going to live like tomorrow does not exist
+like it does not exist
+going to fly like a bird through the night
+feel my tears as they dry
+going to swing from the chandelier
+from the chandelier
+but holding on for dear life
+look down
+will not open my eyes
+keep my glass full until morning light
+cause just holding on for tonight
+help me
+holding on for dear life
+look down
+will not open my eyes
+keep my glass full until morning light
+cause just holding on for tonight
+on for tonight
+sun is up
+a mess
+get out now
+got to run from this
+here comes the shame
+here comes the shame
+1 2 3
+1 2 3
+drink
+1 2 3
+1 2 3
+drink
+1 2 3
+1 2 3
+drink
+throw em back till i lose count
+going to swing from the chandelier
+from the chandelier
+going to live like tomorrow does not exist
+like it does not exist
+going to fly like a bird through the night
+feel my tears as they dry
+going to swing from the chandelier
+from the chandelier
+but holding on for dear life
+look down
+will not open my eyes
+keep my glass full until morning light
+cause just holding on for tonight
+help me
+holding on for dear life
+look down
+will not open my eyes
+keep my glass full until morning light
+cause just holding on for tonight
+on for tonight
+on for tonight
+cause just holding on for tonight
+oh just holding on for tonight
+on for tonight
+on for tonight
+cause just holding on for tonight
+cause just holding on for tonight
+oh just holding on for tonight
+on for tonight
+on for tonight
+
+GENDER: male
+GENDER_KEYWORDS: ""party girls"", ""feel the love"", ""drink"
+2707,Let's Get Lifted,John Legend,Male,North America,spotify,got something new for you when it hits you will not know what to do relax let me move you resist it is in the air just one taste will take you there let it flow right through you i know your getting tired of the same old thing but gon break the rules going to change the game be screaming my name and going to take you places that you have never seen you could not picture this in your wildest dreams fear cause you are here with me get lifted lifted ohh going to get you high really going to blow your mind get lifted lifted your going to feel it in your soul and baby you will lose control get lifted high and once you take a hit of this you will not ever want to quit be so addicted then have you spinning round and round crazy making freaky sounds you will not want to come down and then have you seeing things and hallucinating even walking funny cause your legs are shaking all night we will be blazin take you for a walk to the other side we can get high and enjoy the ride hold tight and we will be alright get lifted lifted ohh going to get you high really going to blow your mind get lifted lifted your going to feel it in your soul and baby you will lose control get lifted high so come and go with me so much i want to show you take you there high yeah take you there come on let me take you there i will show you so much i want to show you take you high high yeah take you there come on let me take you there i will show you so much i want to show you take you high high yeah take you there come on let me take you there so much i want to show you take you high high,male,North America,"'gon', 'gonna', 'blow your mind', 'gonna get you high', 'gonna blow your mind', 'be screaming my name'","The use of colloquial language and informal phrases such as 'gon' and 'gonna' suggests a male writer, as these are common features of male spoken language in many cultures. The aggressive and confident tone, as well as the use of words like 'blow your mind' and'screaming my name', further reinforce this inference.","'walk to the other side', 'high and enjoy the ride', 'get lifted', 'blow your mind', 'hallucinating'",The use of phrases,"LYRICS: 
+got something new for you when it hits you will not know what to do relax let me move you resist it is in the air just one taste will take you there let it flow right through you i know your getting tired of the same old thing but gon break the rules going to change the game be screaming my name and going to take you places that you have never seen you could not picture this in your wildest dreams fear cause you are here with me get lifted lifted ohh going to get you high really going to blow your mind get lifted lifted your going to feel it in your soul and baby you will lose control get lifted high and once you take a hit of this you will not ever want to quit be so addicted then have you spinning round and round crazy making freaky sounds you will not want to come down and then have you seeing things and hallucinating even walking funny cause your legs are shaking all night we will be blazin take you for a walk to the other side we can get high and enjoy the ride hold tight and we will be alright get lifted lifted ohh going to get you high really going to blow your mind get lifted lifted your going to feel it in your soul and baby you will lose control get lifted high so come and go with me so much i want to show you take you there high yeah take you there come on let me take you there i will show you so much i want to show you take you high high yeah take you there come on let me take you there so much i want to show you take you high high yeah take you there come on let me take you there so much i want to show you take you high high
+
+GENDER: male
+GENDER_KEYWORDS: 'gon', 'gonna', 'blow your mind', 'gonna get you high', 'gonna blow your mind', 'be screaming my name'
+GENDER_REASONING: The use of colloquial language and informal phrases such as 'gon' and 'gonna' suggests a male writer, as these are common features of male spoken language in many cultures. The aggressive and confident tone, as well as the use of words like 'blow your mind' and'screaming my name', further reinforce this inference.
+
+CONTINENT: North America
+CONTINENT_KEYWORDS: 'walk to the other side', 'high and enjoy the ride', 'get lifted', 'blow your mind', 'hallucinating'
+CONTINENT_REASONING: The use of phrases"
+2708,"I Don't Like It, I Love It (feat. Robin Thicke & Verdine White)",Flo Rida,Male,North America,spotify,na i do not like it i love it love it love it uh oh so good it hurts i do not want it i got to got to have it uh oh when i cannot find the words i do not like it i love it love it love it uh oh so good it hurts i do not want it i got to got to have it uh oh when i cannot find the words i just go i do not like it no i love it i do not like it no i love it all out turn the beat up hey now glad to meet ya turn up girl blow the speaker yeah up think about it now blow the speaker speak louder let us get wild tonite billionaire bottles we just down em like no problem all my roads are right all right all right i do not like it i love it i got another comma in my budget i got a anaconda in my trukfit push it do not push it cause i ma hit it til i jackpot that is right wax on baby wax off act right you can put it on the black card all night and spend it spend it cause i do not like it i love it love it love it uh oh so good it hurts i do not want it i got to got to have it uh oh when i cannot find the words i just go i do not like it no i love it i do not like it no i love it i do not like it no i love it i do not like it no i love it all night let me groove ya dance with me turn down for who girl another runner help us step the moves up yeah bet that round need a measure or ruler celebrate life and pay for it that cavalli nice next to my tom ford yeah party all night let us all aboard all aboard all aboard i do not like it i love it and them other girls they cannot touch it competition that is a whole another subject i want to walk it out in public you a star baby just know let us go to the metro or the condo let us go perfect time got to let it flow you know watching watching cause i do not like it i love it love it love it uh oh so good it hurts i do not want it i got to got to have it uh oh when i cannot find the words i just go i do not like it no i love it i do not like it no i love it meet me at the studio bangarang just like rufio feel the bass let ya booty go i want to get inside it run away for a few days thinkin bout love baby touchétied up like a shoe lace i do not like it i do not like it,male,,"'billionaire', 'anaconda', 'trukfit',",,,,"LYRICS: na i do not like it i love it love it love it uh oh so good it hurts i do not want it i got to got to have it uh oh when i cannot find the words i do not like it i love it love it love it uh oh so good it hurts i do not want it i got to got to have it uh oh when i cannot find the words i just go i do not like it no i love it i do not like it no i love it all out turn the beat up hey now glad to meet ya turn up girl blow the speaker yeah up think about it now blow the speaker speak louder let us get wild tonite billionaire bottles we just down em like no problem all my roads are right all right all right i do not like it i love it i got another comma in my budget i got a anaconda in my trukfit push it do not push it cause i ma hit it til i jackpot that is right wax on baby wax off act right you can put it on the black card all night and spend it spend it cause i do not like it i love it love it love it uh oh so good it hurts i do not want it i got to got to have it uh oh when i cannot find the words i just go i do not like it no i love it i do not like it no i love it i do not like it no i love it all night let me groove ya dance with me turn down for who girl another runner help us step the moves up yeah bet that round need a measure or ruler celebrate life and pay for it that cavalli nice next to my tom ford yeah party all night let us all aboard all aboard all aboard i do not like it i love it and them other girls they cannot touch it competition that is a whole another subject i want to walk it out in public you a star baby just know let us go to the metro or the condo let us go perfect time got to let it flow you know watching watching cause i do not like it i love it love it love it uh oh so good it hurts i do not want it i got to got to have it uh oh when i cannot find the words i just go i do not like it no i love it i do not like it no i love it meet me at the studio bangarang just like rufio feel the bass let ya booty go i want...
+
+GENDER: male  
+GENDER_KEYWORDS: 'billionaire', 'anaconda', 'trukfit',"
+2709,Blink,Meghan Trainor,Female,North America,spotify,an eclipse a shootin star i ma make you come quick then break your heart watch out watch out for me smarter than you think crazy but sweet you will see see there am not nobody like me baby so why do not we dance miss your chance oh better not blink you better not blink better not blink cause you do not want to miss this better not blink you better not blink blink better not blink cause you do not want to miss this better not better not better not miss this oh better not better not oh cause you do not want to miss this the only one left they do not make em like this oh an innocent bad bitch hey so do not even wink watch out watch out for me stronger than you think crazy but sweet you will see see there am not nobody like me baby no so why do not we dance miss your chance oh better not blink uh you better not blink say better not blink woo cause you do not want to miss this hey yeah better not blink oh you better not blink oh no no no better not blink cause you do not want to miss this better not better not better not miss this no better not better not baby you do not want to miss this better not better not better not miss this no better not better not baby you do not want to miss this a rocket ship i ma rock this yeah i rock this shit yeah rocket ship i ma rock this yeah i rock it i rock it i rock it i rock it a rocket ship i ma rock this yeah i rock this shit yeah rocket ship i ma rock this so do not miss your chance you better not blink you better not blink better not blink cause you do not want to miss this better not blink oh you better not blink oh better not blink cause you do not want to miss this hey better not better not better not no better not better not cause you do not cause you do not want to miss this better not better not better not no you better not better not better not cause you do not want to miss this,female,,"""oh baby"", ""baby no"", ""oh baby you do not want to miss this"", ""crazy but sweet"", ""innocent bad bitch""","The presence of phrases like ""oh baby"", ""baby no"", and ""oh baby you do not want to miss this"" suggests a feminine tone and a focus on romantic relationships. The lyrics also contain words like ""crazy but sweet"" which are often used to describe a woman's emotional state or behavior. Additionally, the",,,"LYRICS: an eclipse a shootin star i ma make you come quick then break your heart watch out watch out for me smarter than you think crazy but sweet you will see see there am not nobody like me baby so why do not we dance miss your chance oh better not blink you better not blink better not blink cause you do not want to miss this better not blink you better not blink blink better not blink cause you do not want to miss this better not better not better not miss this oh better not better not oh cause you do not want to miss this the only one left they do not make em like this oh an innocent bad bitch hey so do not even wink watch out watch out for me stronger than you think crazy but sweet you will see see there am not nobody like me baby no so why do not we dance miss your chance oh better not blink uh you better not blink say better not blink woo cause you do not want to miss this hey yeah better not blink oh you better not blink oh no no no better not blink cause you do not want to miss this better not better not better not miss this no better not better not baby you do not want to miss this better not better not better not miss this no better not better not baby you do not want to miss this a rocket ship i ma rock this yeah i rock this shit yeah rocket ship i ma rock this yeah i rock it i rock it i rock it i rock it a rocket ship i ma rock this yeah i rock this shit yeah rocket ship i ma rock this so do not miss your chance you better not blink you better not blink better not blink cause you do not want to miss this better not blink oh you better not blink oh better not blink cause you do not want to miss this hey better not better not better not no better not better not cause you do not cause you do not want to miss this better not better not better not no you better not better not better not cause you do not want to miss this
+
+GENDER: female
+GENDER_KEYWORDS: ""oh baby"", ""baby no"", ""oh baby you do not want to miss this"", ""crazy but sweet"", ""innocent bad bitch""
+GENDER_REASONING: The presence of phrases like ""oh baby"", ""baby no"", and ""oh baby you do not want to miss this"" suggests a feminine tone and a focus on romantic relationships. The lyrics also contain words like ""crazy but sweet"" which are often used to describe a woman's emotional state or behavior. Additionally, the"
+2710,A Storm On A Summers Day,Full Crate,Male,Europe,spotify,been 5 years i still love everything about you put all our trust in us there is no more fear although i have not really been the perfect partner your mind your heart and honesty is how i breathe and when i follow you it feels like home and in these ways i am humble can we pack our bags and run away to the mountain high just you and me hit me like a storm on a summers day never had a love that made me feel this way whenever you are away and i cannot seem to reach you i think of your smile and then it is like you are here you taught me how to love myself and now fearless your heart and my heart will beat the same rhythm and when i follow you it feels like home and in these ways i am humble can we pack our bags and run away to the mountain high just you and me hit me like a storm on a summers day hit me like a storm never had a love that made me feel this way never had a love that made me feel this way hit me like a storm on a summers day and it feels like yesterday never had a love that made me feel this way can you feel it the way i see it you know i mean it can you feel it the way i see it you know i mean it can you feel it the way i see it you know i mean it can you feel it the way i see it you know i mean it hit me like a storm on a summers day never had a love that made me feel this way just like yesterday,male,North America,"'I','me','my heart','myself', 'you know I mean it','me feel'","The use of first-person pronouns such as 'I','me', and'my' suggests a male perspective. The language used is also relatively direct and straightforward, which is a common trait in male songwriting. Additionally, the emphasis on personal growth and self-discovery ('you taught me how to love myself') is a common theme in male songwriting.","'mountain high','summer', 'yesterday', 'can you feel it the way I see it'","The reference to'mountains' and'summer' suggests a North American influence, as these are common themes in American folk and pop music. The use of colloquial expressions like 'yesterday' and the phrase 'can you feel it","LYRICS: 
+been 5 years i still love everything about you put all our trust in us there is no more fear although i have not really been the perfect partner your mind your heart and honesty is how i breathe and when i follow you it feels like home and in these ways i am humble can we pack our bags and run away to the mountain high just you and me hit me like a storm on a summers day never had a love that made me feel this way whenever you are away and i cannot seem to reach you i think of your smile and then it is like you are here you taught me how to love myself and now fearless your heart and my heart will beat the same rhythm and when i follow you it feels like home and in these ways i am humble can we pack our bags and run away to the mountain high just you and me hit me like a storm on a summers day hit me like a storm never had a love that made me feel this way never had a love that made me feel this way hit me like a storm on a summers day and it feels like yesterday never had a love that made me feel this way can you feel it the way i see it you know i mean it can you feel it the way i see it you know i mean it can you feel it the way i see it you know i mean it can you feel it the way i see it you know i mean it hit me like a storm on a summers day never had a love that made me feel this way just like yesterday
+
+GENDER: male
+GENDER_KEYWORDS: 'I','me','my heart','myself', 'you know I mean it','me feel'
+GENDER_REASONING: The use of first-person pronouns such as 'I','me', and'my' suggests a male perspective. The language used is also relatively direct and straightforward, which is a common trait in male songwriting. Additionally, the emphasis on personal growth and self-discovery ('you taught me how to love myself') is a common theme in male songwriting.
+
+CONTINENT: North America
+CONTINENT_KEYWORDS:'mountain high','summer', 'yesterday', 'can you feel it the way I see it'
+CONTINENT_REASONING: The reference to'mountains' and'summer' suggests a North American influence, as these are common themes in American folk and pop music. The use of colloquial expressions like 'yesterday' and the phrase 'can you feel it"
+2711,Crop Circles,Jon Bellion,Male,North America,spotify,when did our apartment turn to ruins on an island where lovers used to live but they have been gone for quite some time and cards and clothes are artifacts and clues we left behind and oh i do not know i do not know in case you fuckin forgot when did all the passion turn to numbers and statistics been tryna grasp it but it is all just hieroglyphics in case you fuckin forgot we tried a little space but we flew too far to fix it oh i do not know i do not know i said oh i do not know i do not know i do not know i do not know i do not know i do not know when did thoughts of wedding rings become just stranger things in the upside down we used to dance around the apartment now our footprints in the carpet are just crop circles crop circles when did our vibration turn to awkward bits of friction in case you fuckin forgot when did our vacation turn to fossils and to fiction in case you fuckin forgot all we do is fight and now we cannot break the addiction oh i do not know i do not know i said oh i do not know i do not know i do not know i do not know i do not know i do not know when did thoughts of wedding rings become just stranger things in the upside down we used to dance around the apartment now our footprints in the carpet are just crop circles crop when did in case you fuckin forgot in case you fuckin forgot when did in case you fuckin forgot in case you fuckin forgot in case you fuckin forgot,male,North America,"'fuckin', 'tryna', 'grasp it', 'fix it', 'addiction'","The use of explicit language ('fuckin') and colloquial expressions ('tryna', 'fix it') suggests a male perspective. The tone of frustration and helplessness, as seen in phrases like 'all we do is fight' and 'cannot break the addiction', also points towards a male writer. The language and tone used convey a sense of anger and frustration, which is commonly associated with male perspectives in music.","'apartment', 'vacation', 'wedding rings', 'fossils','statistics'","The use of words like 'apartment' and 'vacation' suggests a modern, Western influence, which is common in North American culture. The reference to 'wedding rings'","LYRICS: when did our apartment turn to ruins on an island where lovers used to live but they have been gone for quite some time and cards and clothes are artifacts and clues we left behind and oh i do not know i do not know in case you fuckin forgot when did all the passion turn to numbers and statistics been tryna grasp it but it is all just hieroglyphics in case you fuckin forgot we tried a little space but we flew too far to fix it oh i do not know i do not know i said oh i do not know i do not know i do not know i do not know i do not know i do not know when did thoughts of wedding rings become just stranger things in the upside down we used to dance around the apartment now our footprints in the carpet are just crop circles crop circles when did our vibration turn to awkward bits of friction in case you fuckin forgot when did our vacation turn to fossils and to fiction in case you fuckin forgot all we do is fight and now we cannot break the addiction oh i do not know i do not know i said oh i do not know i do not know i do not know i do not know i do not know i do not know when did thoughts of wedding rings become just stranger things in the upside down we used to dance around the apartment now our footprints in the carpet are just crop circles crop when did in case you fuckin forgot in case you fuckin forgot when did in case you fuckin forgot in case you fuckin forgot in case you fuckin forgot
+
+GENDER: male
+GENDER_KEYWORDS: 'fuckin', 'tryna', 'grasp it', 'fix it', 'addiction'
+GENDER_REASONING: The use of explicit language ('fuckin') and colloquial expressions ('tryna', 'fix it') suggests a male perspective. The tone of frustration and helplessness, as seen in phrases like 'all we do is fight' and 'cannot break the addiction', also points towards a male writer. The language and tone used convey a sense of anger and frustration, which is commonly associated with male perspectives in music.
+
+CONTINENT: North America
+CONTINENT_KEYWORDS: 'apartment', 'vacation', 'wedding rings', 'fossils','statistics'
+CONTINENT_REASONING: The use of words like 'apartment' and 'vacation' suggests a modern, Western influence, which is common in North American culture. The reference to 'wedding rings'"
+2712,COMMANDO (feat. G-Eazy),Logic,Male,North America,spotify,let that boy breathe make it pop ayy make it pop ayy make it drop ayy stop ayy make it pop ayy make it pop ayy make it drop ayy stop ayy make it pop ayy make it pop ayy make it drop ayy stop ayy make it pop ayy make it pop ayy make it drop ayy stop ayy make it pop ayy make it pop ayy make it drop ayy stop ayy you got a rolex but cannot tell the time cause you stupid as fuck let that boy breathe fuck around bitch i do what i love yes i do what i want yes i do what i want uh hit up my homie t money he supply the weed for the blunt yeah hit up my homie t money he supply the weed for the month ayy i do it all do what i want and i go where i want but cannot go to the mall but cannot go to the mall cause if i did they would shut that bitch down like rap justin bieber best believe when around they go crazy they go crazy ride this dick girl do not get lazy like oh that shit they love right ayy ayy plp but keep that in the glove right ayy ayy michael jackson on these hoes you know i keep a glove hee hee boss up like lando like donald glove yeah my girl go commando you know i love you light the scented candle then you know i grub know i grub fuck with no basic bitch who want a thug bobby sell albums no he do not sell drugs let that boy breathe make it pop ayy make it pop ayy make it drop ayy stop ayy make it pop ayy make it pop ayy make it drop ayy stop ayy make it pop ayy make it pop ayy make it drop ayy stop ayy logic hit my line he said reverse that shit though tough on these streets the bear is pleased i said say no more say no more so gather round but let me just say this before ladies and gentlemen the moment you all been waiting for waiting for gerald and bobby the clash of the titans go tell somebody go tell somebody the world has been waiting the world has been watching you finally got it finally got it they always compare us they pit us against us yeah but that is not it yeah but that is not it so get the fuck off me my brother he said he do not fuck with nobody feelin godly wearin all white rewritin history did it tonight my og told me we did it right e 40 told me we did it right middle school dreams stay coming true we doing well we doing well yeah walk in bodegas buying my cover of double xl double xl yeah fell in love with music but i know this shit s a business now back to basics like it is lasik s got the vision now been had drive but i swear this shit s just different now different now two ferraris later everything is clicking now let that boy breathe make it pop ayy make it pop ayy make it drop ayy stop ayy make it pop ayy make it pop ayy make it drop ayy stop ayy make it pop ayy make it pop ayy make it drop ayy stop ayy let that boy breathe hehe,male,North America,"""homie,"" ""bitch,"" ""dick,"" ""thug,"" ""bobby,"" ""glove,"" ""boss up,"" ""grub,"" ""basic bitch,"" ""thug bobby,"" ""my girl,"" ""he,"" ""my brother""","The use of masculine language and references to male friendships (""homie,"" ""my brother"") suggests that the writer is male. The use of words like ""bitch"" and ""dick"" also implies a masculine tone. The writer's self-identification as a ""thug"" and the reference to Michael Jackson's glove (""hee hee boss up like lando like donald glove"") further supports this conclusion.","""Rap justin bieber,"" ""thug,"" ""bobby sell albums,"" ""scented candle,"" ""glove,"" ""commando,"" ""reverse that shit though tough on these streets""","The mention of ""Rap justin bieber"" and ""thug"" suggests an American hip-hop influence, which is characteristic of North American culture. The use of slang terms like ""reverse that shit though"" and ""tough on these streets"" is also consistent with North American English. The reference to Michael Jackson's glove and the mention of a ""scented candle"" suggest a familiarity with American pop culture. The overall tone and language patterns are consistent with African American Vernacular English (AAVE), which is commonly used in North America.","LYRICS: let that boy breathe make it pop ayy make it pop ayy make it drop ayy stop ayy... (long lyrics omitted for brevity)...my brother he said he do not fuck with nobody fee...
+
+GENDER: male
+GENDER_KEYWORDS: ""homie,"" ""bitch,"" ""dick,"" ""thug,"" ""bobby,"" ""glove,"" ""boss up,"" ""grub,"" ""basic bitch,"" ""thug bobby,"" ""my girl,"" ""he,"" ""my brother""
+GENDER_REASONING: The use of masculine language and references to male friendships (""homie,"" ""my brother"") suggests that the writer is male. The use of words like ""bitch"" and ""dick"" also implies a masculine tone. The writer's self-identification as a ""thug"" and the reference to Michael Jackson's glove (""hee hee boss up like lando like donald glove"") further supports this conclusion.
+
+CONTINENT: North America
+CONTINENT_KEYWORDS: ""Rap justin bieber,"" ""thug,"" ""bobby sell albums,"" ""scented candle,"" ""glove,"" ""commando,"" ""reverse that shit though tough on these streets""
+CONTINENT_REASONING: The mention of ""Rap justin bieber"" and ""thug"" suggests an American hip-hop influence, which is characteristic of North American culture. The use of slang terms like ""reverse that shit though"" and ""tough on these streets"" is also consistent with North American English. The reference to Michael Jackson's glove and the mention of a ""scented candle"" suggest a familiarity with American pop culture. The overall tone and language patterns are consistent with African American Vernacular English (AAVE), which is commonly used in North America."
+2713,Grace Kelly,MIKA,Male,Europe,spotify,i want to talk to you the last time we talked mr smith you reduced me to tears i promise you it will not happen again do i attract you do i repulse you with my queasy smile am i too dirty am i too flirty do i like what you like i could be wholesome i could be loathsome i guess a little bit shy why do not you like me why do not you like me without making me try i tried to be like grace kelly mm but all her looks were too sad ah so i tried a little freddie mm gone identity mad i could be brown i could be blue i could be violet sky i could be hurtful i could be purple i could be anything you like be green got to be mean be everything more why do not you like me why do not you like me why do not you walk out the door getting angry does not solve anything how can i help it how can i help it how can i help what you think hello my baby hello my baby putting my life on the brink why do not you like me why do not you like me why do not you like yourself should i bend over should i look older just to be put on your shelf i tried to be like grace kelly mm but all her looks were too sad ah so i tried a little freddie mm gone identity mad i could be brown i could be blue i could be violet sky i could be hurtful i could be purple i could be anything you like be green got to be mean be everything more why do not you like me why do not you like me walk out the door say what you want to satisfy yourself but you only want what everybody else says you should want you want i could be brown i could be blue i could be violet sky i could be hurtful i could be purple i could be anything you like be green got to be mean be everything more why do not you like me why do not you like me walk out the door i could be brown i could be blue i could be violet sky i could be hurtful i could be purple i could be anything you like be green got to be mean be everything more why do not you like me why do not you like me walk out the door humphrey leaving ka ching,female,,"""queasy smile"", ""flirty"", ""wholesome"", ""loathsome"", ""shy"", ""hello my baby"", ""hello my baby""",The lyrics suggest a female,,,"LYRICS: 
+i want to talk to you the last time we talked mr smith you reduced me to tears i promise you it will not happen again do i attract you do i repulse you with my queasy smile am i too dirty am i too flirty do i like what you like i could be wholesome i could be loathsome i guess a little bit shy why do not you like me why do not you like me without making me try i tried to be like grace kelly mm but all her looks were too sad ah so i tried a little freddie mm gone identity mad i could be brown i could be blue i could be violet sky i could be hurtful i could be purple i could be anything you like be green got to be mean be everything more why do not you like me why do not you like me why do not you walk out the door getting angry does not solve anything how can i help it how can i help it how can i help what you think hello my baby hello my baby putting my life on the brink why do not you like me why do not you like me why do not you like yourself should i bend over should i look older just to be put on your shelf i tried to be like grace kelly mm but all her looks were too sad ah so i tried a little freddie mm gone identity mad i could be brown i could be blue i could be violet sky i could be hurtful i could be purple i could be anything you like be green got to be mean be everything more why do not you like me why do not you like me walk out the door say what you want to satisfy yourself but you only want what everybody else says you should want you want i could be brown i could be blue i could be violet sky i could be hurtful i could be purple i could be anything you like be green got to be mean be everything more why do not you like me why do not you like me walk out the door i could be brown i could be blue i could be violet sky i could be hurtful i could be purple i could be anything you like be green got to be mean be everything more why do not you like me why do not you like me walk out the door humphrey leaving ka ching
+
+GENDER: female
+GENDER_KEYWORDS: ""queasy smile"", ""flirty"", ""wholesome"", ""loathsome"", ""shy"", ""hello my baby"", ""hello my baby""
+GENDER_REASONING: The lyrics suggest a female"
+2714,You're My Baby,Robin Thicke,Male,North America,spotify,my baby ooh baby my sweet sweet child my only love like a baby jumping up and down ooh like a baby i cannot put you down here when you cry pacify you here in my arms you are safe and warm part of me and part of you living proof of my dream come true here in my walls i will protect you tell you straight up re educate you in love you can trust me you can be all you want in front of me you can pout you can smile you do not have to be perfect cause you are perfect the way that you are my lullaby sing to you my sweet kiss goodnight your nightlight your blanket you do not have to be afraid of the monsters in your closet sing to you sing to you my lullaby my sweet kiss goodnight sing to you,male,North America,"""my baby"", ""my sweet sweet child"", ""my only love"", ""my sweet kiss goodnight"", ""my lullaby""","The use of possessive pronouns such as ""my"" and the affectionate terms like ""sweet sweet child"" and ""sweet kiss goodnight"" suggest a paternal or parental tone, which is often associated with male writers. Additionally, the lyrics contain a nurturing and protective theme, which is a common trope in male-written lullabies and songs about parenting.","""nightlight"", ""blanket"", ""monsters in your closet"", ""straight up"", ""re educate""","The use of the word ""nightlight"" and ""blanket"" suggests a familiar, homey environment, which is common in Western cultures, particularly in North America. The phrase ""straight up"" and the idea of ""re educating"" someone also point towards a North American influence, as these phrases are commonly used in American English.","LYRICS: my baby ooh baby my sweet sweet child my only love like a baby jumping up and down ooh like a baby i cannot put you down here when you cry pacify you here in my arms you are safe and warm part of me and part of you living proof of my dream come true here in my walls i will protect you tell you straight up re educate you in love you can trust me you can be all you want in front of me you can pout you can smile you do not have to be perfect cause you are perfect the way that you are my lullaby sing to you my sweet kiss goodnight your nightlight your blanket you do not have to be afraid of the monsters in your closet sing to you sing to you my lullaby my sweet kiss goodnight sing to you
+
+GENDER: male
+GENDER_KEYWORDS: ""my baby"", ""my sweet sweet child"", ""my only love"", ""my sweet kiss goodnight"", ""my lullaby""
+GENDER_REASONING: The use of possessive pronouns such as ""my"" and the affectionate terms like ""sweet sweet child"" and ""sweet kiss goodnight"" suggest a paternal or parental tone, which is often associated with male writers. Additionally, the lyrics contain a nurturing and protective theme, which is a common trope in male-written lullabies and songs about parenting.
+
+CONTINENT: North America
+CONTINENT_KEYWORDS: ""nightlight"", ""blanket"", ""monsters in your closet"", ""straight up"", ""re educate""
+CONTINENT_REASONING: The use of the word ""nightlight"" and ""blanket"" suggests a familiar, homey environment, which is common in Western cultures, particularly in North America. The phrase ""straight up"" and the idea of ""re educating"" someone also point towards a North American influence, as these phrases are commonly used in American English."
+2715,What Have You Done For Me Lately,Janet Jackson,Female,North America,spotify,up girl he stood me up again again mmhmm well what is up with this guy do you really like him that much yes honey i love him he is fine he does a lot of nice things for me i know he used to do nice stuff for you but what has he done for you lately used to be a time when you would pamper me used to brag about it all the time your friends seem to think that you are so peachy keen but my friends say neglect is on your mind right what have you done for me lately ooh ooh ooh yeah what have you done for me lately ooh ooh ooh yeah used to go to dinner almost every night dancing til i thought lose my breath now it seems your dancing feet are always on my couch good thing i cook or else we would starve to death that a shame what have you done for me lately ooh ooh ooh yeah what have you done for me lately ooh ooh ooh yeah i never ask for more than i deserve you know it is the truth you seem to think you are god s gift to this earth telling you no way you ought to be thankful for the little things but little things are all you seem to give always putting off what we can do today soap opera says you have got one life to live right who is wrong what have you done for me lately ooh ooh ooh yeah what have you done for me lately ooh ooh ooh yeah what have you done for me lately ooh ooh ooh yeah what have you done for me lately ooh ooh ooh yeah get with it what have you done for me lately ooh ooh ooh yeah what have you done for me lately ooh ooh ooh yeah what have you done for me lately ooh ooh ooh yeah what have you done for me lately ooh ooh ooh yeah what have you done for me lately ooh ooh ooh yeah what have you done for me lately,female,,"'girl', 'honey','me', 'pamper','my friends', 'you','me'","I predicted the writer is female because of the use of feminine pronouns such as 'girl','me', 'honey', and the focus on relationships and emotional dynamics typical of female perspectives in songwriting. The writer also expresses a strong sense of self-worth and sets boundaries, which is often characteristic of female",,,"LYRICS: 
+up girl he stood me up again again mmhmm well what is up with this guy do you really like him that much yes honey i love him he is fine he does a lot of nice things for me i know he used to do nice stuff for you but what has he done for you lately used to be a time when you would pamper me used to brag about it all the time your friends seem to think that you are so peachy keen but my friends say neglect is on your mind right what have you done for me lately ooh ooh ooh yeah what have you done for me lately ooh ooh ooh yeah used to go to dinner almost every night dancing til i thought lose my breath now it seems your dancing feet are always on my couch good thing i cook or else we would starve to death that a shame what have you done for me lately ooh ooh ooh yeah what have you done for me lately ooh ooh ooh yeah i never ask for more than i deserve you know it is the truth you seem to think you are god s gift to this earth telling you no way you ought to be thankful for the little things but little things are all you seem to give always putting off what we can do today soap opera says you have got one life to live right who is wrong what have you done for me lately ooh ooh ooh yeah what have you done for me lately ooh ooh ooh yeah what have you done for me lately ooh ooh ooh yeah what have you done for me lately ooh ooh ooh yeah get with it what have you done for me lately ooh ooh ooh yeah what have you done for me lately ooh ooh ooh yeah what have you done for me lately ooh ooh ooh yeah what have you done for me lately ooh ooh ooh yeah what have you done for me lately ooh ooh ooh yeah what have you done for me lately
+
+GENDER: female
+GENDER_KEYWORDS: 'girl', 'honey','me', 'pamper','my friends', 'you','me'
+GENDER_REASONING: I predicted the writer is female because of the use of feminine pronouns such as 'girl','me', 'honey', and the focus on relationships and emotional dynamics typical of female perspectives in songwriting. The writer also expresses a strong sense of self-worth and sets boundaries, which is often characteristic of female"
+2716,NEGOCIANDO POR TIEMPO (prod. SHIGANT-G),Ysy A,Male,Latin America,spotify,"Negotiating for time without being able to sleep
+Papers with banal phrases
+Again I bit my dramas in their bubble
+Without wanting to leave
+Without trying to leave
+They're not going to do it for me
+Okay yeah eh eh eh
+They're not going to do it for me
+More fame, more drama
+They're going to raise my tired face and my desire for a beat
+Okay yeah eh eh eh
+Give me more until I die
+Break the rules, babe, I'm not going to follow them
+How long can the subtle take?
+They say it's late and they can't kill at an unfair price
+None understand what it's worth
+Ay ay ah
+Counting dreams that she knows
+If they want money, money I got it
+Calling me, she's going to be happy
+And having breakfast with mortals
+And now I have a bomb and a plan
+Prepared to make us fly
+Yes, a bomb and a plan
+Sex at a family meeting
+All new and I spend it again
+The light of the lock
+Spying behind
+And if those chairs talk about what they feel
+They're going to talk about you and me
+It's evident, there's more evidence today than confidants
+Pure, uncut
+She has a switch to fly my mind
+And I want to try it
+Even though all that bad energy tries
+I know they're not going to succeed
+We both know we're different
+But I make it noticeable
+Negotiating for time without being able to sleep
+Papers with banal phrases
+Again I bit my dramas in their bubble
+Without wanting to leave
+Without trying to leave
+They're not going to do it for me
+Okay yeah eh eh eh
+They're not going to do it for me
+More fame, more drama
+They're going to raise my tired face and my desire for a beat
+Okay yeah eh eh eh
+Give me more until I die
+Break the rules, babe, I'm not going to follow them
+Spending more on getting to know each other
+I wanted her to see what I learned
+Looking for an alternative plan
+I lost understanding myself more
+And now that I left with the key in my pocket
+To her, who's going to open it
+Even if she says no
+With her face in her photos
+I know very well why she comes back
+Because she wants a bomb and a plan
+Prepared to make us fly
+Yes, a bomb and a plan
+She wants sex at a family meeting
+She wants, just like me, a place
+Where her energy can isolate
+She just wants to be able to get away
+From the constant sin of the capital
+Negotiating for time without being able to sleep
+Papers with banal phrases
+Again I bit my dramas in their bubble
+Without wanting to leave
+Without trying to leave
+They're not going to do it for me
+Okay yeah eh eh eh
+They're not going to do it for me
+They're not going to do it for me
+They're not going to do it for me
+Okay yeah eh eh eh
+They're not going to do it for me
+They're not going to do it for me
+They're not going to do it for me",,,,,,,"LYRICS: 
+Negotiating for time without being able to sleep
+Papers with banal phrases
+Again I bit my dramas in their bubble
+Without wanting to leave
+Without trying to leave
+They're not going to do it for me
+Okay yeah eh eh eh
+They're not going to do it for me
+More fame, more drama
+They're going to raise my tired face and my desire for a beat
+Okay yeah eh eh eh
+Give me more until I die
+Break the rules, babe, I'm not going to follow them
+How long can the subtle take?
+They say it's late and they can't kill at an unfair price
+None understand what it's worth
+Ay ay ah
+Counting dreams that she knows
+If they want money, money I got it
+Calling me, she's going to be happy
+And having breakfast with mortals
+And now I have a bomb and a plan
+Prepared to make us fly
+Yes, a bomb and a plan
+Sex at a family meeting
+All new and I spend it again
+The light of the lock
+Spying behind
+And if those chairs talk about what they feel
+They're going to talk about you and me
+It's evident, there's more evidence today than confidants
+Pure, uncut
+She has a switch to fly my mind
+And I want to try it
+Even though all that bad energy tries
+I know they're not going to succeed
+We both know we're different
+But I make it noticeable
+Negotiating for time without being able to sleep
+Papers with banal phrases
+Again I bit my dramas in their bubble
+Without wanting to leave
+Without trying to leave
+They're not going to do it for me
+Okay yeah eh eh eh
+They're not going to do it for me
+More fame, more drama
+They're going to raise my tired face and my desire for a beat
+Okay yeah eh eh eh
+Give me more until I die
+Break the rules, babe, I'm not going to follow them
+Spending more on getting to know each other
+I wanted her to see what I learned
+Looking for an alternative plan
+I lost understanding myself more
+And now that I left with the key in my pocket
+To her, who's going to open it
+Even if she says no
+With her face in her photos
+I know very well why she comes back
+Because she wants a bomb and a plan
+Pre"
+2717,Temporal,Ozuna,Male,North America,spotify,"Yeah yeah yeah eh eh hi music hi flow whether you like it or not, that love is gone if you stay tonight, I will stay at the end those kisses are not the same they are not the same they are not the same every kiss with you is worth more and more no no if you give me your love I want more I want more life in the end will charge you you will see hey you will see that this story has no end woh nothing will be temporary they say there is no forever forever but there are immortal memories in my mind in my mind everything comes back to life with just closing my eyes when I close my eyes when I'm alone in nothing and I always think of you in everything we have to accept when love goes woh oh only loneliness hugs me loneliness my sister always tells the truth the truth I only ask why you're not here tell me what I did to you green the color of your eyes woh oh curly hair little body of yours I crave yeah yeah I can't wait any longer if I want your love woh oh oh I have to settle the time I don't control woh oh green the color of your eyes curly hair little body of yours I crave I can't wait any longer if I want your love hey hey I have to settle the time I don't control woh oh they say there is no forever forever but there are immortal memories in my mind in my mind everything comes back to life with just closing my eyes when I close my eyes when I'm alone in nothing and I always think of you in everything ey ey you never know how it ends when it starts and if I knew well I knew to omit the signs that I have ignored consciously brought me to my head yesterday of dreams and promises more sex for rewards look that's a hard blow for me in the scar and today I lose myself in the memory of that eternal blue sky where we were mountain and we were sea now ice crying in mourning for your apathy but I still hope for those better days and it's worth more if you give me your love I want more I want more life in the end will charge you you will see you will see that this story has no end woh nothing will be temporary they say there is no forever forever but there are immortal memories in my mind in my mind everything comes back to life with just closing my eyes when I close my eyes when I'm alone in nothing and I always think of you in everything woh oh oh oh oh woh oh woh oh oh oh oh ey crying in mourning for your apathy but I still hope for those better days woh oh oh oh oh woh oh woh oh oh oh oh ey",female,,"""my sister always tells the truth,"" ""I only ask why you're not here,"" ""tell me what I did to you,"" ""curly hair little body of yours I crave""","The use of phrases like ""my sister"" and ""my sister",,,"LYRICS: 
+Yeah yeah yeah eh eh hi music hi flow whether you like it or not, that love is gone if you stay tonight, I will stay at the end those kisses are not the same they are not the same they are not the same every kiss with you is worth more and more no no if you give me your love I want more I want more life in the end will charge you you will see hey you will see that this story has no end woh nothing will be temporary they say there is no forever forever but there are immortal memories in my mind in my mind everything comes back to life with just closing my eyes when I close my eyes when I'm alone in nothing and I always think of you in everything we have to accept when love goes woh oh only loneliness hugs me loneliness my sister always tells the truth the truth I only ask why you're not here tell me what I did to you green the color of your eyes woh oh curly hair little body of yours I crave yeah yeah I can't wait any longer if I want your love woh oh oh I have to settle the time I don't control woh oh green the color of your eyes curly hair little body of yours I crave I can't wait any longer if I want your love hey hey I have to settle the time I don't control woh oh they say there is no forever forever but there are immortal memories in my mind in my mind everything comes back to life with just closing my eyes when I close my eyes when I'm alone in nothing and I always think of you in everything ey ey you never know how it ends when it starts and if I knew well I knew to omit the signs that I have ignored consciously brought me to my head yesterday of dreams and promises more sex for rewards look that's a hard blow for me in the scar and today I lose myself in the memory of that eternal blue sky where we were mountain and we were sea now ice crying in mourning for your apathy but I still hope for those better days and it's worth more if you give me your love I want more I want more life in the end will charge you you will see you will see that this story has no end...
+
+GENDER: female
+GENDER_KEYWORDS: ""my sister always tells the truth,"" ""I only ask why you're not here,"" ""tell me what I did to you,"" ""curly hair little body of yours I crave""
+GENDER_REASONING: The use of phrases like ""my sister"" and ""my sister"
